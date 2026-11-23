@@ -7,6 +7,31 @@ sobre direito minerário.
 > As classificações são um pré-preenchimento assistido por IA e são **provisórias até a validação da pesquisadora**.
 > O painel mostra esse aviso enquanto houver classificação não validada.
 
+## Por onde começar
+
+| # | O quê | Onde |
+|---|---|---|
+| 1 | **Banco para validar**: uma linha por resposta, com trecho, página e justificativa; validação nas colunas amarelas do fim | [`data/banco_ABC_STF_mineracao.xlsx`](data/banco_ABC_STF_mineracao.xlsx) |
+| 2 | **Dicionário de dados**: significado de cada coluna e de cada pergunta | [`revisao_pesquisadora/dicionario_dados_banco_ABC.xlsx`](revisao_pesquisadora/dicionario_dados_banco_ABC.xlsx) |
+| 3 | **Pendências para revisão**: o que pede decisão da pesquisadora primeiro | [`revisao_pesquisadora/pendencias_para_a_pesquisadora.md`](revisao_pesquisadora/pendencias_para_a_pesquisadora.md) |
+| 4 | **Metodologia** para o apêndice da tese | [`METODOLOGIA.docx`](METODOLOGIA.docx) (Word) e [`METODOLOGIA.md`](METODOLOGIA.md) |
+| 5 | **Script de extração** dos PDFs | [`metodo/1_extracao/01_extrair_pdfs.py`](metodo/1_extracao/01_extrair_pdfs.py) |
+
+Depois da validação, o Excel preenchido substitui o arquivo de mesmo nome em `data/`, e o painel passa a mostrar as classificações validadas.
+
+## Organização do repositório
+
+```
+app.py                      painel (Streamlit)
+data/                       banco final e contorno dos estados para o mapa
+METODOLOGIA.md / .docx      método completo
+revisao_pesquisadora/       pendências e dicionário de dados
+metodo/
+  1_extracao/               script de extração, inventário e texto das decisões (SQLite)
+  2_codificacao/            instruções ao modelo, textos de referência, modelos e calibração
+  3_banco_e_conferencia/    dicionário, conferência automática e montagem do banco
+```
+
 ## O que o painel mostra
 - **Painel geral** (inspirado no painel de monitoramento do CNJ): mapa por localidade, detalhamento de cada decisão,
   concretização normativa por categoria, relatores, palavras-chave e a tabela de princípios por núcleo, com trecho
@@ -30,7 +55,7 @@ Para atualizar o painel depois da validação da pesquisadora, substitua o Excel
 ## Metodologia
 O método completo (extração, codificação, conferência, calibração, banco e painel) está em
 [`METODOLOGIA.md`](METODOLOGIA.md), também disponível em Word ([`METODOLOGIA.docx`](METODOLOGIA.docx)) para o apêndice da tese.
-Os scripts, o dicionário de dados e os documentos de apoio estão em `metodo/`.
+Os arquivos do método estão em `metodo/`, organizados por etapa.
 
 ## Rodar localmente
 ```bash

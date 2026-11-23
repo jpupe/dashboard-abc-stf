@@ -69,7 +69,7 @@ A divisão de tarefas é a seguinte:
 
 ## 4. Etapa 1: extração do texto
 
-O script `metodo/scripts/01_extrair_pdfs.py` faz a extração em cinco passos:
+O script `metodo/1_extracao/01_extrair_pdfs.py` faz a extração em cinco passos:
 
 1. **Extrai o texto página por página** (PyMuPDF). Para cada página guarda o número no PDF, a paginação impressa e a peça a que pertence (ementa, voto, extrato de ata etc.).
 2. **Aplica OCR** (Tesseract, português, 300 dpi) às páginas sem camada de texto legível. São 98 páginas, em quatro decisões escaneadas: ADI 2586, ADI 2656, ADI 3352 MC e RE 228800.
@@ -81,13 +81,13 @@ O script `metodo/scripts/01_extrair_pdfs.py` faz a extração em cinco passos:
 
 Nove decisões longas foram lidas a partir de texto já convertido. São elas: ADI 3356, 3357, 3470, 3937, 4785, 4786, 4787, 7332 e ADPF 109. Nelas, as páginas foram separadas pelo rodapé "Inteiro Teor do Acórdão – Página N de M", que o STF imprime em todas as páginas.
 
-O inventário das decisões (páginas, OCR, peças presentes e tamanho) está em `metodo/inventario.csv`.
+O inventário das decisões (páginas, OCR, peças presentes e tamanho) está em `metodo/1_extracao/inventario.csv`.
 
 ---
 
 ## 5. Etapa 2: dicionário de dados
 
-O questionário completo, da seção 1 à 16, foi transcrito num **catálogo de 392 perguntas**, gerado pelos scripts `02_dicionario.py` e `03_dicionario_xlsx.py`. Para cada pergunta, o catálogo registra:
+O questionário completo, da seção 1 à 16, foi transcrito num **catálogo de 392 perguntas**, gerado pelos scripts `02_dicionario.py` e `03_dicionario_xlsx.py` (em `metodo/3_banco_e_conferencia/`). Para cada pergunta, o catálogo registra:
 
 - código;
 - seção e grupo;
@@ -120,7 +120,7 @@ O questionário completo, da seção 1 à 16, foi transcrito num **catálogo de 
 
 **Campos que acompanham cada classificação.** O questionário pede evidência textual, localização e autoria, justificativa, categoria alternativa e grau de segurança. Esses campos são registrados em colunas próprias da linha da classificação. A coluna "Campos absorvidos" do catálogo indica onde cada campo do instrumento foi registrado.
 
-O dicionário (`metodo/dicionario_dados_banco_ABC.xlsx`) reúne as abas Leia-me, Colunas do banco, Catálogo de perguntas, Regras 7.4 e Marcadores. O catálogo também está disponível em formato de dados (`metodo/dicionario_campos.json`) e em texto (`metodo/catalogo_perguntas.txt`).
+O dicionário (`metodo/3_banco_e_conferencia/dicionario_dados_banco_ABC.xlsx`, com cópia em `revisao_pesquisadora/`) reúne as abas Leia-me, Colunas do banco, Catálogo de perguntas, Regras 7.4 e Marcadores. O catálogo também está disponível em formato de dados (`metodo/3_banco_e_conferencia/dicionario_campos.json`) e em texto (`metodo/2_codificacao/catalogo_perguntas.txt`).
 
 ---
 
@@ -133,7 +133,7 @@ O dicionário (`metodo/dicionario_dados_banco_ABC.xlsx`) reúne as abas Leia-me,
 | Modelo | **Claude Opus 5.5**, identificador `claude-opus-5-5`, desenvolvido pela Anthropic |
 | Período de uso | 20 a 23 de novembro de 2026 |
 | Forma de uso | Sessões de trabalho com acesso ao texto extraído, sem chamadas automatizadas a partir de scripts |
-| Instruções | Prompt do projeto, prompt metodológico da pesquisadora, capítulo 6, questionário v5.0 e catálogo de perguntas (consolidados em `metodo/BRIEFING_CODIFICACAO.md`) |
+| Instruções | Prompt do projeto, prompt metodológico da pesquisadora, capítulo 6, questionário v5.0 e catálogo de perguntas (consolidados em `metodo/2_codificacao/BRIEFING_CODIFICACAO.md`) |
 
 Cada decisão foi lida **integralmente** a partir do banco SQLite. As decisões longas foram lidas em partes (voto a voto) e passaram depois por uma consolidação final do mapa de núcleos, da maioria quanto ao fundamento e das sínteses.
 
@@ -196,7 +196,7 @@ Quando o próprio instrumento determina "Não aplicável", o script que monta o 
 
 ## 7. Etapa 4: conferência automática
 
-Os scripts `conferencia.py` e `04_gerar_banco.py` verificam cada resposta em quatro pontos:
+Os scripts `conferencia.py` e `04_gerar_banco.py` (em `metodo/3_banco_e_conferencia/`) verificam cada resposta em quatro pontos:
 
 1. **Trechos.** Todo trecho citado deve existir no texto extraído, na página indicada. A comparação tolera hifenização, quebras de linha, aspas e reticências.
 2. **Domínio.** Toda categoria usada deve estar entre as permitidas para a pergunta, ou ser um marcador do instrumento.
@@ -225,7 +225,7 @@ A ADI 3355 foi preenchida manualmente pela pesquisadora e codificada também pel
 
 O número é otimista, porque o gabarito já era conhecido. A medida real de qualidade é a validação da pesquisadora nas demais decisões.
 
-As divergências da calibração deram origem aos critérios uniformes da seção 6.3. O detalhamento por seção está em `metodo/calibracao_ADI_3355.md`.
+As divergências da calibração deram origem aos critérios uniformes da seção 6.3. O detalhamento por seção está em `metodo/2_codificacao/calibracao_ADI_3355.md`.
 
 ---
 
@@ -323,7 +323,7 @@ A pesquisadora revisa cada resposta nas colunas amarelas do banco: **Concorda?**
 Para orientar a revisão, há dois apoios:
 
 - **Registros de controle da seção 15**, localizáveis no banco pelo filtro da coluna "Grupo da pergunta".
-- **Documento `metodo/pendencias_para_a_pesquisadora.md`.** Reúne:
+- **Documento `revisao_pesquisadora/pendencias_para_a_pesquisadora.md`.** Reúne:
   - as escolhas de uniformização entre decisões julgadas em conjunto;
   - os casos-chave do interesse nacional;
   - as questões de método que o instrumento não resolve.
@@ -343,7 +343,7 @@ Para orientar a revisão, há dois apoios:
 
 ## 13. Reprodutibilidade
 
-Os scripts do método estão em `metodo/scripts/`. A ordem de execução é:
+Os arquivos do método estão organizados por etapa: `metodo/1_extracao/` (extração), `metodo/2_codificacao/` (codificação) e `metodo/3_banco_e_conferencia/` (banco e conferência). A ordem de execução dos scripts é:
 
 ```bash
 python 01_extrair_pdfs.py PASTA_PDFS --textos PASTA_TXT --db decisoes.sqlite
@@ -365,4 +365,4 @@ python 06_verificar_outputs.py banco_ABC_STF_mineracao.xlsx dicionario_dados_ban
 | Streamlit | 1.67 |
 | Plotly | 7.1 |
 
-O banco SQLite com o texto extraído das 27 decisões está em `metodo/decisoes.sqlite`, e três registros de codificação usados como modelo (ADI 3355, ADI 6650 e ADI 7273 MC-Ref) estão em `metodo/codificacao/`. Os PDFs das decisões e os demais registros por decisão ficam no projeto da pesquisadora. O painel depende apenas do Excel final.
+O banco SQLite com o texto extraído das 27 decisões está em `metodo/1_extracao/decisoes.sqlite`, e três registros de codificação usados como modelo (ADI 3355, ADI 6650 e ADI 7273 MC-Ref) estão em `metodo/2_codificacao/codificacao/`. Os PDFs das decisões e os demais registros por decisão ficam no projeto da pesquisadora. O painel depende apenas do Excel final.

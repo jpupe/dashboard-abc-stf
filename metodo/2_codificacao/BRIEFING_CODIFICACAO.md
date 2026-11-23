@@ -1,10 +1,9 @@
 # Briefing para a codificação das decisões (agentes auxiliares)
 
-> **Nota sobre os caminhos (repositório).** Este briefing foi escrito para a pasta de trabalho do projeto. Neste repositório, os arquivos citados estão em `metodo/`:
-> - textos de referência: `metodo/regras_capitulo6_limpo.txt`, `metodo/questionario_v5.txt`, `metodo/prompt_suzy_v5.md`, `metodo/catalogo_perguntas.txt`;
-> - modelos de codificação: `metodo/codificacao/`;
-> - `decisoes.sqlite` e `dicionario_campos.json`: `metodo/`;
-> - scripts, inclusive `dump_texto.py`: `metodo/scripts/`.
+> **Nota sobre os caminhos (repositório).** Este briefing foi escrito para a pasta de trabalho do projeto. Neste repositório, os arquivos citados estão organizados assim:
+> - textos de referência (`regras_capitulo6_limpo.txt`, `questionario_v5.txt`, `prompt_suzy_v5.md`, `catalogo_perguntas.txt`), `dump_texto.py` e os modelos de `codificacao/`: `metodo/2_codificacao/`;
+> - `decisoes.sqlite`: `metodo/1_extracao/`;
+> - `dicionario_campos.json` e `04_gerar_banco.py`: `metodo/3_banco_e_conferencia/`.
 >
 > As pastas `leitura/` e `tmp/` eram pastas de trabalho geradas durante a codificação.
 

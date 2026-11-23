@@ -51,7 +51,7 @@ As tensões abaixo ficaram registradas em `CTRL_pendencias_metodologicas` e nos 
 - Densificação institucional em decisão cautelar ou em reafirmação de jurisprudência.
 - Plano das razões de votos convergentes quando a ata remete só ao voto do Relator.
 - "Indícios" de função simbólica combinados com "Fundamento determinante", na ADI 7332, em que o art. 225 serve para validar uma política de fomento ao carvão.
-- Ajustes da calibração da ADI 3355 (ver `calibracao_ADI_3355.md`): maioria quanto ao fundamento "parcial" × "identificável", e "Não aplicável — justificar" no contrafactual sem critério.
+- Ajustes da calibração da ADI 3355 (ver `metodo/2_codificacao/calibracao_ADI_3355.md`): maioria quanto ao fundamento "parcial" × "identificável", e "Não aplicável — justificar" no contrafactual sem critério.
 
 ## 5. Limites documentais
 
