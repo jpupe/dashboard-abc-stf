@@ -1,0 +1,28 @@
+﻿id_decisao;arquivo;origem;total_paginas;paginas_ocr;total_palavras;faixa;processar_em_partes;tem_ementa;tem_acordao;tem_relatorio;tem_voto;tem_extrato_ata;completo;observacao
+ACO_399_AgR;ACO 399 AgR.pdf;pdf;19;0;5036;curta (≤30 p.);0;1;1;1;1;1;1;"Marcada como 'decisão não selecionada' (agravo interno) na planilha de seleção, mas está na pasta do projeto; incluída no escopo por estar entre os 27 PDFs. Confirmar com a pesquisadora."
+ADI_2586;ADI 2586.pdf;pdf;38;38;7968;média (31–70 p.);0;1;1;1;1;1;1;
+ADI_2656;ADI 2656.pdf;pdf;19;19;4934;curta (≤30 p.);0;1;1;1;1;1;1;
+ADI_3352_MC;ADI 3352 MC.pdf;pdf;24;24;4235;curta (≤30 p.);0;1;1;1;1;1;1;
+ADI_3355;ADI 3355.pdf;pdf;43;0;13101;média (31–70 p.);0;1;1;1;1;1;1;
+ADI_3356;ADI 3.356.txt;texto_projeto;120;0;36624;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADI_3357;ADI 3357.txt;texto_projeto;148;0;47377;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADI_3470;ADI 3470.txt;texto_projeto;201;0;68077;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADI_3937;ADI 3937.txt;texto_projeto;284;0;96578;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADI_4031;ADI 4031.pdf;pdf;68;0;22154;média (31–70 p.);0;1;1;1;1;1;1;
+ADI_4606;ADI 4.606.pdf;pdf;42;0;13276;média (31–70 p.);0;1;1;1;1;1;1;
+ADI_4785;ADI 4.785.txt;texto_projeto;141;0;45002;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADI_4786;ADI 4786.txt;texto_projeto;192;0;59348;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADI_4787;ADI 4787.txt;texto_projeto;196;0;61284;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADI_4846;ADI 4.846.pdf;pdf;43;0;11943;média (31–70 p.);0;1;1;1;1;1;1;
+ADI_5077;ADI 5.077.pdf;pdf;21;0;6479;curta (≤30 p.);0;1;1;1;1;1;1;
+ADI_6233;ADI 6.233.pdf;pdf;52;0;17025;média (31–70 p.);0;1;1;1;1;1;1;Dependência: aplica integralmente a ADI 4606.
+ADI_6650;ADI 6650.pdf;pdf;30;0;9365;curta (≤30 p.);0;1;1;1;1;1;1;
+ADI_6672;ADI 6672.pdf;pdf;42;0;12778;média (31–70 p.);0;1;1;1;1;1;1;
+ADI_7273;ADI 7.273.pdf;pdf;43;0;13676;média (31–70 p.);0;1;1;1;1;1;1;Dependência: mérito da ADI 7273 MC-Ref (cautelar também no conjunto).
+ADI_7273_MC-Ref;ADI 7.273 MC-Ref.pdf;pdf;28;0;8811;curta (≤30 p.);0;1;1;1;1;1;1;Dependência: cautelar da ADI 7273 (mérito também no conjunto).
+ADI_7332;ADI 7.332.txt;texto_projeto;125;0;35891;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADPF_109;ADPF 109.txt;texto_projeto;123;0;38626;longa (>70 p.);1;1;1;1;1;1;1;Fonte provisória: texto convertido do projeto (PDF original não disponível).
+ADPF_935_MC-Ref;ADPF 935 MC-Ref.pdf;pdf;59;0;16860;média (31–70 p.);0;1;1;1;1;1;1;"Decisão sobre cavidades naturais subterrâneas. Excluída na triagem automática da planilha de seleção ('sem nexo com atividade minerária'); incluída por decisão da pesquisadora na revisão."
+RE_1427694_RG;RE 1427694 RG.pdf;pdf;15;0;4492;curta (≤30 p.);0;1;1;1;1;0;0;
+RE_1431558;RE 1431558.pdf;pdf;21;0;6280;curta (≤30 p.);0;1;1;1;1;1;1;
+RE_228800;RE 228800.pdf;pdf;17;17;4266;curta (≤30 p.);0;1;1;1;1;1;1;

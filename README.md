@@ -27,6 +27,10 @@ Filtros na barra lateral: classe, período, princípio e decisão.
 
 Para atualizar o painel depois da validação da pesquisadora, substitua o Excel em `data/` (mesmo nome) e faça commit.
 
+## Metodologia
+O método completo (extração, codificação, conferência, calibração, banco e painel) está em
+[`METODOLOGIA.md`](METODOLOGIA.md). Os scripts e documentos de apoio estão em `metodo/`.
+
 ## Rodar localmente
 ```bash
 pip install -r requirements.txt
