@@ -29,7 +29,8 @@ Para atualizar o painel depois da validação da pesquisadora, substitua o Excel
 
 ## Metodologia
 O método completo (extração, codificação, conferência, calibração, banco e painel) está em
-[`METODOLOGIA.md`](METODOLOGIA.md). Os scripts e documentos de apoio estão em `metodo/`.
+[`METODOLOGIA.md`](METODOLOGIA.md), também disponível em Word ([`METODOLOGIA.docx`](METODOLOGIA.docx)) para o apêndice da tese.
+Os scripts, o dicionário de dados e os documentos de apoio estão em `metodo/`.
 
 ## Rodar localmente
 ```bash

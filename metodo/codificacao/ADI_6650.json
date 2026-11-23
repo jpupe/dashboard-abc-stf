@@ -1,0 +1,730 @@
+{
+ "id_decisao": "ADI_6650",
+ "rotulo": "ADI 6650",
+ "data_final": "27/04/2021",
+ "decisao": {
+  "CTRL_inconsistencias": {
+   "r": "(i) O voto da Relatora menciona os '§§ 2º, 3º e 4º do art. 29' como objeto, enquanto ementa, relatório, dispositivo e ata tratam dos §§ 1º, 2º e 3º (p. 9). (ii) A lei alteradora aparece como 'Lei n. 17.893/2020' (ementa, relatório) e 'Lei n. 17.983/2020' (citação da inicial e voto, pp. 5 e 23). (iii) O voto atribui as normas gerais ambientais ao 'inc. VI do art. 22' ao resumir a inicial (p. 10), quando o fundamento é o art. 24, VI. (iv) 'Lei nacional n. 6.938/1991' e 'Lei n. 6.938/1' (pp. 15–16), por Lei 6.938/1981. (v) O voto resume a alegação como ofensa ao 'princípio da precaução' (p. 10), mas decide pelo princípio da prevenção. Registrados sem correção; vale o dispositivo e a ata (§§ 1º a 3º).",
+   "t": [
+    [
+     "objetiva-se a declaração de inconstitucionalidade dos §§ 2º, 3º e 4º do art. 29 da Lei n. 14.675",
+     9
+    ],
+    [
+     "Lei estadual n. 14.675/2009, alterada pela Lei n. 17.983/2020",
+     23
+    ],
+    [
+     "normas gerais sobre proteção do meio ambiente (inc. VI do art. 22 da Constituição da República)",
+     10
+    ]
+   ]
+  },
+  "CTRL_dependencias": "Nenhuma dependência com decisões do conjunto. Remete às ADIs 5.475, 1.086, 3.035, 2.903 e 5.996 (fora do conjunto).",
+  "CTRL_inclusao": "Decisão do piloto; recodificada com o questionário completo.",
+  "CTRL_pendencias_metodologicas": "Distinção entre Densificação no caso/corrente e Densificação institucional com critério potencialmente replicável quando o critério está na ementa e foi adotado por unanimidade (revisão dirigida obrigatória, seção 15).",
+  "CTRL_partes_processadas": "Leitura integral em uma parte (pp. 1–30).",
+  "CTRL_versao_codificacao": "v1 — pré-preenchimento por Claude Opus 5.5 (claude-opus-5-5) — 22/11/2026, com ajustes da calibração A1–A5",
+  "S01_classe_numero": "ADI 6.650 (Santa Catarina)",
+  "S01_orgao_julgador": "Tribunal Pleno",
+  "S01_relator_originario": "Min. Cármen Lúcia",
+  "S01_redator_acordao": {
+   "r": "Não aplicável",
+   "j": "Acórdão redigido pela Relatora."
+  },
+  "S01_datas_julgamento": {
+   "r": "Sessão virtual de 16/04 a 26/04/2021; data final 27/04/2021.",
+   "t": [
+    [
+     "Plenário, Sessão Virtual de 16.4.2021 a 26.4.2021",
+     30
+    ]
+   ]
+  },
+  "S01_tipo_decisao": {
+   "r": "acórdão ; mérito",
+   "j": "Pedido cautelar convertido em julgamento definitivo de mérito (rito do art. 10 da Lei 9.868/99).",
+   "t": [
+    [
+     "com o conhecimento e julgamento definitivo de mérito da ação direta",
+     9
+    ]
+   ]
+  },
+  "S01_objeto": "§§ 1º, 2º e 3º do art. 29 da Lei 14.675/2009 de Santa Catarina (Código Estadual do Meio Ambiente), alterada pela Lei 17.893/2020: dispensa de licenciamento ambiental para lavra a céu aberto de cascalheiras sem finalidade comercial e licenciamento simplificado para lavra de mineral típico para construção civil.",
+  "S01_resultado_proclamado": {
+   "r": "Procedência, por unanimidade, para declarar inconstitucionais os §§ 1º, 2º e 3º do art. 29 da Lei 14.675/2009/SC, nos termos do voto da Relatora.",
+   "t": [
+    [
+     "O Tribunal, por unanimidade, julgou procedente o pedido formulado na ação direta para declarar inconstitucionais os §§ 1º, 2º e 3º do art. 29 da Lei n. 14.675/2009 de Santa Catarina, nos termos do voto da Relatora",
+     30
+    ]
+   ]
+  },
+  "S01_meio_julgamento": "virtual",
+  "S01_pecas_examinadas": "Ementa e acórdão (pp. 1–2); relatório (pp. 3–8); voto da Relatora (pp. 9–29); extrato de ata (p. 30).",
+  "S01_acesso_inteiro_teor": "Inteiro teor em PDF com camada de texto (30 páginas); voto único escrito.",
+  "S01_acompanhamento_processual": {
+   "r": "Informação não disponível ou não localizada",
+   "j": "Sem dados de acompanhamento no PDF; sem consulta externa."
+  },
+  "S01_formacao_maioria_resultado": "Unanimidade dos 11 ministros da composição, nos termos do voto da Relatora.",
+  "S01_quorum": {
+   "r": "Composição plena (11 ministros) e decisão unânime; quórum atendido. O documento não discute quórum.",
+   "t": [
+    [
+     "Composição: Ministros Luiz Fux (Presidente), Marco Aurélio, Gilmar Mendes",
+     30
+    ]
+   ]
+  },
+  "S01_fundamentacao": "não fragmentada",
+  "S01_suficiencia_documental": "sim",
+  "S02_conexao_substantiva": {
+   "r": "Conexão direta: as normas impugnadas regulam o licenciamento ambiental de atividades de lavra a céu aberto (cascalheiras e mineral para construção civil), e o julgamento decide os limites da regulação estadual dessa atividade minerária.",
+   "t": [
+    [
+     "DISPENSA E SIMPLIFICAÇÃO DO LICENCIAMENTO AMBIENTAL PARA ATIVIDADES DE LAVRA A CÉU ABERTO",
+     1
+    ]
+   ]
+  },
+  "S02_objeto_minerario": "extração ; licenciamento",
+  "S02_centralidade": "central",
+  "S02_conteudo_decisao": "substantivo",
+  "S02_caso_limitrofe": {
+   "r": "não",
+   "j": "A atividade regulada é lavra mineral."
+  },
+  "S02_justificativa_inclusao": "Incluída: o objeto é o regime de licenciamento de atividades de mineração.",
+  "S02_limites_material": "Sem documentação sobre cumprimento posterior.",
+  "S03_resultado_proclamado": "Procedência; inconstitucionalidade dos §§ 1º a 3º do art. 29 da Lei 14.675/2009/SC.",
+  "S03_fundamentos_relator": {
+   "r": "(1) Inconstitucionalidade formal: o Estado subverteu as normas gerais nacionais de licenciamento (Lei 6.938/81, LC 140/2011, Resolução Conama 237/97), que exigem licenciamento prévio da lavra a céu aberto, classificada como de alto potencial poluidor; a simplificação só é admitida para atividades de pequeno impacto (art. 24, VI e § 1º). (2) Inconstitucionalidade material: procedimento estadual menos eficiente afronta o caput do art. 225 por inobservar o princípio da prevenção.",
+   "t": [
+    [
+     "Ao estabelecer dispensa e simplificação de licenciamento ambiental às atividades de mineração, o legislador catarinense esvaziou o procedimento de licenciamento ambiental estabelecido na legislação nacional, em ofensa ao art. 24",
+     27
+    ],
+    [
+     "afronta o caput do art. 225 da Constituição da República por inobservar o princípio da prevenção",
+     27
+    ]
+   ],
+   "a": "Voto da Relatora, Min. Cármen Lúcia"
+  },
+  "S03_correntes": "Corrente única (unanimidade).",
+  "S03_adesoes_ressalvas": "Adesão unânime ao voto da Relatora, sem ressalvas registradas.",
+  "S03_razoes_convergentes": "Ambos os fundamentos (formal e material) integram o voto adotado por unanimidade e a ementa.",
+  "S03_maioria_fundamento": {
+   "r": "identificável",
+   "t": [
+    [
+     "nos termos do voto da Relatora",
+     30
+    ]
+   ],
+   "s": "alta"
+  },
+  "S03_maioria_res_dif_fund": {
+   "r": "não",
+   "j": "Voto único adotado por unanimidade."
+  },
+  "S03_efeito_quorum": "Sem efeito: unanimidade.",
+  "S03_separar_nucleos": {
+   "r": "não",
+   "j": "A conversão do rito em julgamento de mérito não tem controvérsia nem consequência própria relevante para o recorte (ver mapa, núcleo 2)."
+  },
+  "S03_repercussao_fragmentacao": "Não há fragmentação.",
+  "S04_total_nucleos": "2",
+  "S04_total_elegiveis": "1",
+  "S13_resolveu": "Sim. Declarou inconstitucionais as normas estaduais de dispensa e simplificação do licenciamento.",
+  "S13_concretizados": "Meio ambiente ecologicamente equilibrado: concretização institucional (critério da prevenção no licenciamento da mineração).",
+  "S13_ausentes_contextuais": "Interesse nacional e função social da propriedade ausentes.",
+  "S13_funcao_simbolica_nivel": "Não. Meio ambiente: sem indicador suficiente; demais: não aplicável.",
+  "S13_categorias_estruturantes": "Competência concorrente e normas gerais (art. 24, VI); licenciamento ambiental como instrumento preventivo; princípio da prevenção e dever de proteção (art. 225).",
+  "S13_assimetria": "Sim: o meio ambiente estrutura a decisão; interesse nacional e função social não aparecem, embora a atividade seja minerária.",
+  "S13_ratio_reconstruida": "Sim, integralmente.",
+  "S13_limites": "Sem informação sobre implementação.",
+  "S13_pendencias": "Controle S15 nº 1 (densificação institucional × no caso). Resultados provisórios até a validação.",
+  "S13_pontos_comparaveis": "Comparável a decisões sobre flexibilização estadual do licenciamento da mineração (ADI 6672, ADI 4031, ADI 7332, se for o caso) e à ADI 5.475 citada.",
+  "S14_resolucao_operativa": "todos os núcleos",
+  "S14_IN_concretizacao": "Não mobilizado",
+  "S14_IN_funcao_simbolica": "Não aplicável",
+  "S14_FSP_concretizacao": "Não mobilizado",
+  "S14_FSP_funcao_simbolica": "Não aplicável",
+  "S14_MA_concretizacao": "Concretização institucional com critério potencialmente replicável",
+  "S14_MA_funcao_simbolica": "Sem indicador suficiente",
+  "S14_padrao_decisorio": "Concretização do meio ambiente por critério preventivo aplicado ao licenciamento da mineração, combinado com o vício formal de competência.",
+  "S14_planos_incorporacao": "Critério na ementa (item 4) e no voto adotado por unanimidade.",
+  "S14_resultado_contraria_hipotese": "Resultado concretizador quanto ao meio ambiente, sem indício de função simbólica.",
+  "S14_conclusao_limitada": "Na ADI 6650, o meio ambiente foi concretizado institucionalmente; os demais princípios não foram mobilizados.",
+  "S14_controles_pendentes": "Controle S15 nº 1: se a pesquisadora entender que falta incorporação institucional, a concretização passa a 'Concretização no caso'.",
+  "S16_01_nucleos_autonomos": "sim",
+  "S16_02_resultado_fundamentos": "sim",
+  "S16_03_trechos_localizacao": "sim",
+  "S16_04_autoria_posicao": "sim",
+  "S16_05_densificacao_contribuicao": "sim",
+  "S16_06_fsd_requisitos": "não aplicável",
+  "S16_07_alternativas_testadas": "sim",
+  "S16_08_ausencia_simbolismo": "sim",
+  "S16_09_implementacao_separada": "sim",
+  "S16_10_seguranca_baixa_revisao": "não aplicável",
+  "S16_11_nucleos_aninhados": "não",
+  "S16_12_respostas_multiplas": "sim",
+  "S16_13_marcadores_regras": "sim",
+  "S16_14_combinacoes_compativeis": "sim",
+  "S16_15_fs_regras": "sim",
+  "S16_16_alertas_sem_alteracao": "sim",
+  "S16_17_categoria_alterada_ratificada": {
+   "r": "não",
+   "j": "Pré-preenchimento ainda não ratificado."
+  },
+  "S16_18_sensibilidade": {
+   "r": "não",
+   "j": "Controle S15 nº 1 indicado para análise de sensibilidade pela pesquisadora."
+  },
+  "S16_19_dens_institucional_incorporacao": {
+   "r": "sim",
+   "j": "Critério na ementa e no voto adotado por unanimidade."
+  },
+  "S16_20_generica_relevante_obstaculo": "não aplicável",
+  "S16_21_fd_sem_densificacao": "não aplicável",
+  "S16_22_lacuna_controle_proprio": "sim",
+  "S16_23_fsd_fora_ordinaria": "não aplicável",
+  "S16_24_fsd_entrada_mobilizacao": "não aplicável",
+  "S16_25_fsd_funcao_mecanismo": "não aplicável",
+  "S16_26_fsd_mesmo_plano": "não aplicável",
+  "S16_27_fs_categorias_distintas": "sim",
+  "S16_28_alternativas_capacidade": "sim",
+  "S16_pendencias_conferencia_manual": "(i) Densificação institucional × no caso (controle S15 nº 1); (ii) atribuição compartilhada × própria do critério da prevenção.",
+  "S16_notas": "Auditoria do pré-preenchimento."
+ },
+ "mapa": [
+  {
+   "S04_N_questao": "Validade dos §§ 1º a 3º do art. 29 da Lei 14.675/2009/SC, que dispensam ou simplificam o licenciamento ambiental da lavra a céu aberto.",
+   "S04_N_regra_comando": "O Estado não pode dispensar nem simplificar, fora das hipóteses das normas gerais, o licenciamento ambiental da mineração; procedimento estadual menos eficiente viola o art. 225 (prevenção).",
+   "S04_N_consequencia": "Declaração de inconstitucionalidade dos §§ 1º a 3º.",
+   "S04_N_elegivel": {
+    "r": "sim",
+    "j": "Problema, fundamentação, resposta e consequência próprios; nexo minerário direto.",
+    "t": [
+     [
+      "Ação direta de inconstitucionalidade julgada procedente para declarar inconstitucionais os §§ 1º, 2º e 3º do art. 29 da Lei n. 14.675/2009",
+      2
+     ]
+    ]
+   }
+  },
+  {
+   "S04_N_questao": "Conversão do rito do art. 10 da Lei 9.868/99 em julgamento definitivo de mérito.",
+   "S04_N_regra_comando": "Instruído o feito, cabe julgar o mérito diretamente.",
+   "S04_N_consequencia": "Julgamento de mérito sem apreciação da cautelar.",
+   "S04_N_elegivel": {
+    "r": "não",
+    "j": "Sem controvérsia entre as partes e sem conexão substantiva com o direito minerário; questão processual sem consequência própria relevante para o recorte.",
+    "t": [
+     [
+      "é de cumprir o imperativo constitucional de conferir-se celeridade processual",
+      9
+     ]
+    ]
+   }
+  }
+ ],
+ "nucleos": [
+  {
+   "n": 1,
+   "titulo": "Dispensa e simplificação do licenciamento ambiental da lavra a céu aberto (SC)",
+   "respostas": {
+    "S05_numero_titulo": "Núcleo 1 — Licenciamento ambiental da lavra a céu aberto em Santa Catarina",
+    "S05_questao_juridica": "Pode o Estado dispensar de licenciamento a lavra de cascalheiras sem finalidade comercial e simplificar o licenciamento da lavra de mineral para construção civil?",
+    "S05_pretensao": {
+     "r": "O PGR alega invasão da competência da União para normas gerais (art. 24, VI e § 1º) e violação do dever de proteção ambiental (art. 225, caput e § 1º, IV); Governador e Assembleia defendem as peculiaridades regionais e o baixo impacto.",
+     "t": [
+      [
+       "os §§ 1º a 3º do art. 29 da Lei 14.675/2009 incorrem em ofensa ao art. 24, VI, §§ 1º e 2º, da CF",
+       4
+      ]
+     ]
+    },
+    "S05_posicao_institucional": "Identificável: voto da Relatora adotado por unanimidade e ementa.",
+    "S05_regra_central": {
+     "r": "A lavra a céu aberto, de alto potencial poluidor, exige prévio licenciamento segundo as normas gerais; o Estado não pode dispensá-lo nem simplificá-lo fora da hipótese de pequeno impacto, e procedimento menos eficiente viola o art. 225 (prevenção).",
+     "t": [
+      [
+       "Não é lícito ao legislador estadual nem, no caso, ao legislador catarinense, portanto, dissentir da sistemática definida em normas gerais pela União",
+       27
+      ]
+     ]
+    },
+    "S05_consequencia": "Inconstitucionalidade dos §§ 1º a 3º do art. 29 da Lei 14.675/2009/SC.",
+    "S05_autonomia_problema": "Validade da dispensa e da simplificação do licenciamento da lavra.",
+    "S05_autonomia_fundamentacao": "Normas gerais de licenciamento (art. 24, VI) e princípio da prevenção (art. 225).",
+    "S05_autonomia_resposta": "Inconstitucionalidade formal e material.",
+    "S05_autonomia_consequencia": "Supressão dos §§ 1º a 3º.",
+    "S05_nao_fundir": "Os vícios formal e material sustentam a mesma resposta e consequência sobre o mesmo objeto; separá-los criaria núcleos sem consequência própria. Os três parágrafos foram decididos em conjunto, sem fundamentação distinta.",
+    "S05_macrocampos": "controle ambiental/proteção territorial ; organização federativa/controle institucional",
+    "S05_marcadores_auxiliares": {
+     "r": "base técnico-probatória ; infraestrutura/logística",
+     "j": "Classificação legal do potencial poluidor da lavra (Anexo VIII da Lei 6.938/81, p. 24); o uso do cascalho em estradas rurais aparece nas informações estaduais (pp. 6–7)."
+    },
+    "S05_fundamentacao_nucleo": "não fragmentada",
+    "S06_resolucao_operativa": {
+     "r": "Com resolução operativa",
+     "t": [
+      [
+       "julgou procedente o pedido formulado na ação direta para declarar inconstitucionais os §§ 1º, 2º e 3º do art. 29",
+       30
+      ]
+     ],
+     "a": "Decisão institucional (extrato de ata, unanimidade)",
+     "j": "Declaração de inconstitucionalidade com efeito determinado: as atividades voltam a sujeitar-se ao licenciamento das normas gerais.",
+     "s": "alta"
+    },
+    "S06_posicao_juridica": "Extinta a dispensa e a simplificação do licenciamento; restabelecida a exigência de licenciamento prévio nos termos das normas gerais.",
+    "S06_comando": "Declaração de inconstitucionalidade dos §§ 1º a 3º do art. 29 da Lei 14.675/2009/SC.",
+    "S06_destinatario": "Estado de Santa Catarina, órgão ambiental licenciador e responsáveis pelas atividades de lavra; efeito geral.",
+    "S06_prazo_modulacao": {
+     "r": "Não aplicável",
+     "j": "Sem modulação de efeitos."
+    },
+    "S06_mecanismo": {
+     "r": "Informação não disponível ou não localizada",
+     "j": "O acórdão não define mecanismo específico de cumprimento."
+    },
+    "S06_implementacao_documentada": "não",
+    "S06_info_adicional": "Nenhuma.",
+    "IN_B_posicao": {
+     "r": "Ausente",
+     "j": "Não há menção ao art. 176, § 1º, nem à cláusula 'interesse nacional' (exame integral, pp. 1–30). A referência a 'interesses da segurança nacional' está na transcrição do art. 2º da Lei 6.938/81 (p. 29) e não equivale ao princípio.",
+     "t": [
+      [
+       "aos interesses da segurança nacional e à proteção da dignidade da vida humana",
+       29
+      ]
+     ],
+     "alt": "Presença documental não judicial — rejeitada: nenhuma peça suscita o princípio.",
+     "s": "alta"
+    },
+    "IN_B_plano_voto": "Decisão institucional e voto da Relatora.",
+    "IN_B_forma_mobilizacao": "não mobilizado",
+    "IN_B_posicao_voto_decisao": "Não aplicável",
+    "IN_B_conexao": "Não aplicável",
+    "IN_B_mobilizacao_obstaculo": "Sem mobilização nem obstáculo.",
+    "IN_C_densificacao": "Não aplicável",
+    "IN_AT_criterio_plano": "Interesse nacional. Critério: não identificado. Plano: decisão institucional.",
+    "IN_AT_situacao_criterio": "critério não demonstrado após exame suficiente",
+    "IN_AT_atribuicao": {
+     "r": "Atribuição de critério não demonstrada",
+     "j": "Princípio ausente (7.4)."
+    },
+    "IN_AT_outras_fontes": "Art. 24, VI; art. 225; Lei 6.938/81; LC 140/2011; Resolução Conama 237/97; Lei 7.805/89.",
+    "IN_AT_pergunta_auxiliar": "Nenhum papel.",
+    "IN_AT_efeito_teste": "Sem alerta.",
+    "IN_CN_concretizacao": {
+     "r": "Não mobilizado",
+     "s": "alta"
+    },
+    "IN_CN_plano_evidencias": "Decisão institucional; exame integral.",
+    "IN_CN_combinacao": "Ausente; Não aplicável; Atribuição de critério não demonstrada.",
+    "IN_CN_revisao_dirigida": "não",
+    "IN_CN_info_adicional": "Nenhuma.",
+    "FSP_B_posicao": {
+     "r": "Ausente",
+     "j": "Sem menção ao art. 170, III, ou a conteúdo equivalente.",
+     "s": "alta"
+    },
+    "FSP_B_plano_voto": "Decisão institucional e voto da Relatora.",
+    "FSP_B_forma_mobilizacao": "não mobilizado",
+    "FSP_B_posicao_voto_decisao": "Não aplicável",
+    "FSP_B_conexao": "Não aplicável",
+    "FSP_B_mobilizacao_obstaculo": "Sem mobilização nem obstáculo.",
+    "FSP_C_densificacao": "Não aplicável",
+    "FSP_AT_criterio_plano": "Função social da propriedade. Critério: não identificado. Plano: decisão institucional.",
+    "FSP_AT_situacao_criterio": "critério não demonstrado após exame suficiente",
+    "FSP_AT_atribuicao": {
+     "r": "Atribuição de critério não demonstrada",
+     "j": "Princípio ausente (7.4)."
+    },
+    "FSP_AT_outras_fontes": "Idem interesse nacional.",
+    "FSP_AT_pergunta_auxiliar": "Nenhum papel.",
+    "FSP_AT_efeito_teste": "Sem alerta.",
+    "FSP_CN_concretizacao": {
+     "r": "Não mobilizado",
+     "s": "alta"
+    },
+    "FSP_CN_plano_evidencias": "Decisão institucional; exame integral.",
+    "FSP_CN_combinacao": "Ausente; Não aplicável; Atribuição de critério não demonstrada.",
+    "FSP_CN_revisao_dirigida": "não",
+    "FSP_CN_info_adicional": "Nenhuma.",
+    "MA_B_posicao": {
+     "r": "Fundamento determinante",
+     "t": [
+      [
+       "O estabelecimento de procedimento de licenciamento ambiental estadual que torne menos eficiente a proteção do meio ambiente equilibrado quanto às atividades de mineração afronta o caput do art. 225 da Constituição da República por inobservar o princípio da prevenção",
+       27
+      ],
+      [
+       "não apenas se invadiu competência da União para editar normas gerais sobre proteção do meio ambiente, como se infringiu o dever de proteção imposto pelo art. 225 da Constituição da República",
+       29
+      ]
+     ],
+     "a": "Voto da Relatora, adotado por unanimidade; ementa, item 4 (decisão institucional)",
+     "j": "O art. 225 é fundamento autônomo da inconstitucionalidade material e consta da ementa; participa determinantemente da conclusão, ao lado do vício formal.",
+     "alt": "Relevante sem participação determinante — rejeitada: o voto declara violação direta do art. 225 como razão própria de invalidade."
+    },
+    "MA_B_plano_voto": "Decisão institucional (voto da Relatora adotado por unanimidade; ementa).",
+    "MA_B_forma_mobilizacao": {
+     "r": "literal",
+     "j": "Citação expressa do caput e dos §§ 1º, IV, e 2º do art. 225 (critério A1).",
+     "t": [
+      [
+       "afronta o caput do art. 225 da Constituição da República",
+       2
+      ]
+     ]
+    },
+    "MA_B_posicao_voto_decisao": "Voto condutor e único, adotado por unanimidade.",
+    "MA_B_conexao": {
+     "r": "Conecta a classificação da lavra a céu aberto como atividade de alto potencial poluidor (fato normativo) ao dever de prevenção, para concluir pela invalidade do procedimento menos protetivo.",
+     "t": [
+      [
+       "classificam-se como atividade de alto potencial poluidor/degradador as atividades de extração e tratamento de minerais",
+       24
+      ]
+     ]
+    },
+    "MA_B_mobilizacao_obstaculo": "Mobilização pela julgadora, em voz própria, além da alegação do PGR. Sem obstáculo.",
+    "MA_C_densificacao": {
+     "r": "Densificação institucional com critério potencialmente replicável",
+     "t": [
+      [
+       "O estabelecimento de procedimento de licenciamento ambiental estadual que torne menos eficiente a proteção do meio ambiente equilibrado quanto às atividades de mineração afronta o caput do art. 225",
+       27
+      ],
+      [
+       "A exigência de licença ambiental para empreendimentos e atividades potencialmente danosos ao meio ambiente deve ser vista como medida tipicamente preventiva",
+       29
+      ]
+     ],
+     "a": "Ementa (item 4) e voto da Relatora, adotado por unanimidade",
+     "j": "Extrai-se do art. 225 um critério de controle: procedimento estadual de licenciamento que reduza a eficiência da proteção em relação ao padrão nacional, para atividades minerárias, viola o dever de prevenção. O critério está na ementa e foi adotado por unanimidade (incorporação institucional) e é formulado em termos gerais.",
+     "alt": "Densificação no caso/corrente — considerada porque o critério se apoia no padrão das normas gerais e no caso concreto; rejeitada porque a ementa o enuncia em termos gerais e a adesão é unânime. Revisão dirigida obrigatória (seção 15)."
+    },
+    "MA_C_plano_segmento": "Decisão institucional; voto, item 11 (pp. 27–29), e ementa, item 4.",
+    "MA_C_conteudo_extraido": "Do princípio Meio ambiente ecologicamente equilibrado, a decisão extraiu o critério segundo o qual o licenciamento ambiental prévio é medida preventiva inerente ao dever de proteção, e o procedimento estadual que torne menos eficiente a proteção ambiental das atividades de mineração, em relação ao padrão das normas gerais, é inconstitucional por violar o princípio da prevenção.",
+    "MA_C_criterio": "Dever de prevenção: vedação de procedimento estadual de licenciamento menos protetivo que o padrão nacional para atividades minerárias (piso protetivo mínimo).",
+    "MA_C_alcance": {
+     "r": "casos semelhantes ; cumprimento/controle",
+     "j": "Aplicável a outras leis estaduais de flexibilização do licenciamento (como na ADI 5.475 citada) e como parâmetro de controle do procedimento."
+    },
+    "MA_C_incorporacao": {
+     "r": "Critério enunciado na ementa (item 4) e adotado por unanimidade 'nos termos do voto da Relatora'.",
+     "t": [
+      [
+       "por unanimidade, em julgar procedente o pedido",
+       2
+      ]
+     ]
+    },
+    "MA_AT_criterio_plano": "Meio ambiente ecologicamente equilibrado. Critério: vedação de licenciamento estadual menos eficiente para a mineração (prevenção). Plano: decisão institucional; ementa, item 4; voto, item 11.",
+    "MA_AT_situacao_criterio": "critério identificado",
+    "MA_AT_atribuicao": {
+     "r": "Contribuição compartilhada",
+     "t": [
+      [
+       "Além de intrínseco ao dever de proteção do meio ambiente equilibrado imposto ao Poder Público e à sociedade pela Constituição da República, o dever de prevenção contra danos ambientais tem previsão em tratados internacionais",
+       28
+      ]
+     ],
+     "j": "O critério combina o art. 225 (dever de prevenção) com o padrão das normas gerais nacionais (Lei 6.938/81, Resolução Conama 237/97), que fornecem a medida do 'menos eficiente'.",
+     "alt": "Contribuição própria ao critério — rejeitada porque o termo de comparação vem das normas gerais infraconstitucionais."
+    },
+    "MA_AT_outras_fontes": "Art. 24, VI e § 1º; Lei 6.938/81 (art. 10 e Anexo VIII); LC 140/2011; Resoluções Conama 1/86 e 237/97; Lei 7.805/89; Convenção de Basileia; Convenção sobre Diversidade Biológica.",
+    "MA_AT_contribuicao_especifica": "O art. 225 fornece o dever de prevenção que converte a redução do controle em violação material, independentemente do vício de competência.",
+    "MA_AT_explicavel_outra_norma": {
+     "r": "não",
+     "j": "O art. 24 explica o vício formal, mas não a inconstitucionalidade material por proteção menos eficiente."
+    },
+    "MA_AT_contrafactual": {
+     "r": "não",
+     "j": "Sem o art. 225, restaria apenas o vício formal de competência; o critério da prevenção perderia seu fundamento constitucional."
+    },
+    "MA_AT_pergunta_auxiliar": "Fundamento autônomo da invalidade material e parâmetro de leitura das normas gerais como piso protetivo.",
+    "MA_AT_efeito_teste": "Sem alerta; compatível com Concretização institucional (FD + densificação institucional + contribuição compartilhada).",
+    "MA_CN_concretizacao": {
+     "r": "Concretização institucional com critério potencialmente replicável",
+     "j": "Fundamento determinante + Densificação institucional + Contribuição compartilhada, com incorporação na ementa e adesão unânime (7.4).",
+     "s": "média"
+    },
+    "MA_CN_plano_evidencias": "Decisão institucional: ementa, item 4 (pp. 1–2); voto, item 11 (pp. 27–29); ata (p. 30).",
+    "MA_CN_combinacao": "Fundamento determinante; Densificação institucional com critério potencialmente replicável; Contribuição compartilhada.",
+    "MA_CN_revisao_dirigida": {
+     "r": "sim",
+     "j": "Distinção entre densificação institucional e densificação no caso (revisão dirigida obrigatória, seção 15)."
+    },
+    "MA_CN_info_adicional": "Nenhuma.",
+    "IN_FS_nucleo_segmento": "Núcleo 1; nenhum segmento mobiliza o princípio.",
+    "IN_FS_plano": "decisão institucional",
+    "IN_FS_entrada": {
+     "r": "não",
+     "j": "Sem mobilização judicial nem expectativa constitucional documentada."
+    },
+    "IN_FS_funcao_simbolica": {
+     "r": "Não aplicável",
+     "j": "Entrada negativa (8.1).",
+     "s": "alta"
+    },
+    "FSP_FS_nucleo_segmento": "Núcleo 1; nenhum segmento mobiliza o princípio.",
+    "FSP_FS_plano": "decisão institucional",
+    "FSP_FS_entrada": {
+     "r": "não",
+     "j": "Sem mobilização judicial nem expectativa constitucional documentada."
+    },
+    "FSP_FS_funcao_simbolica": {
+     "r": "Não aplicável",
+     "j": "Entrada negativa (8.1).",
+     "s": "alta"
+    },
+    "MA_FS_nucleo_segmento": {
+     "r": "Núcleo 1; voto, item 11, e ementa, item 4.",
+     "t": [
+      [
+       "DESOBEDIÊNCIA AO PRINCÍPIO DA PREVENÇÃO E DO DEVER DE PROTEÇÃO DO MEIO AMBIENTE ECOLOGICAMENTE EQUILIBRADO",
+       1
+      ]
+     ]
+    },
+    "MA_FS_plano": "decisão institucional",
+    "MA_FS_entrada": {
+     "r": "sim",
+     "j": "Mobilização judicial documentada e determinante."
+    },
+    "MA_FS_posicao_associada": "Fundamento determinante",
+    "MA_FS_configuracao": {
+     "r": "não aplicável",
+     "j": "Não se cogita Função simbólica demonstrada; os indicadores foram examinados sem resultado positivo."
+    },
+    "MA_FS_proeminencia": {
+     "r": "alta",
+     "t": [
+      [
+       "DESOBEDIÊNCIA AO PRINCÍPIO DA PREVENÇÃO E DO DEVER DE PROTEÇÃO DO MEIO AMBIENTE ECOLOGICAMENTE EQUILIBRADO (ART. 225 DA CONSTITUIÇÃO DA REPÚBLICA)",
+       1
+      ]
+     ],
+     "j": "Presente na ementa e em extensa parte do voto."
+    },
+    "MA_FS_baixa_contribuicao": {
+     "r": "não demonstrada",
+     "j": "O princípio produz critério e consequência (invalidade material)."
+    },
+    "MA_FS_discrepancia": {
+     "r": "ausente",
+     "j": "Compromisso de proteção coerente com o comando de invalidação."
+    },
+    "MA_FS_compromisso_criterio": "Compromisso: dever de proteção e prevenção; critério: vedação de licenciamento menos eficiente; comando: inconstitucionalidade dos §§ 1º a 3º; matéria não enfrentada: nenhuma relevante.",
+    "MA_FS_funcao_identificavel": {
+     "r": "Não aplicável",
+     "j": "Nenhuma função simbólica identificável; ausência registrada expressamente."
+    },
+    "MA_FS_politico_ideologica": {
+     "r": "não demonstrada",
+     "j": "Sem evidência."
+    },
+    "MA_FS_funcao_simbolica": {
+     "r": "Sem indicador suficiente",
+     "j": "Módulo aplicável e examinado; nenhum indicador positivo (proeminência alta acompanhada de contribuição normativa efetiva).",
+     "s": "alta"
+    },
+    "MA_FS_limite_atribuicao": "Plano institucional; sem atribuição de função simbólica.",
+    "MA_ALT_voto_segmento": "Voto da Relatora, item 11, e ementa, item 4.",
+    "MA_ALT_plano_aspecto": "Eventual mecanismo discursivo do meio ambiente no plano institucional.",
+    "MA_ALT_H01_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H01_evidencia_contraria": "O princípio é fundamento autônomo (p. 27).",
+    "MA_ALT_H01_decisao": {
+     "r": "rejeitada",
+     "j": "O princípio é pertinente e determinante. Sem efeito: não há baixa contribuição a explicar."
+    },
+    "MA_ALT_H02_evidencia_favoravel": "As normas gerais de licenciamento bastariam para o vício formal.",
+    "MA_ALT_H02_evidencia_contraria": "A decisão declara também a violação material do art. 225.",
+    "MA_ALT_H02_decisao": {
+     "r": "rejeitada",
+     "j": "A regra específica não esgota o fundamento. Sem efeito."
+    },
+    "MA_ALT_H03_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H03_evidencia_contraria": "Julgamento de mérito sem obstáculo.",
+    "MA_ALT_H03_decisao": {
+     "r": "rejeitada",
+     "j": "Sem obstáculo. Sem efeito."
+    },
+    "MA_ALT_H04_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H04_evidencia_contraria": "Unanimidade.",
+    "MA_ALT_H04_decisao": {
+     "r": "rejeitada",
+     "j": "Há maioria. Sem efeito."
+    },
+    "MA_ALT_H05_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H05_evidencia_contraria": "Julgamento definitivo de mérito.",
+    "MA_ALT_H05_decisao": {
+     "r": "rejeitada",
+     "t": [
+      [
+       "com o conhecimento e julgamento definitivo de mérito da ação direta",
+       9
+      ]
+     ],
+     "j": "Não é decisão provisória. Sem efeito."
+    },
+    "MA_ALT_H06_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H06_evidencia_contraria": "Decisão em abstrato, sem dependência de prova.",
+    "MA_ALT_H06_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H07_evidencia_favoravel": "O critério é compartilhado com as normas gerais.",
+    "MA_ALT_H07_evidencia_contraria": "A contribuição do art. 225 é específica (invalidade material).",
+    "MA_ALT_H07_decisao": {
+     "r": "aceita parcialmente",
+     "j": "Explica a classificação 'compartilhada' da atribuição; não indica função simbólica. Sem efeito sobre a função simbólica."
+    },
+    "MA_ALT_H08_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H08_evidencia_contraria": "Voto adotado por unanimidade.",
+    "MA_ALT_H08_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H09_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H09_evidencia_contraria": "Inteiro teor completo.",
+    "MA_ALT_H09_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H10_evidencia_favoravel": "Citações doutrinárias extensas.",
+    "MA_ALT_H10_evidencia_contraria": "O critério tem consequência operativa.",
+    "MA_ALT_H10_decisao": {
+     "r": "rejeitada",
+     "j": "A retórica acompanha critério efetivo. Sem efeito."
+    },
+    "IN_AUS_aplicavel": {
+     "r": "sim",
+     "j": "Posição Ausente."
+    },
+    "IN_AUS_pertinencia": {
+     "r": "remotamente",
+     "j": "Atividade minerária em discussão, mas a controvérsia é de licenciamento ambiental, não de aproveitamento dos recursos minerais pela União (art. 176, § 1º)."
+    },
+    "IN_AUS_suscitacao": {
+     "r": "nenhuma peça",
+     "j": "Inicial, informações e AGU (pp. 3–8) não suscitam o art. 176."
+    },
+    "IN_AUS_enfrentamento": "não enfrentado",
+    "IN_AUS_silenciamento": {
+     "r": "não",
+     "j": "Falta pertinência clara e suscitação."
+    },
+    "FSP_AUS_aplicavel": {
+     "r": "sim",
+     "j": "Posição Ausente."
+    },
+    "FSP_AUS_pertinencia": {
+     "r": "remotamente",
+     "j": "As informações estaduais mencionam pequenos produtores rurais, sem relação jurídica com a função social da propriedade."
+    },
+    "FSP_AUS_suscitacao": "nenhuma peça",
+    "FSP_AUS_enfrentamento": "não enfrentado",
+    "FSP_AUS_silenciamento": {
+     "r": "não",
+     "j": "Falta pertinência clara e suscitação."
+    },
+    "MA_AUS_aplicavel": {
+     "r": "não — Não aplicável",
+     "j": "Princípio mobilizado como fundamento determinante."
+    },
+    "S10_interpretacao_qualitativa": "A ausência do interesse nacional e da função social acompanha a moldura ambiental-federativa da controvérsia; não há suscitação nem silenciamento.",
+    "S11_cumprimento": {
+     "r": "não",
+     "j": "Sem informação no acórdão."
+    },
+    "S11_providencia": "Declaração de inconstitucionalidade; nenhuma providência posterior documentada.",
+    "S11_destinatario": "Estado de Santa Catarina e órgão ambiental licenciador.",
+    "S11_prazo": "Não aplicável",
+    "S11_mecanismo_controle": {
+     "r": "Informação não disponível ou não localizada"
+    },
+    "S11_fonte": "decisão",
+    "S11_limite_inferencial": "A invalidação não comprova a retomada efetiva do licenciamento pelas atividades afetadas.",
+    "S12_identificacao": "Núcleo 1 — Licenciamento ambiental da lavra a céu aberto em Santa Catarina",
+    "S12_planos_registros": "Meio ambiente: plano institucional (ementa e voto unânime). Interesse nacional e função social: ausentes no plano institucional.",
+    "S12_categorias_prevalentes": "Normas gerais de licenciamento; prevenção; dever de proteção.",
+    "S12_assimetria": "Meio ambiente concretizado; demais princípios ausentes.",
+    "S12_interpretacao": "Decisão concretizadora do meio ambiente na regulação da mineração, com critério de piso protetivo.",
+    "S12_insuficiencia": "Nenhuma relevante.",
+    "S12_revisao_dirigida": {
+     "r": "sim",
+     "j": "MA_C_densificacao e MA_CN_concretizacao (institucional × no caso); MA_AT_atribuicao (compartilhada × própria)."
+    },
+    "S12_alerta_pseudorreplicacao": "Decisões posteriores sobre licenciamento estadual que reproduzam este critério devem ser lidas como aplicação de precedente.",
+    "S13_IN_observacao": "Ausente.",
+    "S13_FSP_observacao": "Ausente.",
+    "S13_MA_observacao": "Concretização institucional pelo critério da prevenção."
+   },
+   "categorias": [
+    {
+     "S10_CAT_principio": "Interesse nacional ; Função social da propriedade",
+     "S10_CAT_categoria": "Competência concorrente e normas gerais ambientais",
+     "S10_CAT_fonte": {
+      "r": "CF, art. 24, VI e § 1º; Lei 6.938/81; LC 140/2011; Resolução Conama 237/97",
+      "t": [
+       [
+        "É formalmente inconstitucional a subversão da lógica sistêmica das normas gerais nacionais",
+        1
+       ]
+      ]
+     },
+     "S10_CAT_posicao": "Fundamento determinante (decisão institucional)",
+     "S10_CAT_funcao": "Delimita a competência estadual suplementar no licenciamento",
+     "S10_CAT_consequencia": "Inconstitucionalidade formal",
+     "S10_CAT_relacao": "concorrência"
+    },
+    {
+     "S10_CAT_principio": "Interesse nacional ; Função social da propriedade",
+     "S10_CAT_categoria": "Licenciamento ambiental como instrumento preventivo",
+     "S10_CAT_fonte": "Lei 6.938/81, art. 10; Resolução Conama 237/97",
+     "S10_CAT_posicao": "Fundamento determinante",
+     "S10_CAT_funcao": "Define o controle prévio da atividade minerária",
+     "S10_CAT_consequencia": "Exigência de licenciamento prévio",
+     "S10_CAT_relacao": "adjacente"
+    }
+   ],
+   "controles": [
+    {
+     "S15_K_referencia": "ADI 6650, núcleo 1, Meio ambiente, decisão institucional, MA_C_densificacao / MA_CN_concretizacao",
+     "S15_K_categoria_antes": "Densificação institucional com critério potencialmente replicável; Concretização institucional com critério potencialmente replicável",
+     "S15_K_marcador": {
+      "r": "Registro provisório pendente de conferência",
+      "j": "MA_C_densificacao e MA_CN_concretizacao"
+     },
+     "S15_K_alternativa": "Densificação no caso/corrente; Concretização no caso",
+     "S15_K_razao": "Revisão dirigida obrigatória: distinção entre densificação no caso e institucional. A incorporação apoia-se na ementa e na unanimidade.",
+     "S15_K_natureza": {
+      "r": "outra: revisão dirigida obrigatória",
+      "t": [
+       [
+        "que torne menos eficiente a proteção do meio ambiente equilibrado quanto às atividades de mineração",
+        2
+       ]
+      ],
+      "a": "Ementa e voto da Relatora (unanimidade)",
+      "s": "média"
+     },
+     "S15_K_impacto": "possível",
+     "S15_K_sensibilidade": "sim – cenário: com densificação no caso, a concretização passa a 'Concretização no caso'; a síntese continua concretizadora.",
+     "S15_K_decisao_final": "manter categoria",
+     "S15_K_status": "pendente"
+    }
+   ]
+  }
+ ]
+}

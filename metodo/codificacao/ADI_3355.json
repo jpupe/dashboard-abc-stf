@@ -1,0 +1,976 @@
+{
+ "id_decisao": "ADI_3355",
+ "rotulo": "ADI 3355",
+ "data_final": "18/08/2020",
+ "decisao": {
+  "CTRL_inconsistencias": {
+   "r": "(i) Voto do Min. Marco Aurélio cita o 'Decreto nº 2.530/1997' como norma federal de regência, quando o decreto examinado nos demais votos é o 2.350/1997 (p. 34). (ii) O voto-vista do Min. Alexandre de Moraes atribui manifestação à 'Procuradoria-Geral da União', enquanto o relatório registra manifestação da Procuradoria-Geral da República (pp. 7 e 38). (iii) O relatório refere-se a 'ação direta de constitucionalidade' ao registrar os amici curiae (p. 7). (iv) A ementa grafa 'FIBRIO-CIMENTOS' (p. 1). Registrados sem correção do texto.",
+   "t": [
+    [
+     "Decreto nº 2.530/1997",
+     34
+    ],
+    [
+     "A Procuradoria-Geral da União (peça 17) apresentou manifestação",
+     38
+    ],
+    [
+     "foram admitidos como amici curiae na presente ação direta de constitucionalidade",
+     7
+    ]
+   ]
+  },
+  "CTRL_dependencias": {
+   "r": "Remete à ADPF 109 e às ADIs 3.406 e 3.470 (declaração incidental de inconstitucionalidade do art. 2º da Lei 9.055/95), usadas como razão adicional de improcedência no voto do Relator. A ADPF 109 e a ADI 3470 também estão no conjunto.",
+   "t": [
+    [
+     "Ante a declaração incidental de inconstitucionalidade do art. 2º da Lei 9.055/95 (ADPF 109",
+     1
+    ]
+   ]
+  },
+  "CTRL_inclusao": "Decisão do piloto e gabarito da pesquisadora; recodificada com o questionário completo.",
+  "CTRL_pendencias_metodologicas": "(1) Seção 1 'Relator(a) originário(a)': o relator originário foi o Min. Joaquim Barbosa (redistribuição); registrado o originário e o relator do acórdão. (2) Plano da mobilização do meio ambiente: o trecho está no segmento da 'outra razão' do voto do Relator, objeto de ressalva do Min. Alexandre de Moraes; o instrumento não define se a remissão da ata 'nos termos do voto do Relator' incorpora segmentos ressalvados por um dos votos convergentes (ver controle S15 do núcleo 1).",
+  "CTRL_partes_processadas": "Leitura integral em uma parte (pp. 1–43).",
+  "CTRL_versao_codificacao": "v1.1 — pré-preenchimento por Claude Opus 5.5 (claude-opus-5-5) — 22/11/2026, com ajustes da calibração A1–A5",
+  "S01_classe_numero": "ADI 3.355 (Rio de Janeiro)",
+  "S01_orgao_julgador": {
+   "r": "Tribunal Pleno",
+   "t": [
+    [
+     "PLENÁRIO AÇÃO DIRETA DE INCONSTITUCIONALIDADE 3.355",
+     1
+    ]
+   ]
+  },
+  "S01_relator_originario": {
+   "r": "Min. Joaquim Barbosa (relator originário); Min. Edson Fachin (relator do acórdão)",
+   "t": [
+    [
+     "O Ministro Joaquim Barbosa, então relator da presente ação",
+     6
+    ],
+    [
+     "RELATOR : MIN. EDSON FACHIN",
+     1
+    ]
+   ]
+  },
+  "S01_redator_acordao": {
+   "r": "Não aplicável",
+   "j": "Acórdão redigido pelo próprio Relator, vencedor."
+  },
+  "S01_datas_julgamento": {
+   "r": "Retirado de pauta em 06/08/2014; sessão virtual de 24/04 a 30/04/2020 (votos de Fachin, Lewandowski e Cármen Lúcia; pedido de vista); sessão virtual de 07/08 a 17/08/2020 (conclusão). Data final: 18/08/2020.",
+   "t": [
+    [
+     "Plenário, Sessão Virtual de 7.8.2020 a 17.8.2020",
+     42
+    ],
+    [
+     "Plenário, Sessão Virtual de 24.4.2020 a 30.4.2020",
+     42
+    ]
+   ]
+  },
+  "S01_tipo_decisao": "acórdão ; mérito",
+  "S01_objeto": "Lei 4.341/2004 do Estado do Rio de Janeiro: responsabilidade das empresas de fibrocimento pelo custeio do tratamento, acompanhamento e indenização dos trabalhadores vítimas da exposição ao amianto (art. 1º) e dever de enviar relação de trabalhadores ao sindicato e ao SUS (art. 2º).",
+  "S01_resultado_proclamado": {
+   "r": "Improcedência do pedido, por maioria, nos termos do voto do Relator, vencido o Min. Marco Aurélio.",
+   "t": [
+    [
+     "O Tribunal, por maioria, julgou improcedente o pedido formulado na ação direta de inconstitucionalidade, nos termos do voto do Relator, vencido o Ministro Marco Aurélio",
+     42
+    ]
+   ]
+  },
+  "S01_meio_julgamento": {
+   "r": "virtual",
+   "t": [
+    [
+     "Plenário, Sessão Virtual de 7.8.2020 a 17.8.2020",
+     42
+    ]
+   ]
+  },
+  "S01_pecas_examinadas": "Ementa e acórdão (pp. 1–2); extratos de ata de 06/08/2014, 04/05/2020 e 18/08/2020 (pp. 3, 36, 42–43); relatório (pp. 4–7); voto do Relator, Min. Edson Fachin (pp. 8–32); voto vogal do Min. Marco Aurélio (pp. 33–35); voto-vista do Min. Alexandre de Moraes (pp. 37–41).",
+  "S01_acesso_inteiro_teor": "Inteiro teor em PDF com camada de texto (43 páginas). Não constam votos escritos dos Ministros Ricardo Lewandowski e Cármen Lúcia, nem dos demais que acompanharam o Relator.",
+  "S01_acompanhamento_processual": {
+   "r": "Informação não disponível ou não localizada",
+   "j": "O PDF do inteiro teor não traz dados de acompanhamento processual; não houve consulta externa."
+  },
+  "S01_formacao_maioria_resultado": {
+   "r": "Maioria pela improcedência, com voto vencido do Min. Marco Aurélio. Votaram com o Relator, pelo menos, Lewandowski, Cármen Lúcia e Alexandre de Moraes (com ressalva). Não participou Celso de Mello; Dias Toffoli e Roberto Barroso afirmaram suspeição.",
+   "t": [
+    [
+     "Após os votos dos Ministros Edson Fachin (Relator), Ricardo Lewandowski e Cármen Lúcia, que julgavam improcedente a ação direta",
+     42
+    ],
+    [
+     "Afirmaram suspeição os Ministros Dias Toffoli (Presidente) e Roberto Barroso",
+     42
+    ]
+   ]
+  },
+  "S01_quorum": {
+   "r": "Julgamento com 8 ministros aptos a votar (11 da composição, menos Celso de Mello, que não participou, e Dias Toffoli e Roberto Barroso, suspeitos). Resultado de improcedência por 7 votos a 1, segundo a ata. O documento não discute quórum.",
+   "t": [
+    [
+     "Não participou deste julgamento o Ministro Celso de Mello",
+     42
+    ]
+   ],
+   "j": "Contagem feita a partir da composição e das ausências registradas no extrato de ata (pp. 42–43); a ata não nomeia todos os votos convergentes."
+  },
+  "S01_fundamentacao": {
+   "r": "parcialmente fragmentada",
+   "j": "Há convergência quanto à competência concorrente suplementar (art. 24, XII) e à improcedência, mas o voto-vista de Alexandre de Moraes faz ressalva expressa à razão adicional do Relator (inconstitucionalidade do art. 2º da Lei 9.055/95 e proteção insuficiente); faltam os votos escritos de Lewandowski e Cármen Lúcia.",
+   "t": [
+    [
+     "Faço, porém, necessária ressalva ao voto do eminente Ministro Relator quanto ao alcance da declaração incidental de inconstitucionalidade do art. 2º da Lei 9.055/95",
+     40
+    ]
+   ]
+  },
+  "S01_suficiencia_documental": {
+   "r": "parcial",
+   "j": "Resultado e fundamento principal reconstruíveis; adesão dos votos não escritos ao segmento da razão adicional não é verificável."
+  },
+  "S02_conexao_substantiva": {
+   "r": "Há conexão substantiva: a lei impugnada impõe obrigações às empresas que manipulam ou utilizam amianto/asbesto (substância mineral) em razão dos danos da exposição à fibra, e o julgamento examina a validade dessa regulação estadual frente ao regime federal de extração, industrialização e comercialização do amianto (Lei 9.055/95). A mineração aparece pela substância mineral e pela cadeia produtiva (fibrocimento), não por título minerário ou lavra.",
+   "t": [
+    [
+     "com a finalidade de disciplinar a extração, industrialização, utilização, comercialização e transporte do abesto/amianto",
+     12
+    ],
+    [
+     "um aparente conflito entre o direito econômico à exploração de um determinado mineral e o direito à saúde e ao meio ambiente ecologicamente equilibrado",
+     25
+    ]
+   ]
+  },
+  "S02_objeto_minerario": "recurso/substância mineral ; cadeia produtiva ; impacto direto",
+  "S02_centralidade": {
+   "r": "secundária",
+   "j": "A controvérsia central é federativa (competência concorrente em saúde do trabalhador); a substância mineral e seu regime federal são o pressuposto da controvérsia, sem exame de título, lavra ou regime minerário propriamente dito.",
+   "alt": "contextual — rejeitada porque o regime federal do amianto (Lei 9.055/95, Decreto 2.350/97) é parâmetro direto do exame de competência (pp. 12–20)."
+  },
+  "S02_conteudo_decisao": "substantivo",
+  "S02_caso_limitrofe": {
+   "r": "sim",
+   "j": "A pertinência ao recorte minerário depende de tratar a regulação do uso industrial de substância mineral (amianto em fibrocimento) como objeto minerário; não há atividade de extração em discussão."
+  },
+  "S02_justificativa_inclusao": "Incluída: há nexo entre a substância mineral (amianto crisotila) e a controvérsia sobre os limites da regulação estadual de seus efeitos sobre trabalhadores, com remissão ao regime federal de extração e uso do mineral.",
+  "S02_limites_material": "Ausência de votos escritos dos ministros que apenas acompanharam o Relator; ausência de documentação sobre cumprimento posterior.",
+  "S03_resultado_proclamado": {
+   "r": "Improcedência da ADI e manutenção da Lei 4.341/2004/RJ.",
+   "t": [
+    [
+     "julgar improcedente o pedido formulado na ação direta de inconstitucionalidade, nos termos do voto do Relator, vencido o Ministro Marco Aurélio",
+     2
+    ]
+   ]
+  },
+  "S03_fundamentos_relator": {
+   "r": "(1) Competência concorrente para proteção e defesa da saúde (art. 24, XII): o legislador federal não afastou de forma clara (clear statement rule) a competência suplementar estadual (presumption against preemption), havendo lacuna na Lei 9.055/95 e no Decreto 2.350/97 quanto ao custeio do tratamento dos trabalhadores. (2) Compatibilidade com a Convenção 162 da OIT. (3) Ausência de violação à livre iniciativa. (4) Razão adicional: inconstitucionalidade do art. 2º da Lei 9.055/95 (ADPF 109) por proteção insuficiente do direito à saúde, que confere competência plena aos entes subnacionais.",
+   "t": [
+    [
+     "o legislador federal optou por não afastar de forma clara (clear statement rule) a presunção de que gozam os entes menores",
+     20
+    ],
+    [
+     "permite, sem dúvidas, reconhecer a improcedência da presente ação direta, por outra razão",
+     25
+    ],
+    [
+     "Por não ter garantido a efetiva proteção ao direito à saúde, a própria norma federal, na linha do que suscitou o e. Ministro Dias Toffoli, padece de inconstitucionalidade",
+     31
+    ]
+   ],
+   "a": "Voto do Relator, Min. Edson Fachin"
+  },
+  "S03_correntes": {
+   "r": "Corrente majoritária: improcedência por competência concorrente suplementar em saúde do trabalhador (Fachin, acompanhado por Lewandowski, Cármen Lúcia e Alexandre de Moraes, este com ressalva). Corrente vencida: procedência por invasão da competência da União sobre comércio de materiais perigosos e uniformidade federal (Marco Aurélio).",
+   "t": [
+    [
+     "O constituinte conferiu, à União, atribuição geral para regulamentar o comércio de materiais perigosos",
+     34
+    ],
+    [
+     "ACOMPANHO voto proferido pelo Ministro Relator para julgar IMPROCEDENTE o pedido",
+     41
+    ]
+   ]
+  },
+  "S03_adesoes_ressalvas": {
+   "r": "Lewandowski e Cármen Lúcia acompanharam o Relator (sem voto escrito). Alexandre de Moraes acompanhou quanto à competência concorrente e à livre iniciativa, mas fez ressalva expressa à razão adicional: não reconhece inconstitucionalidade por omissão nem por proteção insuficiente da Lei 9.055/95 e afirma que o art. 2º permanece constitucional. Marco Aurélio divergiu.",
+   "t": [
+    [
+     "Não me parece existir nem inconstitucionalidade por omissão, nem eventual inconstitucionalidade por proteção insuficiente no caso da Lei 9.055/95",
+     40
+    ],
+    [
+     "E atento, particularmente, que o art. 2º da referida lei permanece constitucional",
+     40
+    ]
+   ],
+   "a": "Voto-vista, Min. Alexandre de Moraes"
+  },
+  "S03_razoes_convergentes": "Convergem como razões suficientes: a competência concorrente estadual para proteção e defesa da saúde (art. 24, XII) e a legitimidade da obrigação protetiva diante da livre iniciativa. A razão adicional (inconstitucionalidade da Lei 9.055/95) não tem convergência demonstrada.",
+  "S03_maioria_fundamento": {
+   "r": "parcial",
+   "j": "Há maioria identificável quanto à competência concorrente suplementar, mas a razão adicional do Relator foi rejeitada no voto-vista de Alexandre de Moraes, e a adesão dos votos não escritos a ela não é verificável (aprendizado da calibração do piloto).",
+   "t": [
+    [
+     "Faço, porém, necessária ressalva ao voto do eminente Ministro Relator",
+     40
+    ]
+   ],
+   "s": "alta"
+  },
+  "S03_maioria_res_dif_fund": {
+   "r": "sim",
+   "j": "A maioria quanto ao resultado (improcedência) é mais ampla que a maioria quanto aos fundamentos: a razão adicional do Relator não é compartilhada por Alexandre de Moraes."
+  },
+  "S03_efeito_quorum": "O quórum não afetou o mérito nem a eficácia: a improcedência foi alcançada por ampla maioria entre os aptos a votar, com efeito próprio do controle concentrado.",
+  "S03_separar_nucleos": {
+   "r": "não",
+   "j": "Não há questão processual com consequência própria relevante: a preliminar de pertinência temática não recebeu fundamentação nem resposta majoritárias próprias (ver mapa, núcleo 3)."
+  },
+  "S03_repercussao_fragmentacao": "A fragmentação parcial impede atribuir à Corte a razão adicional (proteção insuficiente) e afeta o plano de registro do meio ambiente, mobilizado nesse segmento do voto do Relator.",
+  "S04_total_nucleos": "3",
+  "S04_total_elegiveis": "1",
+  "S13_resolveu": "Sim. O pedido foi julgado improcedente e a lei estadual foi mantida.",
+  "S13_concretizados": "Nenhum dos três princípios foi normativamente concretizado no núcleo 1.",
+  "S13_ausentes_contextuais": "Interesse nacional e função social da propriedade ausentes; meio ambiente com presença contextual/discursiva, sem densificação.",
+  "S13_funcao_simbolica_nivel": "Não. Interesse nacional e função social: não aplicável (entrada negativa). Meio ambiente: sem indicador suficiente no voto do Relator.",
+  "S13_categorias_estruturantes": "Competência concorrente e suplementar (arts. 24 e 30), proteção da saúde do trabalhador, Convenção 162 da OIT, livre iniciativa e, no segmento adicional do Relator, proteção insuficiente.",
+  "S13_assimetria": "Sim. Interesse nacional e função social da propriedade ausentes; meio ambiente aparece apenas no segmento de compatibilização do voto do Relator. A assimetria não é, por si, evidência de função simbólica.",
+  "S13_ratio_reconstruida": "Sim quanto ao resultado e à competência concorrente suplementar; parcialmente quanto à razão adicional, pela ressalva de Alexandre de Moraes e pela falta de votos escritos.",
+  "S13_limites": "Votos não escritos; ausência de informação sobre cumprimento; inferências limitadas à decisão.",
+  "S13_pendencias": "Controles S15 do núcleo 1 (plano do meio ambiente; maioria quanto ao fundamento; pertinência ao recorte minerário). Resultados provisórios até a validação.",
+  "S13_pontos_comparaveis": "Comparável às demais decisões do grupo do amianto (ADI 3356, 3357, 3470, 3937, ADPF 109): solução mediada pela competência federativa e pela saúde, com o mineral como pressuposto.",
+  "S14_resolucao_operativa": "todos os núcleos",
+  "S14_IN_concretizacao": "Não mobilizado",
+  "S14_IN_funcao_simbolica": "Não aplicável",
+  "S14_FSP_concretizacao": "Não mobilizado",
+  "S14_FSP_funcao_simbolica": "Não aplicável",
+  "S14_MA_concretizacao": "Presença contextual/discursiva",
+  "S14_MA_funcao_simbolica": "Sem indicador suficiente",
+  "S14_padrao_decisorio": "Resolução operativa por critério federativo de competência concorrente em saúde, com os princípios da pesquisa ausentes (interesse nacional, função social) ou contextuais (meio ambiente).",
+  "S14_planos_incorporacao": "O meio ambiente aparece no voto do Relator, no segmento da razão adicional, que recebeu ressalva de um voto convergente; não há incorporação institucional demonstrada de critério ambiental.",
+  "S14_resultado_contraria_hipotese": "A decisão não oferece evidência de função simbólica: a não mobilização dos princípios decorre da moldura federativa da controvérsia (alternativa 'princípio irrelevante / regra mais específica').",
+  "S14_conclusao_limitada": "Na ADI 3355, a Corte resolveu a controvérsia sem concretizar os três princípios; o meio ambiente teve presença contextual no voto do Relator.",
+  "S14_controles_pendentes": "Ver controles S15 do núcleo 1; nenhum altera o resultado substantivo, mas o controle 1 pode alterar a posição do meio ambiente (Relevante sem participação determinante × Voto não prevalecente).",
+  "S16_01_nucleos_autonomos": {
+   "r": "sim",
+   "j": "Um núcleo elegível; art. 2º e preliminar de pertinência temática sem autonomia demonstrada."
+  },
+  "S16_02_resultado_fundamentos": "sim",
+  "S16_03_trechos_localizacao": "sim",
+  "S16_04_autoria_posicao": "sim",
+  "S16_05_densificacao_contribuicao": "não aplicável",
+  "S16_06_fsd_requisitos": "não aplicável",
+  "S16_07_alternativas_testadas": {
+   "r": "sim",
+   "j": "Seção 9 preenchida para o meio ambiente (entrada afirmativa); não aplicável para os princípios ausentes."
+  },
+  "S16_08_ausencia_simbolismo": "sim",
+  "S16_09_implementacao_separada": "sim",
+  "S16_10_seguranca_baixa_revisao": "sim",
+  "S16_11_nucleos_aninhados": {
+   "r": "não",
+   "j": "Núcleo único elegível; não há núcleos aninhados."
+  },
+  "S16_12_respostas_multiplas": "sim",
+  "S16_13_marcadores_regras": "sim",
+  "S16_14_combinacoes_compativeis": "sim",
+  "S16_15_fs_regras": "sim",
+  "S16_16_alertas_sem_alteracao": "sim",
+  "S16_17_categoria_alterada_ratificada": {
+   "r": "não",
+   "j": "Pré-preenchimento: nenhuma categoria foi ainda ratificada pela pesquisadora."
+  },
+  "S16_18_sensibilidade": {
+   "r": "não",
+   "j": "Controle 1 do núcleo 1 (posição do meio ambiente) indicado para análise de sensibilidade pela pesquisadora."
+  },
+  "S16_19_dens_institucional_incorporacao": "não aplicável",
+  "S16_20_generica_relevante_obstaculo": "sim",
+  "S16_21_fd_sem_densificacao": "não aplicável",
+  "S16_22_lacuna_controle_proprio": "sim",
+  "S16_23_fsd_fora_ordinaria": "não aplicável",
+  "S16_24_fsd_entrada_mobilizacao": "não aplicável",
+  "S16_25_fsd_funcao_mecanismo": "não aplicável",
+  "S16_26_fsd_mesmo_plano": "não aplicável",
+  "S16_27_fs_categorias_distintas": "sim",
+  "S16_28_alternativas_capacidade": "sim",
+  "S16_pendencias_conferencia_manual": "(i) Adesão de Lewandowski e Cármen Lúcia aos segmentos específicos do voto do Relator; (ii) pertinência ao recorte minerário (caso limítrofe, centralidade secundária); (iii) posição do meio ambiente (Relevante sem participação determinante × Voto não prevalecente).",
+  "S16_notas": "Auditoria do pré-preenchimento; os itens dependentes de ratificação aguardam a pesquisadora."
+ },
+ "mapa": [
+  {
+   "S04_N_questao": "Constitucionalidade da Lei 4.341/2004/RJ (arts. 1º e 2º) diante das alegações de invasão da competência da União e de violação à livre iniciativa e à reserva legal proporcional.",
+   "S04_N_regra_comando": "Estado pode suplementar a legislação federal em proteção e defesa da saúde dos trabalhadores expostos ao amianto quando a lei federal não afasta claramente a competência local.",
+   "S04_N_consequencia": "Improcedência da ADI e manutenção da lei estadual.",
+   "S04_N_elegivel": {
+    "r": "sim",
+    "j": "Problema, fundamentação, resposta e consequência próprios; conexão substantiva com a substância mineral e seu regime federal.",
+    "t": [
+     [
+      "É com base nessas considerações que se deve examinar se a legislação estadual atacada infringiu a competência da União no tocante à proteção à saúde de sua população. A resposta é negativa",
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "S04_N_questao": "Competência para exigir o envio de relação de trabalhadores ao sindicato e ao SUS (art. 2º da lei), alegada invasão da competência da União para inspeção do trabalho (art. 21, XXIV).",
+   "S04_N_regra_comando": "Não há regra própria: a alegação é absorvida pela resposta geral sobre a competência concorrente.",
+   "S04_N_consequencia": "Sem consequência autônoma além da improcedência global.",
+   "S04_N_elegivel": {
+    "r": "não",
+    "j": "Não demonstrados fundamentação própria e resposta própria: o voto do Relator não examina o art. 2º separadamente.",
+    "t": [
+     [
+      "No tocante ao art. 2º da legislação impugnada, entende que houve invasão da competência legislativa da União para organizar, manter e executar a inspeção do trabalho",
+      6
+     ]
+    ]
+   }
+  },
+  {
+   "S04_N_questao": "Preliminar de ilegitimidade ativa por ausência de pertinência temática da CNTI.",
+   "S04_N_regra_comando": "Não há regra enunciada: conhecimento implícito da ação.",
+   "S04_N_consequencia": "Conhecimento da ação, sem fundamentação própria.",
+   "S04_N_elegivel": {
+    "r": "não",
+    "j": "Não demonstrados fundamentação própria e resposta própria majoritárias: a preliminar é apenas relatada e o conhecimento é afirmado sem exame (voto-vista).",
+    "t": [
+     [
+      "sustenta o não conhecimento da presente ação em virtude da ausência de pertinência temática",
+      7
+     ],
+     [
+      "CONHEÇO da ação direta de inconstitucionalidade",
+      41
+     ]
+    ]
+   }
+  }
+ ],
+ "nucleos": [
+  {
+   "n": 1,
+   "titulo": "Constitucionalidade da Lei 4.341/2004/RJ (responsabilidade das empresas de fibrocimento)",
+   "respostas": {
+    "S05_numero_titulo": "Núcleo 1 — Constitucionalidade da Lei 4.341/2004/RJ",
+    "S05_questao_juridica": "A lei estadual que impõe às empresas de fibrocimento o custeio do tratamento e a indenização dos trabalhadores expostos ao amianto e o envio de cadastro ao SUS invade competência da União ou viola a livre iniciativa?",
+    "S05_pretensao": {
+     "r": "A requerente (CNTI) pede a declaração de inconstitucionalidade por invasão de competência privativa da União (direito do trabalho, art. 22, I; inspeção do trabalho, art. 21, XXIV), por contrariedade à norma geral federal sobre amianto (art. 24) e por ônus desarrazoado à livre iniciativa (art. 170).",
+     "t": [
+      [
+       "incorreu em inconstitucionalidade formal, legislando sobre direito do trabalho, matéria de competência privativa da União",
+       5
+      ]
+     ]
+    },
+    "S05_posicao_institucional": {
+     "r": "Identificável: a Corte julgou improcedente 'nos termos do voto do Relator', com maioria quanto ao fundamento da competência concorrente suplementar.",
+     "t": [
+      [
+       "nos termos do voto do Relator, vencido o Ministro Marco Aurélio",
+       42
+      ]
+     ]
+    },
+    "S05_regra_central": {
+     "r": "Na ausência de afastamento claro pela lei federal, o Estado pode suplementar a legislação federal sobre proteção e defesa da saúde dos trabalhadores expostos ao amianto (art. 24, XII).",
+     "t": [
+      [
+       "para disciplinar a proteção e defesa da saúde dos trabalhadores que sofreram danos causados pelo amianto, podem os Estados, desde que a União não o faça",
+       20
+      ]
+     ]
+    },
+    "S05_consequencia": "Manutenção da validade da Lei 4.341/2004/RJ (improcedência).",
+    "S05_autonomia_problema": "Validade formal e material da lei estadual.",
+    "S05_autonomia_fundamentacao": "Competência concorrente suplementar, Convenção 162 da OIT e compatibilidade com a livre iniciativa (pp. 19–24).",
+    "S05_autonomia_resposta": "Constitucionalidade da lei; improcedência.",
+    "S05_autonomia_consequencia": "Lei estadual mantida.",
+    "S05_nao_fundir": "É o único problema decidido com resposta própria; as alegações sobre o art. 2º e a preliminar não têm fundamentação e consequência autônomas, e fragmentá-las criaria núcleos sem resposta própria.",
+    "S05_macrocampos": {
+     "r": "riscos ambientais/sanitários/ocupacionais ; organização federativa/controle institucional ; ilicitude/responsabilização/reparação",
+     "j": "Ajuste da calibração (A4): a lei impõe responsabilidade e indenização às empresas."
+    },
+    "S05_marcadores_auxiliares": {
+     "r": "base técnico-probatória ; vulnerabilidade",
+     "j": "Relatórios da OMS e da comissão interministerial (pp. 27–28); trabalhadores expostos ao amianto como grupo vulnerável (ajuste A4)."
+    },
+    "S05_fundamentacao_nucleo": "parcial",
+    "S06_resolucao_operativa": {
+     "r": "Com resolução operativa",
+     "t": [
+      [
+       "O Tribunal, por maioria, julgou improcedente o pedido formulado na ação direta de inconstitucionalidade",
+       42
+      ]
+     ],
+     "a": "Decisão institucional (extrato de ata)",
+     "j": "O núcleo produz consequência jurídica determinada: a manutenção da validade da lei estadual, com eficácia própria do controle concentrado.",
+     "alt": "Não classificável — rejeitada: há comando decisório determinado.",
+     "s": "alta"
+    },
+    "S06_posicao_juridica": "Mantida a obrigação das empresas de fibrocimento de custear tratamento, acompanhamento e indenização e de enviar o cadastro de trabalhadores.",
+    "S06_comando": "Improcedência do pedido; declaração de constitucionalidade da lei estadual.",
+    "S06_destinatario": "Empresas de fibrocimento e que manipulam amianto no Estado do Rio de Janeiro; efeito geral do controle concentrado.",
+    "S06_prazo_modulacao": {
+     "r": "Não aplicável",
+     "j": "Não houve modulação nem prazo."
+    },
+    "S06_mecanismo": {
+     "r": "Informação não disponível ou não localizada",
+     "j": "O acórdão não define mecanismo específico de cumprimento ou controle."
+    },
+    "S06_implementacao_documentada": "não",
+    "S06_info_adicional": "Nenhuma.",
+    "IN_B_posicao": {
+     "r": "Ausente",
+     "j": "Não há menção ao art. 176, § 1º, nem à cláusula 'interesse nacional' ou a conteúdo equivalente em qualquer peça ou voto (exame integral, pp. 1–43).",
+     "a": "Plano institucional e de todos os votos",
+     "s": "alta"
+    },
+    "IN_B_plano_voto": "Decisão institucional e todos os votos examinados.",
+    "IN_B_forma_mobilizacao": "não mobilizado",
+    "IN_B_posicao_voto_decisao": "Não aplicável",
+    "IN_B_conexao": "Não aplicável",
+    "IN_B_mobilizacao_obstaculo": "Não há mobilização nem obstáculo processual/institucional.",
+    "IN_C_densificacao": "Não aplicável",
+    "IN_AT_criterio_plano": "Interesse nacional. Critério: não identificado. Plano: decisão institucional.",
+    "IN_AT_situacao_criterio": "critério não demonstrado após exame suficiente",
+    "IN_AT_atribuicao": {
+     "r": "Atribuição de critério não demonstrada",
+     "j": "Princípio ausente (regra 7.4)."
+    },
+    "IN_AT_outras_fontes": "Arts. 24, V, VI e XII, e 30, I, da CF; Lei 9.055/95; Convenção 162 da OIT.",
+    "IN_AT_pergunta_auxiliar": "Nenhum papel: o princípio não aparece na fundamentação.",
+    "IN_AT_efeito_teste": "Sem alerta.",
+    "IN_CN_concretizacao": {
+     "r": "Não mobilizado",
+     "j": "Combinação Ausente + Não aplicável + Atribuição não demonstrada (7.4).",
+     "s": "alta"
+    },
+    "IN_CN_plano_evidencias": "Decisão institucional; exame integral do inteiro teor.",
+    "IN_CN_combinacao": "Ausente; Não aplicável; Atribuição de critério não demonstrada.",
+    "IN_CN_revisao_dirigida": "não",
+    "IN_CN_info_adicional": "Nenhuma.",
+    "FSP_B_posicao": {
+     "r": "Ausente",
+     "j": "O art. 170 aparece apenas como livre iniciativa (alegação da requerente e resposta do Relator); não há mobilização do inciso III nem de conteúdo equivalente à função social da propriedade.",
+     "t": [
+      [
+       "está em desacordo com o postulado da livre inciativa (CF, art. 170)",
+       6
+      ]
+     ],
+     "a": "Alegação da requerente (relatório)",
+     "alt": "Presença documental não judicial — rejeitada porque a peça da requerente invoca a livre iniciativa, não a função social da propriedade.",
+     "s": "alta"
+    },
+    "FSP_B_plano_voto": "Decisão institucional e todos os votos examinados.",
+    "FSP_B_forma_mobilizacao": "não mobilizado",
+    "FSP_B_posicao_voto_decisao": "Não aplicável",
+    "FSP_B_conexao": "Não aplicável",
+    "FSP_B_mobilizacao_obstaculo": "Não há mobilização nem obstáculo.",
+    "FSP_C_densificacao": "Não aplicável",
+    "FSP_AT_criterio_plano": "Função social da propriedade. Critério: não identificado. Plano: decisão institucional.",
+    "FSP_AT_situacao_criterio": "critério não demonstrado após exame suficiente",
+    "FSP_AT_atribuicao": {
+     "r": "Atribuição de critério não demonstrada",
+     "j": "Princípio ausente (regra 7.4)."
+    },
+    "FSP_AT_outras_fontes": "Art. 170, caput (livre iniciativa), arts. 1º, III, e 6º da CF.",
+    "FSP_AT_pergunta_auxiliar": "Nenhum papel.",
+    "FSP_AT_efeito_teste": "Sem alerta.",
+    "FSP_CN_concretizacao": {
+     "r": "Não mobilizado",
+     "s": "alta"
+    },
+    "FSP_CN_plano_evidencias": "Decisão institucional; exame integral.",
+    "FSP_CN_combinacao": "Ausente; Não aplicável; Atribuição de critério não demonstrada.",
+    "FSP_CN_revisao_dirigida": "não",
+    "FSP_CN_info_adicional": "Nenhuma.",
+    "MA_B_posicao": {
+     "r": "Relevante sem participação determinante",
+     "t": [
+      [
+       "Não se discute que há, subjacente ao debate posto, um aparente conflito entre o direito econômico à exploração de um determinado mineral e o direito à saúde e ao meio ambiente ecologicamente equilibrado",
+       25
+      ],
+      [
+       "a ordem econômica não apenas deve valorizar o trabalho humano e a livre iniciativa como também promover a defesa do meio ambiente",
+       25
+      ]
+     ],
+     "a": "Voto do Relator, Min. Edson Fachin — segmento da razão adicional (pp. 24–31); decisão institucional por remissão ('nos termos do voto do Relator').",
+     "j": "O meio ambiente é mobilizado pelo julgador para enquadrar a questão de compatibilidade entre exploração do mineral e direitos (art. 170, VI), mas a improcedência é determinada pela competência concorrente em saúde e, no segmento adicional, pela proteção insuficiente do direito à saúde; o princípio não é premissa necessária da conclusão.",
+     "alt": "Voto não prevalecente — considerada porque o segmento recebeu ressalva do Min. Alexandre de Moraes e não há votos escritos dos demais; rejeitada provisoriamente porque a ata adota o resultado 'nos termos do voto do Relator'. Ver controle S15 nº 1."
+    },
+    "MA_B_plano_voto": "Decisão institucional por remissão ('nos termos do voto do Relator'), com base no voto do Relator, segmento da 'outra razão' (pp. 24–31), ressalvado pelo Min. Alexandre de Moraes.",
+    "MA_B_forma_mobilizacao": {
+     "r": "conteúdo equivalente demonstrado",
+     "j": "Ajuste da calibração (A1): o art. 225 não é citado; a defesa ambiental é mobilizada pela via do art. 170, VI, e pela expressão 'meio ambiente ecologicamente equilibrado' sem remissão ao dispositivo. 'Literal' fica reservado à menção expressa ao dispositivo do princípio.",
+     "alt": "literal — rejeitada pelo critério A1 (a confirmar pela pesquisadora)."
+    },
+    "MA_B_posicao_voto_decisao": "Segmento adicional do voto do Relator, que é o voto condutor do resultado; o segmento foi ressalvado por Alexandre de Moraes.",
+    "MA_B_conexao": "Conecta o fato (exploração e uso do amianto) à pergunta sobre compatibilidade constitucional da exploração, mas a conclusão é extraída do direito à saúde.",
+    "MA_B_mobilizacao_obstaculo": {
+     "r": "Mobilização pelo julgador (não mera reprodução de alegação): o Relator enuncia o conflito em voz própria. Sem obstáculo processual.",
+     "t": [
+      [
+       "Não é possível, portanto, imaginar que um dos direitos possa excluir o outro",
+       25
+      ]
+     ]
+    },
+    "MA_C_densificacao": {
+     "r": "Conteúdo não densificado",
+     "t": [
+      [
+       "A questão que se coloca, então, é a de examinar se a exploração admitida é compatível com o texto constitucional",
+       25
+      ]
+     ],
+     "a": "Voto do Relator",
+     "j": "Após a enunciação, o exame passa à proteção da saúde e à omissão regulatória; não se extrai dever, limite ou parâmetro ambiental atribuível ao princípio.",
+     "alt": "Densificação no caso/corrente — rejeitada: não há critério ambiental extraído."
+    },
+    "MA_C_plano_segmento": "Voto do Relator, pp. 25–31.",
+    "MA_C_conteudo_extraido": "Não aplicável",
+    "MA_C_criterio": "Não aplicável",
+    "MA_C_alcance": {
+     "r": "indeterminado",
+     "j": "Ajuste da calibração (A3): sem critério densificado, o alcance é indeterminado."
+    },
+    "MA_C_incorporacao": "Não aplicável",
+    "MA_AT_criterio_plano": "Meio ambiente ecologicamente equilibrado. Critério examinado: compatibilidade entre exploração do mineral e defesa ambiental (art. 170, VI). Plano: voto do Relator, p. 25.",
+    "MA_AT_situacao_criterio": "critério não demonstrado após exame suficiente",
+    "MA_AT_atribuicao": {
+     "r": "Atribuição de critério não demonstrada",
+     "j": "A enunciação da compatibilidade não se converte em critério; o parâmetro aplicado é o direito à saúde (proibição de proteção insuficiente)."
+    },
+    "MA_AT_outras_fontes": "Direito à saúde (arts. 6º e 196), art. 24, XII, Convenção 162 da OIT, art. 170, VI.",
+    "MA_AT_contribuicao_especifica": {
+     "r": "Não aplicável",
+     "j": "Sem critério demonstrável."
+    },
+    "MA_AT_explicavel_outra_norma": {
+     "r": "Não aplicável — justificar",
+     "j": "Sem critério demonstrável atribuível ao princípio."
+    },
+    "MA_AT_contrafactual": {
+     "r": "Não aplicável — justificar",
+     "j": "Sem critério demonstrável atribuível ao princípio."
+    },
+    "MA_AT_pergunta_auxiliar": {
+     "r": "Papel de enquadramento: introduz o segmento adicional afirmando que direitos econômicos e ambientais não se excluem; o encadeamento segue para o direito à saúde.",
+     "t": [
+      [
+       "O próprio texto constitucional, no entanto, afasta, no art. 170, VI, uma interpretação que contraponha ambos os direitos",
+       25
+      ]
+     ]
+    },
+    "MA_AT_efeito_teste": "Sem alerta; combinação Relevante sem participação determinante + Conteúdo não densificado + Atribuição não demonstrada.",
+    "MA_CN_concretizacao": {
+     "r": "Presença contextual/discursiva",
+     "j": "Regra 7.4 para presença judicial relevante sem participação determinante.",
+     "s": "média"
+    },
+    "MA_CN_plano_evidencias": "Voto do Relator (p. 25); plano institucional por remissão.",
+    "MA_CN_combinacao": "Relevante sem participação determinante; Conteúdo não densificado; Atribuição de critério não demonstrada.",
+    "MA_CN_revisao_dirigida": {
+     "r": "sim",
+     "j": "Distinção entre Relevante sem participação determinante e Voto não prevalecente, dada a ressalva ao segmento (controle S15 nº 1)."
+    },
+    "MA_CN_info_adicional": "Votos escritos de Lewandowski e Cármen Lúcia (não juntados) esclareceriam a adesão ao segmento.",
+    "IN_FS_nucleo_segmento": "Núcleo 1; nenhum segmento mobiliza o princípio.",
+    "IN_FS_plano": "decisão institucional",
+    "IN_FS_entrada": {
+     "r": "não",
+     "j": "Não há mobilização judicial nem expectativa constitucional documentada do interesse nacional."
+    },
+    "IN_FS_funcao_simbolica": {
+     "r": "Não aplicável",
+     "j": "Entrada negativa (8.1).",
+     "s": "alta"
+    },
+    "FSP_FS_nucleo_segmento": "Núcleo 1; nenhum segmento mobiliza o princípio.",
+    "FSP_FS_plano": "decisão institucional",
+    "FSP_FS_entrada": {
+     "r": "não",
+     "j": "Não há mobilização judicial nem expectativa constitucional documentada da função social da propriedade."
+    },
+    "FSP_FS_funcao_simbolica": {
+     "r": "Não aplicável",
+     "j": "Entrada negativa (8.1).",
+     "s": "alta"
+    },
+    "MA_FS_nucleo_segmento": {
+     "r": "Núcleo 1; segmento adicional do voto do Relator.",
+     "t": [
+      [
+       "um aparente conflito entre o direito econômico à exploração de um determinado mineral e o direito à saúde e ao meio ambiente ecologicamente equilibrado",
+       25
+      ]
+     ]
+    },
+    "MA_FS_plano": {
+     "r": "decisão institucional",
+     "j": "Ajuste da calibração (A2): voto do Relator acolhido por remissão no acórdão e na ata; ressalva de Alexandre de Moraes registrada no controle S15 nº 1."
+    },
+    "MA_FS_entrada": {
+     "r": "sim",
+     "t": [
+      [
+       "Não é possível, portanto, imaginar que um dos direitos possa excluir o outro",
+       25
+      ]
+     ],
+     "j": "Há mobilização judicial documentada no voto do Relator."
+    },
+    "MA_FS_posicao_associada": "Relevante sem participação determinante",
+    "MA_FS_configuracao": "configuração ordinária: Relevante sem participação determinante",
+    "MA_FS_proeminencia": {
+     "r": "baixa",
+     "t": [
+      [
+       "O próprio texto constitucional, no entanto, afasta, no art. 170, VI, uma interpretação que contraponha ambos os direitos",
+       25
+      ]
+     ],
+     "j": "Uma passagem breve num voto de 25 páginas; não reaparece na ementa nem no dispositivo."
+    },
+    "MA_FS_baixa_contribuicao": {
+     "r": "parcialmente demonstrada",
+     "j": "Não há critério ambiental, mas a passagem não se apresenta como fundamento; a baixa contribuição é compatível com sua função de enquadramento."
+    },
+    "MA_FS_discrepancia": {
+     "r": "parcial",
+     "j": "Ajuste da calibração (A5): não há contradição direta entre compromisso ambiental e comando, mas há distância entre a referência à compatibilização ambiental e o critério operativo efetivamente aplicado (competência concorrente e saúde)."
+    },
+    "MA_FS_compromisso_criterio": "Compromisso: compatibilizar exploração e defesa ambiental; critério: nenhum ambiental; comando: manutenção da lei protetiva da saúde; matéria não enfrentada: nenhuma de natureza ambiental exigida pela controvérsia.",
+    "MA_FS_funcao_identificavel": {
+     "r": "Não aplicável",
+     "j": "Nenhuma função identificável: a passagem não exerce função legitimadora, retórica ou de deslocamento demonstrável; ausência registrada expressamente."
+    },
+    "MA_FS_politico_ideologica": {
+     "r": "não demonstrada",
+     "j": "Sem evidência de função político-ideológica no plano discursivo."
+    },
+    "MA_FS_funcao_simbolica": {
+     "r": "Sem indicador suficiente",
+     "j": "Módulo aplicável e examinado (entrada afirmativa); proeminência baixa, discrepância ausente, nenhuma função identificável, função político-ideológica não demonstrada. Alternativas da seção 9 explicam a baixa contribuição.",
+     "alt": "Indícios — rejeitada: não há indício positivo; a baixa contribuição isolada não basta (8.1).",
+     "s": "média"
+    },
+    "MA_FS_limite_atribuicao": "Plano institucional por remissão ao voto do Relator; a ressalva ao segmento adicional impede estender o registro além da presença contextual.",
+    "MA_ALT_voto_segmento": "Voto do Relator, segmento da razão adicional (pp. 24–31).",
+    "MA_ALT_plano_aspecto": "Baixa contribuição normativa do meio ambiente no voto do Relator.",
+    "MA_ALT_H01_evidencia_favoravel": {
+     "r": "A controvérsia é decidida pela competência concorrente em saúde; o meio ambiente não é parâmetro do pedido.",
+     "t": [
+      [
+       "se deve examinar se a legislação estadual atacada infringiu a competência da União no tocante à proteção à saúde de sua população",
+       21
+      ]
+     ]
+    },
+    "MA_ALT_H01_evidencia_contraria": "O próprio Relator enuncia a pertinência do meio ambiente à exploração do mineral (p. 25).",
+    "MA_ALT_H01_decisao": {
+     "r": "aceita parcialmente",
+     "t": [
+      [
+       "A questão dos autos cinge-se à distribuição de competência entre os diversos entes federativos",
+       8
+      ]
+     ],
+     "j": "Explica por que o princípio não é determinante; não explica sua menção. Efeito: afasta Função simbólica demonstrada nesse aspecto."
+    },
+    "MA_ALT_H02_evidencia_favoravel": {
+     "r": "O direito à saúde e o art. 24, XII são as normas aplicadas.",
+     "t": [
+      [
+       "Omissão que, in casu, inviabiliza, por insuficientemente proteger o direito à saúde, seu pleno exercício",
+       30
+      ]
+     ]
+    },
+    "MA_ALT_H02_evidencia_contraria": "Nenhuma.",
+    "MA_ALT_H02_decisao": {
+     "r": "aceita",
+     "t": [
+      [
+       "Por não ter garantido a efetiva proteção ao direito à saúde, a própria norma federal",
+       31
+      ]
+     ],
+     "j": "A norma mais específica (direito à saúde) explica a baixa contribuição do meio ambiente. Efeito: afasta Função simbólica demonstrada."
+    },
+    "MA_ALT_H03_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H03_evidencia_contraria": "Não há obstáculo processual ao exame ambiental.",
+    "MA_ALT_H03_decisao": {
+     "r": "rejeitada",
+     "j": "Sem obstáculo processual/institucional. Sem efeito."
+    },
+    "MA_ALT_H04_evidencia_favoravel": {
+     "r": "Ressalva de Alexandre de Moraes ao segmento adicional.",
+     "t": [
+      [
+       "Faço, porém, necessária ressalva ao voto do eminente Ministro Relator",
+       40
+      ]
+     ]
+    },
+    "MA_ALT_H04_evidencia_contraria": "Há maioria quanto ao resultado e ao fundamento principal.",
+    "MA_ALT_H04_decisao": {
+     "r": "aceita parcialmente",
+     "j": "Explica a restrição do registro ao plano do voto; não explica a baixa contribuição. Efeito: limita o plano."
+    },
+    "MA_ALT_H05_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H05_evidencia_contraria": "Decisão de mérito.",
+    "MA_ALT_H05_decisao": {
+     "r": "rejeitada",
+     "j": "Não é decisão provisória. Sem efeito."
+    },
+    "MA_ALT_H06_evidencia_favoravel": "O Relator registra que não cabe ao Judiciário juízo técnico sobre a política do amianto (p. 29).",
+    "MA_ALT_H06_evidencia_contraria": "Nenhuma prova ambiental indisponível é indicada.",
+    "MA_ALT_H06_decisao": {
+     "r": "rejeitada",
+     "t": [
+      [
+       "não poderia o Poder Judiciário, tal como se sustou na ADI 4.066, realizar um juízo técnico distributivo",
+       29
+      ]
+     ],
+     "j": "A deferência técnica refere-se à saúde, não à prova ambiental. Sem efeito."
+    },
+    "MA_ALT_H07_evidencia_favoravel": "A defesa ambiental é invocada pela via do art. 170, VI, junto da saúde.",
+    "MA_ALT_H07_evidencia_contraria": "Não há critério compartilhado a atribuir.",
+    "MA_ALT_H07_decisao": {
+     "r": "rejeitada",
+     "j": "Sem critério, não há contribuição compartilhada. Sem efeito."
+    },
+    "MA_ALT_H08_evidencia_favoravel": "A menção está em voto individual, em segmento ressalvado.",
+    "MA_ALT_H08_evidencia_contraria": "O voto do Relator é o voto condutor adotado pela ata.",
+    "MA_ALT_H08_decisao": {
+     "r": "aceita parcialmente",
+     "j": "Impede a atribuição institucional, sem eliminar o exame no voto. Efeito: registro restrito ao voto."
+    },
+    "MA_ALT_H09_evidencia_favoravel": "Ausência de votos escritos de Lewandowski e Cármen Lúcia.",
+    "MA_ALT_H09_evidencia_contraria": "O voto do Relator está integralmente disponível.",
+    "MA_ALT_H09_decisao": {
+     "r": "aceita parcialmente",
+     "j": "Limita a reconstrução do plano institucional, não a leitura do voto. Efeito: limita o alcance."
+    },
+    "MA_ALT_H10_evidencia_favoravel": "A passagem é breve e de enquadramento.",
+    "MA_ALT_H10_evidencia_contraria": "Nenhuma.",
+    "MA_ALT_H10_decisao": {
+     "r": "aceita",
+     "j": "Estilo argumentativo de enquadramento, sem função demonstrável. Efeito: afasta Função simbólica demonstrada."
+    },
+    "IN_AUS_aplicavel": {
+     "r": "sim",
+     "j": "Posição Ausente."
+    },
+    "IN_AUS_pertinencia": {
+     "r": "remotamente",
+     "j": "Tema mineral (amianto), mas o mérito versa competência federativa e saúde ocupacional; a cláusula do art. 176, § 1º, não é pertinente ao fundamento."
+    },
+    "IN_AUS_suscitacao": {
+     "r": "nenhuma peça",
+     "t": [
+      [
+       "Alega que a Lei 4.341/2004, ao impor às empresas de fibrocimento",
+       5
+      ]
+     ],
+     "j": "O relatório registra os argumentos das partes (pp. 5–7) sem suscitação do art. 176, § 1º."
+    },
+    "IN_AUS_enfrentamento": {
+     "r": "não enfrentado",
+     "j": "Não suscitado nem mobilizado (pp. 8–41)."
+    },
+    "IN_AUS_silenciamento": {
+     "r": "não",
+     "j": "Faltam pertinência clara e suscitação."
+    },
+    "FSP_AUS_aplicavel": {
+     "r": "sim",
+     "j": "Posição Ausente."
+    },
+    "FSP_AUS_pertinencia": {
+     "r": "não pertinente",
+     "j": "A validade das obrigações legais não envolve a função social da propriedade."
+    },
+    "FSP_AUS_suscitacao": {
+     "r": "nenhuma peça",
+     "j": "A requerente invoca a livre iniciativa (art. 170, caput), não o inciso III."
+    },
+    "FSP_AUS_enfrentamento": {
+     "r": "não enfrentado",
+     "j": "Não suscitado nem mobilizado."
+    },
+    "FSP_AUS_silenciamento": {
+     "r": "não",
+     "j": "Princípio não pertinente."
+    },
+    "MA_AUS_aplicavel": {
+     "r": "não — Não aplicável",
+     "j": "Princípio mobilizado (Relevante sem participação determinante); a seção 10 não é analiticamente relevante para o meio ambiente neste núcleo."
+    },
+    "S10_interpretacao_qualitativa": "A ausência do interesse nacional e da função social decorre da moldura federativa e sanitária da controvérsia; não há suscitação. A ausência não é tratada como simbolismo.",
+    "S11_cumprimento": {
+     "r": "não",
+     "j": "O acórdão não traz informação sobre cumprimento."
+    },
+    "S11_providencia": "Improcedência e manutenção da lei; nenhuma providência material posterior documentada.",
+    "S11_destinatario": {
+     "r": "Não aplicável",
+     "j": "Não há ordem de cumprimento individualizada."
+    },
+    "S11_prazo": "Não aplicável",
+    "S11_mecanismo_controle": {
+     "r": "Informação não disponível ou não localizada"
+    },
+    "S11_fonte": "decisão",
+    "S11_limite_inferencial": "A manutenção da lei não comprova seu cumprimento pelas empresas nem a efetiva proteção dos trabalhadores.",
+    "S12_identificacao": "Núcleo 1 — Constitucionalidade da Lei 4.341/2004/RJ",
+    "S12_planos_registros": "Interesse nacional e função social: plano institucional (ausência). Meio ambiente: voto do Relator, segmento adicional (p. 25), com remissão institucional pela ata; função simbólica examinada no mesmo plano.",
+    "S12_categorias_prevalentes": "Competência concorrente e suplementar; proteção da saúde do trabalhador; livre iniciativa; defesa do meio ambiente (adjacente).",
+    "S12_assimetria": "Dois princípios ausentes e um contextual.",
+    "S12_interpretacao": "A Corte resolve a controvérsia pela repartição de competências e pela saúde; os princípios da pesquisa não estruturam a ratio.",
+    "S12_insuficiencia": "Votos não escritos de ministros que acompanharam o Relator.",
+    "S12_revisao_dirigida": {
+     "r": "sim",
+     "j": "MA_B_posicao (plano e categoria); S03_maioria_fundamento; S02_centralidade."
+    },
+    "S12_alerta_pseudorreplicacao": "As decisões do grupo do amianto julgadas em conjunto ou com remissão recíproca (ADPF 109, ADIs 3356, 3357, 3470, 3937) não devem ser contadas como evidências independentes sem considerar a dependência.",
+    "S13_IN_observacao": "Ausente em todo o inteiro teor.",
+    "S13_FSP_observacao": "Ausente; o art. 170 aparece só como livre iniciativa.",
+    "S13_MA_observacao": "Presença contextual no voto do Relator, segmento ressalvado."
+   },
+   "categorias": [
+    {
+     "S10_CAT_principio": "Interesse nacional ; Função social da propriedade",
+     "S10_CAT_categoria": "Competência concorrente e suplementar",
+     "S10_CAT_fonte": {
+      "r": "CF, arts. 24, V, VI e XII, e 30, I; Lei 9.055/95",
+      "t": [
+       [
+        "Trata-se de competência concorrente atribuída à União, aos Estados e Distrito Federal",
+        2
+       ]
+      ]
+     },
+     "S10_CAT_posicao": "Fundamento majoritário (voto do Relator e voto-vista)",
+     "S10_CAT_funcao": "Delimita a competência dos entes e autoriza a suplementação estadual",
+     "S10_CAT_consequencia": "Improcedência e manutenção da lei",
+     "S10_CAT_relacao": "concorrência"
+    },
+    {
+     "S10_CAT_principio": "Interesse nacional ; Função social da propriedade",
+     "S10_CAT_categoria": "Proteção e defesa da saúde do trabalhador",
+     "S10_CAT_fonte": "CF, arts. 6º, 196 e 24, XII; Convenção 162 da OIT",
+     "S10_CAT_posicao": "Fundamento majoritário",
+     "S10_CAT_funcao": "Justifica as obrigações estaduais de proteção e responsabilidade",
+     "S10_CAT_consequencia": "Manutenção da obrigação legal",
+     "S10_CAT_relacao": "concorrência"
+    },
+    {
+     "S10_CAT_principio": "Função social da propriedade",
+     "S10_CAT_categoria": "Livre iniciativa e reserva legal proporcional",
+     "S10_CAT_fonte": {
+      "r": "CF, art. 170, caput (suscitado pela requerente)",
+      "t": [
+       [
+        "Quanto à alegação de ofensa ao princípio da livre iniciativa e da reserva legal proporcional",
+        22
+       ]
+      ]
+     },
+     "S10_CAT_posicao": "Argumento da requerente, respondido pelo Relator e pelo voto-vista",
+     "S10_CAT_funcao": "Afasta a alegação de ônus excessivo frente à proteção da saúde",
+     "S10_CAT_consequencia": "Não invalida a lei",
+     "S10_CAT_relacao": "concorrência"
+    },
+    {
+     "S10_CAT_principio": "Meio ambiente ecologicamente equilibrado",
+     "S10_CAT_categoria": "Defesa do meio ambiente na ordem econômica",
+     "S10_CAT_fonte": "CF, art. 170, VI",
+     "S10_CAT_posicao": "Voto do Relator, segmento adicional",
+     "S10_CAT_funcao": "Compatibiliza ordem econômica e defesa ambiental, sem critério operativo",
+     "S10_CAT_consequencia": "Contextualiza; não determina o resultado",
+     "S10_CAT_relacao": "adjacente"
+    }
+   ],
+   "controles": [
+    {
+     "S15_K_referencia": "ADI 3355, núcleo 1, Meio ambiente, voto do Relator, MA_B_posicao",
+     "S15_K_categoria_antes": "Relevante sem participação determinante",
+     "S15_K_marcador": {
+      "r": "Registro provisório pendente de conferência",
+      "j": "MA_B_posicao e MA_B_plano_voto"
+     },
+     "S15_K_alternativa": "Voto não prevalecente",
+     "S15_K_razao": "O segmento onde o meio ambiente aparece foi ressalvado por Alexandre de Moraes e a adesão dos demais não é verificável; a ata adota 'nos termos do voto do Relator'.",
+     "S15_K_natureza": {
+      "r": "combinação não prevista",
+      "t": [
+       [
+        "Faço, porém, necessária ressalva ao voto do eminente Ministro Relator",
+        40
+       ]
+      ],
+      "a": "Voto-vista, Min. Alexandre de Moraes",
+      "s": "média"
+     },
+     "S15_K_impacto": "possível",
+     "S15_K_sensibilidade": "sim – cenário: com Voto não prevalecente, a concretização institucional permanece Presença contextual/discursiva; a síntese não muda.",
+     "S15_K_decisao_final": "manter categoria",
+     "S15_K_status": "pendente"
+    },
+    {
+     "S15_K_referencia": "ADI 3355, decisão, S03_maioria_fundamento",
+     "S15_K_categoria_antes": "parcial",
+     "S15_K_marcador": "nenhum",
+     "S15_K_alternativa": "identificável",
+     "S15_K_razao": "Calibração do piloto: razão adicional do Relator rejeitada por um voto convergente torna a maioria quanto ao fundamento parcial.",
+     "S15_K_natureza": {
+      "r": "outra: ponto da calibração com o gabarito",
+      "s": "alta"
+     },
+     "S15_K_impacto": "nenhum",
+     "S15_K_sensibilidade": "não",
+     "S15_K_decisao_final": "manter categoria",
+     "S15_K_status": "pendente"
+    },
+    {
+     "S15_K_referencia": "ADI 3355, decisão, S02_centralidade e S02_caso_limitrofe",
+     "S15_K_categoria_antes": "secundária; caso limítrofe = sim",
+     "S15_K_marcador": "nenhum",
+     "S15_K_alternativa": "contextual",
+     "S15_K_razao": "Pertinência ao recorte minerário depende do tratamento do uso industrial da substância mineral.",
+     "S15_K_natureza": {
+      "r": "outra: juízo de pertinência ao recorte",
+      "s": "média"
+     },
+     "S15_K_impacto": "possível",
+     "S15_K_sensibilidade": "não",
+     "S15_K_decisao_final": "manter categoria",
+     "S15_K_status": "pendente"
+    }
+   ]
+  }
+ ]
+}

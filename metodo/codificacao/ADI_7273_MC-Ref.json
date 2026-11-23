@@ -1,0 +1,812 @@
+{
+ "id_decisao": "ADI_7273_MC-Ref",
+ "rotulo": "ADI 7273 MC-Ref",
+ "data_final": "03/05/2023",
+ "decisao": {
+  "CTRL_inconsistencias": {
+   "r": "(i) O texto do acórdão diz que os Ministros, 'por maioria de votos', decidiram 'conhecer da ação direta de inconstitucionalidade e a julgar procedente, para declarar a inconstitucionalidade formal da Lei 20.894, de 29 de outubro de 2020, do Estado de Goiás', lei estranha ao caso, enquanto o extrato de ata registra referendo unânime da cautelar quanto ao art. 39, § 4º, da Lei 12.844/2013 (pp. 1 e 28). Prevalece a ata. (ii) O relatório menciona a MP 640/2013 (alegação dos requerentes) e a MP 610/2013 (Senado), e o voto adota a MP 610/2013 (pp. 5, 6 e 13). (iii) A manifestação da AGU transcrita refere-se à 'Lei nº 12.884/2013' (p. 10). Registrados sem correção.",
+   "t": [
+    [
+     "para declarar a inconstitucionalidade formal da Lei 20.894, de 29 de outubro de 2020, do Estado de Goiás",
+     1
+    ],
+    [
+     "O Tribunal, por unanimidade, referendou a decisão que deferiu o pedido formulado",
+     28
+    ],
+    [
+     "inserido pelo Congresso no projeto de lei de conversão da MP 640/2013",
+     5
+    ]
+   ]
+  },
+  "CTRL_dependencias": "Cautelar referendada da ADI 7273, cujo mérito (ADI 7273) também está no conjunto. Julgamento conjunto com a ADI 7.345 (fora do conjunto).",
+  "CTRL_inclusao": "Decisão do piloto; recodificada com o questionário completo.",
+  "CTRL_pendencias_metodologicas": "(1) Fronteira entre núcleos: as determinações ao Executivo (novo marco normativo em 90 dias; medidas que inviabilizem a aquisição de ouro de áreas protegidas e terras indígenas) têm comando e destinatário próprios, mas não fundamentação própria; foram mantidas no núcleo 1 (controle S15 nº 2). (2) Densificação em decisão cautelar com juízo perfunctório: o instrumento não define se a natureza provisória impede a densificação institucional; registrou-se densificação no caso, com a alternativa institucional (controle S15 nº 1).",
+  "CTRL_partes_processadas": "Leitura integral em uma parte (pp. 1–28).",
+  "CTRL_versao_codificacao": "v1 — pré-preenchimento por Claude Opus 5.5 (claude-opus-5-5) — 22/11/2026, com ajustes da calibração A1–A5",
+  "S01_classe_numero": "ADI 7.273 MC-Ref (Distrito Federal)",
+  "S01_orgao_julgador": "Tribunal Pleno",
+  "S01_relator_originario": "Min. Gilmar Mendes",
+  "S01_redator_acordao": {
+   "r": "Não aplicável",
+   "j": "Acórdão redigido pelo Relator."
+  },
+  "S01_datas_julgamento": {
+   "r": "Cautelar monocrática deferida em 04/04/2023; referendo em sessão virtual de 21/04 a 02/05/2023; data final 03/05/2023.",
+   "t": [
+    [
+     "Em 4 de abril de 2023, deferi o pedido de medida cautelar, ad referendum do Pleno",
+     11
+    ],
+    [
+     "Plenário, Sessão Virtual de 21.4.2023 a 2.5.2023",
+     28
+    ]
+   ]
+  },
+  "S01_tipo_decisao": "acórdão ; cautelar",
+  "S01_objeto": "Art. 39, § 4º, da Lei 12.844/2013: presunção de legalidade do ouro adquirido e de boa-fé da pessoa jurídica adquirente (DTVMs) com base nas informações prestadas pelo vendedor.",
+  "S01_resultado_proclamado": {
+   "r": "Referendo, por unanimidade, da cautelar: suspensão do art. 39, § 4º, da Lei 12.844/2013 e determinação ao Poder Executivo da União, em 90 dias, de novo marco normativo de fiscalização do comércio do ouro e de medidas que inviabilizem a aquisição de ouro de áreas de proteção ambiental e terras indígenas.",
+   "t": [
+    [
+     "O Tribunal, por unanimidade, referendou a decisão que deferiu o pedido formulado, determinando: 1) a suspensão da eficácia do art. 39, § 4º, da Lei Federal 12.844/2013",
+     28
+    ]
+   ],
+   "j": "Vale a ata; o texto do acórdão contém erro material (ver CTRL_inconsistencias)."
+  },
+  "S01_meio_julgamento": "virtual",
+  "S01_pecas_examinadas": "Ementa e acórdão (pp. 1–2); relatório (pp. 3–11); voto do Relator (pp. 12–27); extrato de ata (p. 28).",
+  "S01_acesso_inteiro_teor": "Inteiro teor em PDF com camada de texto (28 páginas); voto único escrito.",
+  "S01_acompanhamento_processual": {
+   "r": "Informação não disponível ou não localizada",
+   "j": "Sem dados de acompanhamento no PDF."
+  },
+  "S01_formacao_maioria_resultado": {
+   "r": "Unanimidade da composição de 10 ministros (ata). O texto do acórdão diz 'por maioria', por erro material.",
+   "t": [
+    [
+     "Composição: Ministros Rosa Weber (Presidente), Gilmar Mendes, Cármen Lúcia",
+     28
+    ]
+   ]
+  },
+  "S01_quorum": "Composição de 10 ministros; referendo unânime. O documento não discute quórum.",
+  "S01_fundamentacao": "não fragmentada",
+  "S01_suficiencia_documental": {
+   "r": "sim",
+   "j": "Voto único adotado por unanimidade; a inconsistência do acórdão é resolvida pela ata."
+  },
+  "S02_conexao_substantiva": {
+   "r": "Conexão direta: a norma regula a prova da regularidade da primeira aquisição de ouro de garimpo e a responsabilidade das DTVMs, e a decisão a suspende pelo incentivo ao garimpo ilegal.",
+   "t": [
+    [
+     "A prova da regularidade da primeira aquisição de ouro produzido sob qualquer regime de aproveitamento",
+     3
+    ]
+   ]
+  },
+  "S02_objeto_minerario": "garimpo ; recurso/substância mineral ; cadeia produtiva ; impacto direto",
+  "S02_centralidade": "central",
+  "S02_conteudo_decisao": "substantivo",
+  "S02_caso_limitrofe": {
+   "r": "não",
+   "j": "Regime de comercialização do ouro de garimpo."
+  },
+  "S02_justificativa_inclusao": "Incluída: o objeto é a cadeia de aquisição do ouro extraído por garimpo.",
+  "S02_limites_material": "Decisão cautelar (juízo perfunctório); sem informação sobre o cumprimento das determinações de 90 dias.",
+  "S03_resultado_proclamado": "Referendo unânime da cautelar (suspensão do § 4º e determinações ao Executivo).",
+  "S03_fundamentos_relator": {
+   "r": "(1) Plausibilidade: as presunções de legalidade do ouro e de boa-fé do adquirente sabotam o controle de atividade inerentemente poluidora, incentivam o comércio de ouro de garimpo ilegal e configuram opção normativa deficiente diante do dever de proteção do art. 225 (proibição de proteção deficiente). (2) Perigo na demora: danos ambientais, à saúde indígena e aumento da violência. Registro de 'emenda jabuti' sem efeito de invalidade.",
+   "t": [
+    [
+     "As presunções, trazidas no diploma legislativo impugnado, relativas à legalidade do ouro adquirido e à boa-fé do adquirente simplesmente sabotam a efetividade do controle de uma atividade inerentemente poluidora",
+     15
+    ],
+    [
+     "revelam-se uma opção normativa deficiente quanto à proteção do meio ambiente",
+     15
+    ]
+   ],
+   "a": "Voto do Relator, Min. Gilmar Mendes"
+  },
+  "S03_correntes": "Corrente única (unanimidade).",
+  "S03_adesoes_ressalvas": "Adesão unânime, sem ressalvas registradas.",
+  "S03_razoes_convergentes": "O dever de proteção ambiental (art. 225) e a proibição de proteção deficiente, no juízo perfunctório da cautelar.",
+  "S03_maioria_fundamento": {
+   "r": "identificável",
+   "t": [
+    [
+     "Tudo nos termos do voto do Relator",
+     28
+    ]
+   ],
+   "s": "alta"
+  },
+  "S03_maioria_res_dif_fund": {
+   "r": "não",
+   "j": "Voto único adotado por unanimidade."
+  },
+  "S03_efeito_quorum": "Sem efeito; referendo unânime.",
+  "S03_separar_nucleos": {
+   "r": "não",
+   "j": "O conhecimento (legitimidade dos partidos) não teve controvérsia com consequência própria relevante (ver mapa)."
+  },
+  "S03_repercussao_fragmentacao": "Não há fragmentação.",
+  "S04_total_nucleos": "3",
+  "S04_total_elegiveis": "1",
+  "S13_resolveu": "Sim, em caráter cautelar: suspendeu a presunção e determinou providências ao Executivo.",
+  "S13_concretizados": "Meio ambiente: concretização no caso (dever de proteção e proibição de proteção deficiente), em juízo cautelar.",
+  "S13_ausentes_contextuais": "Interesse nacional e função social da propriedade ausentes.",
+  "S13_funcao_simbolica_nivel": "Não. Meio ambiente: sem indicador suficiente; demais: não aplicável.",
+  "S13_categorias_estruturantes": "Dever de proteção ambiental; proibição de proteção deficiente; precaução; controle da cadeia do ouro; direitos indígenas (contexto).",
+  "S13_assimetria": "Sim: o meio ambiente estrutura a decisão; o interesse nacional não aparece, embora o ouro seja bem da União.",
+  "S13_ratio_reconstruida": "Sim, com o limite do juízo perfunctório.",
+  "S13_limites": "Natureza cautelar; ausência de informação sobre cumprimento.",
+  "S13_pendencias": "Controles S15 nº 1 (densificação no caso × institucional em cautelar) e nº 2 (fronteira do núcleo).",
+  "S13_pontos_comparaveis": "Comparar com o mérito (ADI 7273), para verificar a incorporação do critério, e com decisões sobre controle da mineração em terras indígenas.",
+  "S14_resolucao_operativa": "todos os núcleos",
+  "S14_IN_concretizacao": "Não mobilizado",
+  "S14_IN_funcao_simbolica": "Não aplicável",
+  "S14_FSP_concretizacao": "Não mobilizado",
+  "S14_FSP_funcao_simbolica": "Não aplicável",
+  "S14_MA_concretizacao": "Concretização no caso",
+  "S14_MA_funcao_simbolica": "Sem indicador suficiente",
+  "S14_padrao_decisorio": "Resolução cautelar com concretização do meio ambiente pelo dever de proteção e pela proibição de proteção deficiente, com ordens estruturais ao Executivo.",
+  "S14_planos_incorporacao": "Voto do Relator adotado por unanimidade; ementa enuncia o dever de proteção (art. 225) e a 'opção normativa deficiente'.",
+  "S14_resultado_contraria_hipotese": "Decisão concretizadora do meio ambiente, sem indício de função simbólica.",
+  "S14_conclusao_limitada": "Na ADI 7273 MC-Ref, o meio ambiente foi concretizado no caso, em juízo cautelar; os demais princípios não foram mobilizados.",
+  "S14_controles_pendentes": "Controle S15 nº 1 pode elevar a densificação a institucional; o mérito da ADI 7273 deve ser lido em conjunto.",
+  "S16_01_nucleos_autonomos": {
+   "r": "rever",
+   "j": "Fronteira entre a suspensão e as determinações ao Executivo (controle S15 nº 2)."
+  },
+  "S16_02_resultado_fundamentos": "sim",
+  "S16_03_trechos_localizacao": "sim",
+  "S16_04_autoria_posicao": "sim",
+  "S16_05_densificacao_contribuicao": "sim",
+  "S16_06_fsd_requisitos": "não aplicável",
+  "S16_07_alternativas_testadas": "sim",
+  "S16_08_ausencia_simbolismo": "sim",
+  "S16_09_implementacao_separada": "sim",
+  "S16_10_seguranca_baixa_revisao": "não aplicável",
+  "S16_11_nucleos_aninhados": {
+   "r": "sim",
+   "j": "Suspensão e determinações estruturais no mesmo núcleo (controle S15 nº 2)."
+  },
+  "S16_12_respostas_multiplas": "sim",
+  "S16_13_marcadores_regras": "sim",
+  "S16_14_combinacoes_compativeis": "sim",
+  "S16_15_fs_regras": "sim",
+  "S16_16_alertas_sem_alteracao": "sim",
+  "S16_17_categoria_alterada_ratificada": {
+   "r": "não",
+   "j": "Pré-preenchimento ainda não ratificado."
+  },
+  "S16_18_sensibilidade": {
+   "r": "não",
+   "j": "Controles S15 nº 1 e nº 2 indicados para análise de sensibilidade."
+  },
+  "S16_19_dens_institucional_incorporacao": "não aplicável",
+  "S16_20_generica_relevante_obstaculo": "não aplicável",
+  "S16_21_fd_sem_densificacao": "não aplicável",
+  "S16_22_lacuna_controle_proprio": "sim",
+  "S16_23_fsd_fora_ordinaria": "não aplicável",
+  "S16_24_fsd_entrada_mobilizacao": "não aplicável",
+  "S16_25_fsd_funcao_mecanismo": "não aplicável",
+  "S16_26_fsd_mesmo_plano": "não aplicável",
+  "S16_27_fs_categorias_distintas": "sim",
+  "S16_28_alternativas_capacidade": "sim",
+  "S16_pendencias_conferencia_manual": "(i) Erro material do acórdão (lei de Goiás; 'por maioria'); (ii) densificação em cautelar; (iii) fronteira do núcleo.",
+  "S16_notas": "Auditoria do pré-preenchimento."
+ },
+ "mapa": [
+  {
+   "S04_N_questao": "Plausibilidade e urgência da suspensão do art. 39, § 4º, da Lei 12.844/2013 (presunção de legalidade do ouro e de boa-fé do adquirente) e providências para o controle do comércio do ouro.",
+   "S04_N_regra_comando": "Presunções que esvaziam o controle de atividade inerentemente poluidora configuram proteção deficiente ao meio ambiente (art. 225), justificando a suspensão e ordens de regulação.",
+   "S04_N_consequencia": "Suspensão da eficácia do § 4º; ordem ao Executivo da União para, em 90 dias, editar novo marco normativo e adotar medidas contra a aquisição de ouro de áreas protegidas e terras indígenas.",
+   "S04_N_elegivel": {
+    "r": "sim",
+    "j": "Problema, fundamentação, resposta e consequência próprios; nexo minerário direto.",
+    "t": [
+     [
+      "Pelo menos em juízo perfunctório, como é típico da tutela cautelar, é assente a incompatibilidade entre o procedimento previsto na legislação impugnada e o patamar de proteção ambiental imposto pela Constituição Federal",
+      25
+     ]
+    ]
+   }
+  },
+  {
+   "S04_N_questao": "Conhecimento das ações (legitimidade ativa dos partidos políticos; alegação de inépcia pela AGU).",
+   "S04_N_regra_comando": "Partidos com representação no Congresso são legitimados (art. 103, VIII).",
+   "S04_N_consequencia": "Conhecimento das ações.",
+   "S04_N_elegivel": {
+    "r": "não",
+    "j": "A inépcia não é enfrentada em fundamentação própria; o conhecimento não tem consequência relevante para o recorte e não há conexão substantiva com o direito minerário.",
+    "t": [
+     [
+      "Entendo preenchidos os pressupostos de admissibilidade da ação",
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "S04_N_questao": "Inserção do dispositivo por emenda sem pertinência temática na conversão da MP 610/2013 ('emenda jabuti').",
+   "S04_N_regra_comando": "A jurisprudência sobre contrabando legislativo (ADI 5.127) é posterior à lei e não a invalida.",
+   "S04_N_consequencia": "Sem consequência: registro de contexto.",
+   "S04_N_elegivel": {
+    "r": "não",
+    "j": "Não demonstrada consequência jurídica própria: o Relator registra o fato apenas para contextualizar.",
+    "t": [
+     [
+      "A constatação não acarreta a inconstitucionalidade da norma",
+      14
+     ]
+    ]
+   }
+  }
+ ],
+ "nucleos": [
+  {
+   "n": 1,
+   "titulo": "Suspensão da presunção de legalidade do ouro e de boa-fé do adquirente (art. 39, § 4º, Lei 12.844/2013)",
+   "respostas": {
+    "S05_numero_titulo": "Núcleo 1 — Presunção de legalidade do ouro e boa-fé do adquirente",
+    "S05_questao_juridica": "Estão presentes plausibilidade e urgência para suspender as presunções de legalidade do ouro adquirido e de boa-fé das DTVMs, diante do dever de proteção ambiental?",
+    "S05_pretensao": {
+     "r": "PSB, Rede e PV alegam violação dos arts. 37, 225, 5º, 6º, 231 e 170 e pedem a suspensão; Câmara, Presidência e AGU defendem a discricionariedade legislativa; a ANM defende a constitucionalidade; o PGR opina pela procedência.",
+     "t": [
+      [
+       "o direito ao meio ambiente ecologicamente equilibrado (art. 225, CF), o direito à vida e à saúde (arts. 5º e 6º, CF), os direitos dos povos indígenas (art. 231, CF) e os princípios que orientam a ordem econômica (art. 170, CF)",
+       4
+      ]
+     ]
+    },
+    "S05_posicao_institucional": "Identificável: referendo unânime nos termos do voto do Relator.",
+    "S05_regra_central": {
+     "r": "Presunções legais que sabotam o controle da origem do ouro de atividade inerentemente poluidora configuram opção normativa deficiente diante do dever de proteção do art. 225.",
+     "t": [
+      [
+       "revelam-se uma opção normativa deficiente quanto à proteção do meio ambiente",
+       15
+      ]
+     ]
+    },
+    "S05_consequencia": "Suspensão do § 4º e ordens ao Executivo com prazo de 90 dias.",
+    "S05_autonomia_problema": "Validade cautelar das presunções do § 4º.",
+    "S05_autonomia_fundamentacao": "Dever de proteção ambiental, proibição de proteção deficiente e prova dos efeitos sobre o garimpo ilegal (pp. 14–27).",
+    "S05_autonomia_resposta": "Plausibilidade e urgência reconhecidas.",
+    "S05_autonomia_consequencia": "Suspensão e determinações.",
+    "S05_nao_fundir": "As determinações ao Executivo derivam da mesma fundamentação e completam a suspensão; separá-las criaria um núcleo sem fundamentação própria (controle S15 nº 2).",
+    "S05_macrocampos": "controle ambiental/proteção territorial ; ilicitude/responsabilização/reparação ; regulação econômico-fiscal",
+    "S05_marcadores_auxiliares": {
+     "r": "base técnico-probatória ; direitos indígenas/comunidades ; vulnerabilidade",
+     "t": [
+      [
+       "Há várias comunidades indígenas contaminadas por mercúrio em índices muito superiores ao aceitável pela Organização Mundial da Saúde",
+       20
+      ]
+     ],
+     "j": "Informações do MJ, da PF e do MMA e estudo empírico (pp. 20–27)."
+    },
+    "S05_fundamentacao_nucleo": "não fragmentada",
+    "S06_resolucao_operativa": {
+     "r": "Com resolução operativa",
+     "t": [
+      [
+       "1) a suspensão da eficácia do art. 39, § 4º, da Lei Federal 12.844/2013; 2) a adoção, no prazo de 90 (noventa) dias, por parte do Poder Executivo da União",
+       28
+      ]
+     ],
+     "a": "Decisão institucional (extrato de ata, unanimidade)",
+     "j": "Comando determinado de suspensão e ordens com prazo e destinatário, ainda que provisórios.",
+     "alt": "Não classificável — rejeitada: a natureza cautelar não impede consequência determinada.",
+     "s": "alta"
+    },
+    "S06_posicao_juridica": "Restringida: as DTVMs perdem a presunção de legalidade e de boa-fé; o Executivo passa a ter o dever de editar marco normativo e adotar medidas.",
+    "S06_comando": "Suspensão da eficácia do art. 39, § 4º; edição de novo marco normativo de fiscalização do comércio do ouro e de medidas que inviabilizem a aquisição de ouro de áreas protegidas e terras indígenas.",
+    "S06_destinatario": "DTVMs e adquirentes de ouro; Poder Executivo da União, inclusive autarquias de natureza especial que falaram nos autos (BACEN, ANM, CVM).",
+    "S06_prazo_modulacao": {
+     "r": "90 dias para as providências do Executivo; suspensão até o julgamento de mérito.",
+     "t": [
+      [
+       "a adoção, no prazo de 90 (noventa) dias, por parte do Poder Executivo da União",
+       27
+      ]
+     ]
+    },
+    "S06_mecanismo": {
+     "r": "Informação não disponível ou não localizada",
+     "j": "O acórdão não define mecanismo de verificação do cumprimento das ordens."
+    },
+    "S06_implementacao_documentada": "não",
+    "S06_info_adicional": "O mérito (ADI 7273) pode documentar o cumprimento das determinações.",
+    "IN_B_posicao": {
+     "r": "Ausente",
+     "j": "O art. 176, § 1º, e a cláusula 'interesse nacional' não são mencionados. A qualificação do ouro como bem da União aparece só em informação transcrita da Polícia Federal (p. 22), sem mobilização do princípio.",
+     "t": [
+      [
+       "consistente na usurpação de bem da União, como é o caso do ouro",
+       22
+      ]
+     ],
+     "alt": "Presença documental não judicial — rejeitada: a peça transcrita não invoca o interesse nacional nem conteúdo equivalente.",
+     "s": "alta"
+    },
+    "IN_B_plano_voto": "Decisão institucional e voto do Relator.",
+    "IN_B_forma_mobilizacao": "não mobilizado",
+    "IN_B_posicao_voto_decisao": "Não aplicável",
+    "IN_B_conexao": "Não aplicável",
+    "IN_B_mobilizacao_obstaculo": "Sem mobilização nem obstáculo.",
+    "IN_C_densificacao": "Não aplicável",
+    "IN_AT_criterio_plano": "Interesse nacional. Critério: não identificado. Plano: decisão institucional.",
+    "IN_AT_situacao_criterio": "critério não demonstrado após exame suficiente",
+    "IN_AT_atribuicao": {
+     "r": "Atribuição de critério não demonstrada",
+     "j": "Princípio ausente (7.4)."
+    },
+    "IN_AT_outras_fontes": "Art. 225; proporcionalidade (proibição de proteção deficiente); Lei 12.844/2013; Lei 8.176/91.",
+    "IN_AT_pergunta_auxiliar": "Nenhum papel.",
+    "IN_AT_efeito_teste": "Sem alerta.",
+    "IN_CN_concretizacao": {
+     "r": "Não mobilizado",
+     "s": "alta"
+    },
+    "IN_CN_plano_evidencias": "Decisão institucional; exame integral.",
+    "IN_CN_combinacao": "Ausente; Não aplicável; Atribuição de critério não demonstrada.",
+    "IN_CN_revisao_dirigida": {
+     "r": "sim",
+     "j": "Caso-chave para a pesquisadora: controvérsia sobre a cadeia do ouro (bem da União) sem mobilização do interesse nacional."
+    },
+    "IN_CN_info_adicional": "Nenhuma.",
+    "FSP_B_posicao": {
+     "r": "Ausente",
+     "j": "Os requerentes invocam genericamente 'os princípios que orientam a ordem econômica (art. 170, CF)', sem o inciso III nem conteúdo de função social da propriedade; o voto não o mobiliza.",
+     "t": [
+      [
+       "os princípios que orientam a ordem econômica (art. 170, CF)",
+       4
+      ]
+     ],
+     "alt": "Presença documental não judicial — rejeitada: a remissão genérica ao art. 170 não demonstra o conteúdo do inciso III. Revisão dirigida recomendada.",
+     "s": "média"
+    },
+    "FSP_B_plano_voto": "Decisão institucional e voto do Relator.",
+    "FSP_B_forma_mobilizacao": "não mobilizado",
+    "FSP_B_posicao_voto_decisao": "Não aplicável",
+    "FSP_B_conexao": "Não aplicável",
+    "FSP_B_mobilizacao_obstaculo": "Sem mobilização nem obstáculo.",
+    "FSP_C_densificacao": "Não aplicável",
+    "FSP_AT_criterio_plano": "Função social da propriedade. Critério: não identificado. Plano: decisão institucional.",
+    "FSP_AT_situacao_criterio": "critério não demonstrado após exame suficiente",
+    "FSP_AT_atribuicao": {
+     "r": "Atribuição de critério não demonstrada",
+     "j": "Princípio ausente (7.4)."
+    },
+    "FSP_AT_outras_fontes": "Art. 170 (genérico, suscitado pelos requerentes).",
+    "FSP_AT_pergunta_auxiliar": "Nenhum papel.",
+    "FSP_AT_efeito_teste": "Sem alerta.",
+    "FSP_CN_concretizacao": {
+     "r": "Não mobilizado",
+     "s": "média"
+    },
+    "FSP_CN_plano_evidencias": "Decisão institucional; exame integral.",
+    "FSP_CN_combinacao": "Ausente; Não aplicável; Atribuição de critério não demonstrada.",
+    "FSP_CN_revisao_dirigida": {
+     "r": "sim",
+     "j": "Ausente × Presença documental não judicial (remissão genérica ao art. 170 na inicial)."
+    },
+    "FSP_CN_info_adicional": "Petição inicial não juntada; só o resumo do relatório.",
+    "MA_B_posicao": {
+     "r": "Fundamento determinante",
+     "t": [
+      [
+       "não se mostram coerentes com o dever de proteção do meio ambiente, veiculado pelo art. 225 da Constituição Federal",
+       15
+      ],
+      [
+       "é assente a incompatibilidade entre o procedimento previsto na legislação impugnada e o patamar de proteção ambiental imposto pela Constituição Federal",
+       25
+      ]
+     ],
+     "a": "Voto do Relator, adotado por unanimidade; ementa, itens 4 e 5 (decisão institucional)",
+     "j": "O dever de proteção do art. 225 é o parâmetro de que se extrai a plausibilidade jurídica da cautelar; sem ele não há fumus boni iuris.",
+     "alt": "Relevante sem participação determinante — rejeitada: a incompatibilidade com o art. 225 é a razão da suspensão."
+    },
+    "MA_B_plano_voto": "Decisão institucional (referendo unânime nos termos do voto do Relator; ementa).",
+    "MA_B_forma_mobilizacao": {
+     "r": "literal",
+     "j": "Citação expressa do art. 225 (critério A1).",
+     "t": [
+      [
+       "Dever de Proteção do meio ambiente (art. 225 da CF)",
+       1
+      ]
+     ]
+    },
+    "MA_B_posicao_voto_decisao": "Voto condutor e único.",
+    "MA_B_conexao": {
+     "r": "Liga a presunção legal (norma) ao incentivo empírico ao garimpo ilegal (fatos documentados por MJ, PF e MMA) e à conclusão de proteção deficiente.",
+     "t": [
+      [
+       "a simplificação do processo de compra de ouro permitiu a expansão do comércio ilegal, fortalecendo as atividades de garimpo ilegal",
+       19
+      ]
+     ]
+    },
+    "MA_B_mobilizacao_obstaculo": "Mobilização pelo julgador, em voz própria. A natureza cautelar limita a profundidade (juízo perfunctório), sem impedir a mobilização.",
+    "MA_C_densificacao": {
+     "r": "Densificação no caso/corrente",
+     "t": [
+      [
+       "O princípio da proibição à proteção insuficiente, em matéria ambiental, claramente vincula os Poderes constituídos",
+       17
+      ],
+      [
+       "simplesmente sabotam a efetividade do controle de uma atividade inerentemente poluidora",
+       15
+      ]
+     ],
+     "a": "Voto do Relator, adotado por unanimidade",
+     "j": "Extrai-se do art. 225 o critério de que o legislador não pode instituir presunções que esvaziem o controle estatal de atividade inerentemente poluidora (proibição de proteção deficiente). A aplicação é feita em juízo perfunctório e vinculada à prova dos efeitos da norma.",
+     "alt": "Densificação institucional com critério potencialmente replicável — considerada (unanimidade; ementa: 'opção normativa deficiente'); rejeitada provisoriamente pela natureza cautelar e pela formulação ligada ao caso. Controle S15 nº 1."
+    },
+    "MA_C_plano_segmento": "Voto do Relator, item II-1 (pp. 13–25), adotado por unanimidade.",
+    "MA_C_conteudo_extraido": "Do princípio Meio ambiente ecologicamente equilibrado, a decisão extraiu o critério segundo o qual o dever de proteção vincula o legislador e veda presunções legais que esvaziem o controle estatal da origem de recursos de atividade inerentemente poluidora, como a garimpagem do ouro, por configurarem proteção deficiente.",
+    "MA_C_criterio": "Proibição de proteção deficiente: vedação de presunções de legalidade e boa-fé que sabotem o controle da cadeia do ouro.",
+    "MA_C_alcance": {
+     "r": "apenas o caso ; cumprimento/controle",
+     "j": "Formulação vinculada ao § 4º e às ordens de regulação do comércio do ouro."
+    },
+    "MA_C_incorporacao": {
+     "r": "Adesão unânime ao voto; ementa enuncia o dever de proteção e a 'opção normativa deficiente', sem formular o critério em termos gerais.",
+     "t": [
+      [
+       "Opção normativa deficiente",
+       1
+      ]
+     ]
+    },
+    "MA_AT_criterio_plano": "Meio ambiente ecologicamente equilibrado. Critério: vedação de presunções que esvaziem o controle da cadeia do ouro (proteção deficiente). Plano: decisão institucional; voto, item II-1.",
+    "MA_AT_situacao_criterio": "critério identificado",
+    "MA_AT_atribuicao": {
+     "r": "Contribuição compartilhada",
+     "t": [
+      [
+       "a consideração dos direitos fundamentais como imperativos de tutela",
+       15
+      ]
+     ],
+     "j": "O critério combina o dever de proteção do art. 225 com a proporcionalidade como proibição de proteção deficiente e o princípio da precaução.",
+     "alt": "Contribuição própria ao critério — rejeitada: a estrutura da proibição de proteção deficiente vem da proporcionalidade."
+    },
+    "MA_AT_outras_fontes": "Proporcionalidade (Untermassverbot); princípio da precaução; Declaração de Estocolmo e Rio-92; precedentes ADI 5.312 e ADI 4.901.",
+    "MA_AT_contribuicao_especifica": "O art. 225 fornece o objeto e a intensidade do dever de proteção que a proporcionalidade operacionaliza.",
+    "MA_AT_explicavel_outra_norma": {
+     "r": "não",
+     "j": "A proporcionalidade sozinha não define o bem protegido nem o dever estatal ambiental."
+    },
+    "MA_AT_contrafactual": {
+     "r": "não",
+     "j": "Sem o art. 225 não haveria dever de proteção ambiental a tornar deficiente a opção normativa."
+    },
+    "MA_AT_pergunta_auxiliar": "Parâmetro central da plausibilidade jurídica da cautelar.",
+    "MA_AT_efeito_teste": "Sem alerta; compatível com Concretização no caso.",
+    "MA_CN_concretizacao": {
+     "r": "Concretização no caso",
+     "j": "Fundamento determinante + Densificação no caso/corrente + Contribuição compartilhada (7.4).",
+     "s": "média"
+    },
+    "MA_CN_plano_evidencias": "Decisão institucional: voto, pp. 13–25; ata, p. 28; ementa, p. 1.",
+    "MA_CN_combinacao": "Fundamento determinante; Densificação no caso/corrente; Contribuição compartilhada.",
+    "MA_CN_revisao_dirigida": {
+     "r": "sim",
+     "j": "Densificação no caso × institucional em decisão cautelar unânime (controle S15 nº 1)."
+    },
+    "MA_CN_info_adicional": "Mérito da ADI 7273 para verificar a incorporação.",
+    "IN_FS_nucleo_segmento": "Núcleo 1; nenhum segmento mobiliza o princípio.",
+    "IN_FS_plano": "decisão institucional",
+    "IN_FS_entrada": {
+     "r": "não",
+     "j": "Sem mobilização judicial nem expectativa constitucional documentada."
+    },
+    "IN_FS_funcao_simbolica": {
+     "r": "Não aplicável",
+     "j": "Entrada negativa (8.1).",
+     "s": "alta"
+    },
+    "FSP_FS_nucleo_segmento": "Núcleo 1; nenhum segmento mobiliza o princípio.",
+    "FSP_FS_plano": "decisão institucional",
+    "FSP_FS_entrada": {
+     "r": "não",
+     "j": "A remissão genérica ao art. 170 na inicial não constitui expectativa constitucional documentada da função social da propriedade."
+    },
+    "FSP_FS_funcao_simbolica": {
+     "r": "Não aplicável",
+     "j": "Entrada negativa (8.1).",
+     "s": "média"
+    },
+    "MA_FS_nucleo_segmento": {
+     "r": "Núcleo 1; voto, item II-1.",
+     "t": [
+      [
+       "revelam-se uma opção normativa deficiente quanto à proteção do meio ambiente",
+       15
+      ]
+     ]
+    },
+    "MA_FS_plano": "decisão institucional",
+    "MA_FS_entrada": {
+     "r": "sim",
+     "j": "Mobilização judicial determinante."
+    },
+    "MA_FS_posicao_associada": "Fundamento determinante",
+    "MA_FS_configuracao": {
+     "r": "não aplicável",
+     "j": "Sem cogitação de Função simbólica demonstrada."
+    },
+    "MA_FS_proeminencia": {
+     "r": "alta",
+     "t": [
+      [
+       "Dever de Proteção do meio ambiente (art. 225 da CF)",
+       1
+      ]
+     ],
+     "j": "Presente na ementa e em quase todo o voto."
+    },
+    "MA_FS_baixa_contribuicao": {
+     "r": "não demonstrada",
+     "j": "O princípio produz critério e consequência (suspensão e ordens)."
+    },
+    "MA_FS_discrepancia": {
+     "r": "ausente",
+     "j": "O compromisso de proteção é coerente com a suspensão e as ordens."
+    },
+    "MA_FS_compromisso_criterio": "Compromisso: dever de proteção; critério: vedação de presunções que esvaziem o controle; comando: suspensão e ordens; matéria não enfrentada: direitos indígenas (art. 231) apenas contextualmente.",
+    "MA_FS_funcao_identificavel": {
+     "r": "Não aplicável",
+     "j": "Nenhuma função simbólica identificável; ausência registrada."
+    },
+    "MA_FS_politico_ideologica": {
+     "r": "não demonstrada",
+     "j": "Sem evidência."
+    },
+    "MA_FS_funcao_simbolica": {
+     "r": "Sem indicador suficiente",
+     "j": "Módulo examinado sem indicador positivo.",
+     "s": "alta"
+    },
+    "MA_FS_limite_atribuicao": "Plano institucional; sem atribuição de função simbólica.",
+    "MA_ALT_voto_segmento": "Voto do Relator, item II-1.",
+    "MA_ALT_plano_aspecto": "Eventual mecanismo discursivo do meio ambiente no plano institucional.",
+    "MA_ALT_H01_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H01_evidencia_contraria": "O princípio é o parâmetro da plausibilidade.",
+    "MA_ALT_H01_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito: não há baixa contribuição a explicar."
+    },
+    "MA_ALT_H02_evidencia_favoravel": "Nenhuma regra infraconstitucional mais específica resolve o caso.",
+    "MA_ALT_H02_evidencia_contraria": "A decisão parte do art. 225.",
+    "MA_ALT_H02_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H03_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H03_evidencia_contraria": "Ação conhecida.",
+    "MA_ALT_H03_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H04_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H04_evidencia_contraria": "Unanimidade.",
+    "MA_ALT_H04_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H05_evidencia_favoravel": {
+     "r": "Juízo perfunctório expressamente declarado.",
+     "t": [
+      [
+       "Pelo menos em juízo perfunctório, como é típico da tutela cautelar",
+       25
+      ]
+     ]
+    },
+    "MA_ALT_H05_evidencia_contraria": "A cautelar produz comando operativo e critério identificável.",
+    "MA_ALT_H05_decisao": {
+     "r": "aceita parcialmente",
+     "j": "Explica a densificação restrita ao caso, não indica função simbólica. Efeito: limita o alcance da densificação."
+    },
+    "MA_ALT_H06_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H06_evidencia_contraria": "Prova documental extensa (MJ, PF, MMA).",
+    "MA_ALT_H06_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H07_evidencia_favoravel": "Critério compartilhado com a proporcionalidade.",
+    "MA_ALT_H07_evidencia_contraria": "Contribuição específica do art. 225.",
+    "MA_ALT_H07_decisao": {
+     "r": "aceita parcialmente",
+     "j": "Explica a atribuição compartilhada; sem efeito sobre a função simbólica."
+    },
+    "MA_ALT_H08_evidencia_favoravel": "Nenhuma.",
+    "MA_ALT_H08_evidencia_contraria": "Voto adotado por unanimidade.",
+    "MA_ALT_H08_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H09_evidencia_favoravel": "Petição inicial e pareceres só resumidos.",
+    "MA_ALT_H09_evidencia_contraria": "Voto integral disponível.",
+    "MA_ALT_H09_decisao": {
+     "r": "rejeitada",
+     "j": "Sem efeito."
+    },
+    "MA_ALT_H10_evidencia_favoravel": {
+     "r": "Linguagem enfática ('consórcio espúrio').",
+     "t": [
+      [
+       "É preciso que esse consórcio espúrio, formado entre garimpo ilegal e organizações criminosas, seja o quanto antes paralisado",
+       27
+      ]
+     ]
+    },
+    "MA_ALT_H10_evidencia_contraria": "A ênfase acompanha comando operativo.",
+    "MA_ALT_H10_decisao": {
+     "r": "rejeitada",
+     "j": "A retórica não se desconecta do critério. Sem efeito."
+    },
+    "IN_AUS_aplicavel": {
+     "r": "sim",
+     "j": "Posição Ausente."
+    },
+    "IN_AUS_pertinencia": {
+     "r": "potencialmente",
+     "j": "A controvérsia envolve o aproveitamento e a comercialização do ouro de garimpo (bem da União, PLG), matéria ligada ao regime do art. 176; não há, porém, discussão sobre condições de aproveitamento no interesse nacional."
+    },
+    "IN_AUS_suscitacao": {
+     "r": "nenhuma peça",
+     "j": "Relatório (pp. 3–11) não registra suscitação do art. 176."
+    },
+    "IN_AUS_enfrentamento": "não enfrentado",
+    "IN_AUS_silenciamento": {
+     "r": "não",
+     "j": "Falta pertinência clara e suscitação."
+    },
+    "FSP_AUS_aplicavel": {
+     "r": "sim",
+     "j": "Posição Ausente."
+    },
+    "FSP_AUS_pertinencia": {
+     "r": "remotamente",
+     "j": "Os princípios da ordem econômica foram invocados genericamente; a função social da propriedade não tem relação demonstrada com a presunção."
+    },
+    "FSP_AUS_suscitacao": {
+     "r": "pedido",
+     "t": [
+      [
+       "os princípios que orientam a ordem econômica (art. 170, CF)",
+       4
+      ]
+     ],
+     "j": "Remissão genérica ao art. 170 na inicial, sem o inciso III."
+    },
+    "FSP_AUS_enfrentamento": "não enfrentado",
+    "FSP_AUS_silenciamento": {
+     "r": "não",
+     "j": "Falta pertinência clara."
+    },
+    "MA_AUS_aplicavel": {
+     "r": "não — Não aplicável",
+     "j": "Princípio mobilizado como fundamento determinante."
+    },
+    "S10_interpretacao_qualitativa": "O interesse nacional não aparece mesmo numa controvérsia sobre a cadeia do ouro (bem da União); a decisão é estruturada pela proteção ambiental. A ausência é registrada sem inferência de simbolismo (caso-chave para a revisão).",
+    "S11_cumprimento": {
+     "r": "não",
+     "j": "O acórdão não documenta o cumprimento das ordens de 90 dias."
+    },
+    "S11_providencia": "Suspensão do § 4º e determinações ao Executivo da União.",
+    "S11_destinatario": "Poder Executivo da União, BACEN, ANM, CVM; DTVMs.",
+    "S11_prazo": "90 dias.",
+    "S11_mecanismo_controle": {
+     "r": "Informação não disponível ou não localizada"
+    },
+    "S11_fonte": "decisão",
+    "S11_limite_inferencial": "As ordens não comprovam a edição do marco normativo nem a redução do garimpo ilegal.",
+    "S12_identificacao": "Núcleo 1 — Presunção de legalidade do ouro e boa-fé do adquirente",
+    "S12_planos_registros": "Meio ambiente: plano institucional (voto unânime; ementa). Interesse nacional e função social: ausentes.",
+    "S12_categorias_prevalentes": "Dever de proteção ambiental; proibição de proteção deficiente; precaução; controle da cadeia do ouro.",
+    "S12_assimetria": "Meio ambiente concretizado no caso; interesse nacional e função social ausentes.",
+    "S12_interpretacao": "Concretização do dever de proteção ambiental em juízo cautelar, com remédio estrutural.",
+    "S12_insuficiencia": "Natureza cautelar; inicial apenas resumida.",
+    "S12_revisao_dirigida": {
+     "r": "sim",
+     "j": "MA_C_densificacao (caso × institucional); fronteira do núcleo; FSP_B_posicao (Ausente × Presença documental não judicial); IN (caso-chave)."
+    },
+    "S12_alerta_pseudorreplicacao": "Cautelar e mérito da ADI 7273 tratam do mesmo objeto; não contar como evidências independentes.",
+    "S13_IN_observacao": "Ausente (caso-chave: ouro como bem da União).",
+    "S13_FSP_observacao": "Ausente; art. 170 genérico na inicial.",
+    "S13_MA_observacao": "Concretização no caso (cautelar)."
+   },
+   "categorias": [
+    {
+     "S10_CAT_principio": "Interesse nacional ; Função social da propriedade",
+     "S10_CAT_categoria": "Dever de proteção ambiental e proibição de proteção deficiente",
+     "S10_CAT_fonte": {
+      "r": "CF, art. 225; proporcionalidade",
+      "t": [
+       [
+        "O princípio da proibição à proteção insuficiente, em matéria ambiental, claramente vincula os Poderes constituídos",
+        17
+       ]
+      ]
+     },
+     "S10_CAT_posicao": "Fundamento determinante (decisão institucional)",
+     "S10_CAT_funcao": "Parâmetro da plausibilidade da cautelar",
+     "S10_CAT_consequencia": "Suspensão do § 4º",
+     "S10_CAT_relacao": "adjacente"
+    },
+    {
+     "S10_CAT_principio": "Interesse nacional",
+     "S10_CAT_categoria": "Controle e rastreabilidade da cadeia do ouro (combate à usurpação de bem da União)",
+     "S10_CAT_fonte": "Lei 12.844/2013; Lei 8.176/91; informações da PF e do MJ",
+     "S10_CAT_posicao": "Fundamento fático-normativo do voto do Relator",
+     "S10_CAT_funcao": "Demonstra o efeito da presunção sobre o garimpo ilegal",
+     "S10_CAT_consequencia": "Ordens de novo marco normativo",
+     "S10_CAT_relacao": "adjacente"
+    }
+   ],
+   "controles": [
+    {
+     "S15_K_referencia": "ADI 7273 MC-Ref, núcleo 1, Meio ambiente, decisão institucional, MA_C_densificacao / MA_CN_concretizacao",
+     "S15_K_categoria_antes": "Densificação no caso/corrente; Concretização no caso",
+     "S15_K_marcador": {
+      "r": "Registro provisório pendente de conferência",
+      "j": "MA_C_densificacao e MA_CN_concretizacao"
+     },
+     "S15_K_alternativa": "Densificação institucional com critério potencialmente replicável; Concretização institucional",
+     "S15_K_razao": "Unanimidade e ementa favorecem a incorporação; a natureza cautelar e o juízo perfunctório a limitam. O instrumento não regula a cautelar.",
+     "S15_K_natureza": {
+      "r": "combinação não prevista",
+      "t": [
+       [
+        "Pelo menos em juízo perfunctório, como é típico da tutela cautelar",
+        25
+       ]
+      ],
+      "a": "Voto do Relator (unanimidade)",
+      "s": "média"
+     },
+     "S15_K_impacto": "possível",
+     "S15_K_sensibilidade": "sim – cenário: com densificação institucional, a concretização passa a institucional; a síntese continua concretizadora.",
+     "S15_K_decisao_final": "manter categoria",
+     "S15_K_status": "pendente"
+    },
+    {
+     "S15_K_referencia": "ADI 7273 MC-Ref, mapa da seção 4 (fronteira do núcleo 1)",
+     "S15_K_categoria_antes": "Determinações ao Executivo dentro do núcleo 1",
+     "S15_K_marcador": "nenhum",
+     "S15_K_alternativa": "Núcleo autônomo para as determinações estruturais",
+     "S15_K_razao": "As ordens têm comando, destinatário e prazo próprios, mas não fundamentação própria.",
+     "S15_K_natureza": {
+      "r": "outra: fronteira entre núcleos (revisão dirigida obrigatória)",
+      "t": [
+       [
+        "2) a adoção, no prazo de 90 (noventa) dias, por parte do Poder Executivo da União",
+        27
+       ]
+      ],
+      "s": "média"
+     },
+     "S15_K_impacto": "possível",
+     "S15_K_sensibilidade": "sim – cenário: com dois núcleos, o segundo teria a mesma posição do meio ambiente e resolução operativa própria.",
+     "S15_K_decisao_final": "manter categoria",
+     "S15_K_status": "pendente"
+    }
+   ]
+  }
+ ]
+}

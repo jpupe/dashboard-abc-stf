@@ -120,7 +120,7 @@ O questionário completo, da seção 1 à 16, foi transcrito num **catálogo de 
 
 **Campos que acompanham cada classificação.** O questionário pede evidência textual, localização e autoria, justificativa, categoria alternativa e grau de segurança. Esses campos são registrados em colunas próprias da linha da classificação. A coluna "Campos absorvidos" do catálogo indica onde cada campo do instrumento foi registrado.
 
-O dicionário (`dicionario_dados_banco_ABC.xlsx`) reúne as abas Leia-me, Colunas do banco, Catálogo de perguntas, Regras 7.4 e Marcadores.
+O dicionário (`metodo/dicionario_dados_banco_ABC.xlsx`) reúne as abas Leia-me, Colunas do banco, Catálogo de perguntas, Regras 7.4 e Marcadores. O catálogo também está disponível em formato de dados (`metodo/dicionario_campos.json`) e em texto (`metodo/catalogo_perguntas.txt`).
 
 ---
 
@@ -365,4 +365,4 @@ python 06_verificar_outputs.py banco_ABC_STF_mineracao.xlsx dicionario_dados_ban
 | Streamlit | 1.67 |
 | Plotly | 7.1 |
 
-Os PDFs das decisões, o banco SQLite e os registros por decisão ficam no projeto da pesquisadora. O painel depende apenas do Excel final.
+O banco SQLite com o texto extraído das 27 decisões está em `metodo/decisoes.sqlite`, e três registros de codificação usados como modelo (ADI 3355, ADI 6650 e ADI 7273 MC-Ref) estão em `metodo/codificacao/`. Os PDFs das decisões e os demais registros por decisão ficam no projeto da pesquisadora. O painel depende apenas do Excel final.

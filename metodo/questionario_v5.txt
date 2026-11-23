@@ -1,0 +1,2298 @@
+ 
+APÊNDICE X 
+INSTRUMENTO DE ANÁLISE DOS NÚCLEOS DECISÓRIOS E DE 
+CLASSIFICAÇÃO PELO ÍNDICE A/B/C 
+Finalidade. Registrar, de forma padronizada, auditável e rastreável, os núcleos decisórios 
+elegíveis e as classificações atribuídas pela pesquisadora, distinguindo: a) a resolução operativa 
+da controvérsia; b) a posição de cada princípio constitucional na fundamentação; c) a 
+densificação normativa do princípio; d) a atribuição do critério à fonte normativa pertinente; e) 
+a eventual função simbólica do discurso constitucional; e f) as ausências e categorias jurídicas 
+prevalentes. 
+Unidades e níveis de análise. A decisão judicial constitui o caso empírico. O núcleo decisório 
+juridicamente autônomo constitui unidade interna de análise. Os resultados devem ser 
+apresentados por núcleo e por decisão, preservando-se a estrutura aninhada. A inferência sobre 
+constitucionalização simbólica somente será formulada após a comparação do conjunto das 
+decisões. 
+Modo de preenchimento. Preencher as seções 1 a 4 uma vez por decisão. Reproduzir as seções 
+5 a 12 para cada núcleo elegível; a seção 4 constitui o mapa do conjunto de núcleos e a seção 
+12 é a síntese individual. Na seção 7, preencher os blocos Interesse nacional, Função social da 
+propriedade e Meio ambiente ecologicamente equilibrado; repetir a seção 8 por princípio e 
+aplicar a seção 10 segundo sua regra de entrada. A seção 9 acompanha cada princípio e plano 
+sob exame nos Indicadores de função simbólica. Preencher as seções 13 e 14 por decisão. 
+Utilizar a seção 15 em cada revisão dirigida e a seção 16 na auditoria final da decisão. 
+Rastreabilidade. Toda classificação substantiva aplicável deve registrar evidência textual, 
+localização, autoria, posição institucional e justificativa. A categoria alternativa considerada e 
+a razão de sua rejeição são obrigatórias nos casos limítrofes, de segurança baixa ou inconclusiva 
+ou com possível impacto nas sínteses. O grau de segurança é avaliação qualitativa da 
+pesquisadora, não probabilidade estatística. 
+Planos de registro. Identificar o voto, a corrente, o núcleo e a decisão de referência em cada 
+conjunto de evidências. A densificação normativa e a atribuição normativa podem descrever 
+um critério de voto ou corrente não prevalecente, sem convertê-lo em posição da Corte. Quando 
+o princípio aparecer em voto não prevalecente, distinguir essa densificação localizada da 
+presença contextual ou discursiva na síntese institucional de concretização normativa. 
+Delimitações de voto, corrente ou segmento não criam, por si mesmas, novos núcleos; a 
+autonomia permanece sujeita aos requisitos da seção 5. 
+Regra de interpretação. A combinação entre ausência de resolução operativa, posição marginal 
+ou ausente do princípio e conteúdo não densificado, assim como a ausência do princípio, sua 
+baixa efetividade ou sua invocação vaga, não demonstram, isoladamente, constitucionalização 
+simbólica. O índice A/B/C e os Indicadores de função simbólica produzem medidas distintas e 
+complementares. 
+ 
+a. Variáveis de resposta única e múltipla 
+Nas variáveis de resposta única, selecionar somente uma categoria. Nas variáveis de resposta 
+múltipla, registrar todas as categorias documentalmente demonstradas.  
+Tipo 
+Variáveis 
+Resposta única 
+Fundamentação; suficiência documental; centralidade; caso 
+limítrofe; maioria quanto ao fundamento; resolução operativa; 
+posição do princípio na fundamentação; densificação 
+normativa; atribuição normativa; concretização normativa; 
+função simbólica; graus de segurança; pergunta de entrada dos 
+Indicadores de função simbólica; Proeminência discursiva; 
+Baixa contribuição normativa; Discrepância interna; Função 
+político-ideológica; 
+Pertinência 
+jurídica; 
+Enfrentamento 
+judicial; 
+silenciamento; 
+decisão 
+sobre 
+cada 
+hipótese 
+alternativa; relação de cada categoria prevalente com o 
+princípio. Meio de julgamento e órgão julgador são campos 
+distintos. 
+Resposta múltipla 
+Tipo de decisão, quando coexistirem qualificações distintas; 
+objeto minerário; macrocampos; marcadores; formas de 
+mobilização documentalmente coexistentes; alcance; Função 
+identificável; hipóteses alternativas examinadas; Suscitação; 
+fontes de implementação. Categorias que afirmam ausência 
+não coexistem com categorias positivas incompatíveis no 
+mesmo registro. 
+b. Marcadores de dados 
+Marcador 
+Regra de uso 
+Não aplicável 
+Não aplicável em razão da estrutura do instrumento ou de 
+regra de salto. Exige justificativa quando a inaplicabilidade 
+não for evidente. 
+Informação não disponível ou não 
+localizada 
+Informação não disponível ou não localizada no material 
+examinado. Registrar a fonte ou o limite documental 
+pertinente. 
+Inconclusivo — evidência 
+examinada insuficiente 
+Evidência examinada, mas insuficiente para decidir entre 
+categorias. Não equivale a campo não preenchido. 
+Campo aplicável ainda não 
+preenchido 
+Campo aplicável ainda não preenchido. Representa pendência 
+de completude. 
+Registro provisório pendente de 
+conferência 
+Categoria ou registro provisório pendente de conferência. 
+Célula vazia 
+Admitida somente em linha não utilizada, campo livre 
+opcional ou campo estruturalmente desativado. Não 
+representa resposta analítica. 
+ 
+Os marcadores administrativos Não aplicável, Informação não disponível ou não localizada, 
+Inconclusivo — evidência examinada insuficiente, Campo aplicável ainda não preenchido e 
+Registro provisório pendente de conferência não substituem as categorias substantivas próprias 
+de resolução operativa, posição do princípio na fundamentação, densificação normativa, 
+atribuição normativa, concretização normativa e função simbólica. As categorias substantivas 
+de inconclusividade devem ser usadas somente quando previstas na respectiva variável. 
+Registro da pendência. Quando já houver categoria substantiva provisória, preservá-la no 
+campo da variável e registrar Registro provisório pendente de conferência e o motivo no 
+controle da seção 15, identificando decisão, núcleo, princípio, plano e variável. Se o campo 
+aplicável ainda não foi examinado, registrar Campo aplicável ainda não preenchido como 
+marcador administrativo no campo e no controle, sem selecionar categoria substantiva. Não 
+deixar a célula vazia para representar pendência nem usar as categorias substantivas de 
+concretização normativa ou função simbólica inconclusivas para representar atraso de 
+preenchimento. O marcador administrativo Inconclusivo — evidência examinada insuficiente 
+não substitui as categorias de inconclusividade previstas nas variáveis. 
+ 
+1 IDENTIFICAÇÃO DA DECISÃO 
+Campo 
+Registro 
+Classe e número 
+ 
+Órgão julgador 
+ 
+Relator(a) originário(a) 
+ 
+Redator(a) do acórdão 
+ 
+Data(s) do julgamento e data final 
+ 
+Tipo de decisão 
+☐ acórdão  ☐ cautelar  ☐ mérito  ☐ monocrática  ☐ outra: 
+Objeto 
+ 
+Resultado proclamado 
+ 
+Meio de julgamento 
+☐ presencial  ☐ virtual  ☐ outra: 
+Peças examinadas 
+ 
+Acesso ao inteiro teor 
+ 
+Acompanhamento processual 
+ 
+Formação da maioria quanto ao 
+resultado 
+ 
+ 
+Campo 
+Registro 
+Quórum constitucional pertinente e 
+atendimento 
+ 
+Fundamentação 
+☐ não fragmentada   
+☐ parcialmente fragmentada   
+☐ substancialmente fragmentada   
+☐ não verificável 
+Suficiência documental para 
+reconstruir a decisão institucional 
+☐ sim  ☐ parcial  ☐ não 
+2 TRIAGEM, ELEGIBILIDADE E DELIMITAÇÃO MINERÁRIA 
+Campo 
+Registro 
+Conexão substantiva com o direito 
+minerário 
+ 
+Objeto minerário identificado 
+☐ extração   
+☐ recurso/substância mineral   
+☐ cadeia produtiva   
+☐ impacto direto   
+☐ tributação/compensação   
+☐ servidão/propriedade   
+☐ licenciamento   
+☐ garimpo   
+☐ outro: 
+Centralidade da mineração 
+☐ central  ☐ secundária  ☐ contextual 
+Conteúdo da decisão 
+☐ substantivo   
+☐ processual com consequência relevante   
+☐ exclusivamente processual 
+Caso limítrofe? 
+☐ não  ☐ sim – justificar: 
+Justificativa de inclusão/exclusão 
+ 
+Limites do material disponível 
+ 
+3 RECONSTRUÇÃO DA DECISÃO INSTITUCIONAL 
+Campo 
+Registro 
+Resultado proclamado 
+ 
+ 
+Campo 
+Registro 
+Fundamentos do(a) relator(a) 
+ 
+Correntes identificadas e 
+respectivos fundamentos 
+ 
+Adesões, ressalvas e divergências 
+ 
+Razões convergentes suficientes 
+ 
+Maioria quanto ao fundamento 
+☐ identificável  ☐ parcial  ☐ não identificável 
+Maioria quanto ao 
+resultado ≠ maioria 
+quanto ao fundamento? 
+☐ não  ☐ sim – explicar: 
+Efeito do quórum sobre o mérito e a 
+eficácia 
+ 
+Necessidade de separar núcleo 
+substantivo e núcleo processual 
+☐ não  ☐ sim – explicar: 
+Repercussão da fragmentação na 
+codificação 
+ 
+4 MAPA DOS NÚCLEOS DECISÓRIOS ELEGÍVEIS 
+Nº 
+Questão jurídica 
+Regra/comando 
+Consequência 
+Elegível? 
+1 
+ 
+ 
+ 
+☐ sim  ☐ não 
+2 
+ 
+ 
+ 
+☐ sim  ☐ não 
+3 
+ 
+ 
+ 
+☐ sim  ☐ não 
+4 
+ 
+ 
+ 
+☐ sim  ☐ não 
+5 
+ 
+ 
+ 
+☐ sim  ☐ não 
+5 IDENTIFICAÇÃO DO NÚCLEO 
+Campo 
+Registro 
+Número e título 
+ 
+Questão jurídica 
+ 
+Pretensão ou controvérsia 
+ 
+ 
+Campo 
+Registro 
+Posição institucional identificável 
+ 
+Regra ou comando central 
+ 
+Consequência jurídica própria 
+ 
+Autonomia do núcleo 
+Problema próprio: 
+Fundamentação própria: 
+Resposta própria: 
+Consequência própria: 
+Por que não deve ser fundido ou 
+fragmentado? 
+ 
+Macrocampos 
+☐ controle ambiental/proteção territorial   
+☐ riscos ambientais/sanitários/ocupacionais   
+☐ organização federativa/controle institucional   
+☐ regulação econômico-fiscal   
+☐ ilicitude/responsabilização/reparação   
+☐ outro: 
+Marcadores auxiliares 
+☐ base técnico-probatória   
+☐ infraestrutura/logística   
+☐ direitos indígenas/comunidades   
+☐ consulta/participação   
+☐ vulnerabilidade   
+☐ outro: 
+Fundamentação no núcleo 
+☐ não fragmentada   
+☐ parcial   
+☐ substancial   
+☐ não verificável 
+6 DIMENSÃO A — RESOLUÇÃO OPERATIVA DA CONTROVÉRSIA 
+Pergunta: o núcleo resolveu operativamente a controvérsia minerária, produzindo consequência 
+jurídica determinada ou determinável? 
+Campo 
+Registro 
+Resolução operativa 
+☐ Sem resolução operativa 
+☐ Com resolução operativa 
+☐ Não classificável 
+ 
+Campo 
+Registro 
+Posição jurídica criada, mantida, 
+restringida ou extinta 
+ 
+Comando/consequência 
+ 
+Destinatário 
+ 
+Prazo, condição ou modulação 
+ 
+Mecanismo de cumprimento ou 
+controle 
+ 
+Evidência textual 
+ 
+Localização, autoria e posição 
+institucional 
+ 
+Justificativa da classificação 
+ 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+Implementação documentada no 
+acórdão? 
+☐ sim  ☐ não  ☐ inconclusivo 
+Informação adicional necessária 
+ 
+Segurança 
+☐ alta  ☐ média  ☐ baixa  ☐ inconclusiva 
+Nota operacional. A categoria Com resolução operativa não exige prova de cumprimento 
+material e não implica concretização dos princípios pesquisados. Questões processuais com 
+consequência própria relevante devem ser avaliadas como núcleo distinto antes do uso da 
+categoria Não classificável. 
+7.1 INTERESSE NACIONAL (art. 176, § 1º, da Constituição) 
+7.1.1 DIMENSÃO B — POSIÇÃO DO PRINCÍPIO NA FUNDAMENTAÇÃO 
+Campo 
+Registro 
+Posição do princípio na 
+fundamentação 
+☐ Ausente 
+☐ Presença documental não judicial 
+☐ Voto não prevalecente 
+☐ Genérica/ornamental 
+☐ Relevante sem participação determinante 
+☐ Obstáculo processual/institucional 
+☐ Fundamento determinante 
+☐ Inconclusivo 
+ 
+Campo 
+Registro 
+Plano de referência e voto/corrente 
+examinado 
+ 
+Forma de mobilização 
+☐ literal   
+☐ conteúdo equivalente demonstrado   
+☐ não mobilizado 
+Evidência da posição do princípio 
+na fundamentação 
+ 
+Localização e autoria 
+ 
+Posição do voto/fundamento na 
+decisão 
+ 
+Conexão com fatos, normas e 
+conclusão 
+ 
+Mobilização judicial e eventual 
+obstáculo processual/institucional 
+Distinguir mobilização pelo julgador de mera reprodução de 
+alegação. Na categoria Obstáculo processual/institucional, 
+indicar se o obstáculo impediu a mobilização ou somente o 
+exame substantivo, com evidência. 
+Justificativa da classificação 
+Para Fundamento determinante, demonstrar participação 
+determinante na fundamentação, e não apenas declaração de 
+importância.  
+Para Voto não prevalecente, identificar a manifestação não 
+prevalecente.  
+Genérica/ornamental e Relevante sem participação 
+determinante não autorizam Não mobilizado quando houver 
+mobilização judicial demonstrada no plano correspondente. 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+7.1.2 DIMENSÃO C — DENSIFICAÇÃO NORMATIVA 
+Campo 
+Registro 
+Densificação normativa 
+☐ Não aplicável 
+☐ Conteúdo não densificado 
+☐ Densificação no caso/corrente 
+☐ Densificação institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Plano da densificação e segmento 
+examinado 
+ 
+ 
+Campo 
+Registro 
+Conteúdo normativo extraído 
+Do princípio Interesse nacional, [voto/corrente/decisão] 
+extraiu o critério segundo o qual: 
+Critério, dever, limite ou parâmetro 
+ 
+Alcance 
+☐ apenas o caso   
+☐ casos semelhantes   
+☐ cumprimento/controle   
+☐ indeterminado 
+Grau de incorporação institucional 
+Identificar a adesão ao critério. O potencial de aplicação 
+futura, isoladamente, não comprova incorporação 
+institucional. 
+Evidência da densificação 
+normativa 
+ 
+Localização e autoria 
+ 
+Justificativa da classificação 
+Não aplicável: avaliação estruturalmente inaplicável; Ausente 
+ou Presença documental não judicial exigem Não aplicável. 
+Conteúdo não densificado: avaliação aplicável com ausência 
+de densificação demonstrada. Inconclusivo: evidência 
+insuficiente para decidir. Densificação no caso/corrente ou 
+Densificação institucional com critério potencialmente 
+replicável exigem Contribuição própria ao critério ou 
+Contribuição compartilhada. Quando a posição na 
+fundamentação for Voto não prevalecente, eventual 
+densificação restrita ao voto ou à corrente é Densificação no 
+caso/corrente, nunca Densificação institucional com critério 
+potencialmente replicável; a evidência insuficiente permanece 
+inconclusiva. 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+ 
+7.1.3 Teste de atribuição normativa e contrafactual 
+Objeto da atribuição normativa. Examinar a atribuição normativa do critério identificado, 
+distinguindo-a da posição do princípio na fundamentação. Se não houver critério demonstrável 
+após exame documental suficiente, registrar essa razão em Atribuição de critério não 
+demonstrada e usar Não aplicável, com justificativa, nas perguntas condicionadas à existência 
+do critério. O teste não reconstrói a intenção psicológica nem estabelece causalidade exclusiva. 
+Campo 
+Registro 
+Princípio, critério examinado e 
+plano 
+Interesse nacional.  
+Critério/dever/limite/parâmetro:  
+Voto/corrente/núcleo/decisão e segmento: 
+Situação do critério após exame 
+☐ critério identificado   
+☐ critério não demonstrado após exame suficiente   
+☐ insuficiência documental 
+Atribuição normativa 
+☐ Contribuição própria ao critério 
+☐ Contribuição compartilhada 
+☐ Presença contextual 
+☐ Atribuição de critério não demonstrada 
+☐ Inconclusivo 
+Outras fontes normativas 
+concorrentes 
+ 
+Contribuição específica do princípio 
+para o critério 
+ 
+O critério é inteiramente explicável 
+por outra norma? 
+☐ não 
+☐ sim 
+☐ inconclusivo 
+☐ Não aplicável — justificar 
+Sem o princípio, o conteúdo e a 
+justificação normativa do critério 
+permaneceriam os mesmos? 
+☐ sim 
+☐ não 
+☐ inconclusivo 
+☐ Não aplicável — justificar 
+Pergunta auxiliar sobre a posição do 
+princípio na fundamentação 
+Qual papel o princípio exerceu na fundamentação, mesmo 
+que não haja critério densificado atribuível a ele? Registrar o 
+encadeamento e a evidência; esta resposta informa a posição 
+do princípio na fundamentação e não determina a atribuição 
+normativa automaticamente. 
+ 
+Campo 
+Registro 
+Justificativa da atribuição normativa 
+e uso específico de Atribuição de 
+critério não demonstrada 
+Na combinação Fundamento determinante, Conteúdo não 
+densificado, Atribuição de critério não demonstrada e 
+Fundamento determinante sem densificação, demonstrar 
+participação determinante na fundamentação e ausência de 
+critério densificado atribuível ao princípio. Atribuição de 
+critério não demonstrada, nessa combinação, não nega 
+qualquer papel argumentativo. Se a documentação for 
+insuficiente, usar Inconclusivo, como categoria de atribuição 
+normativa. 
+Efeito do teste sobre posição na 
+fundamentação, densificação, 
+atribuição e concretização 
+normativa 
+Registrar alertas sem corrigir automaticamente as categorias. 
+Contribuição própria ao critério não equivale a Fundamento 
+determinante. 
+Evidência, localização, autoria e 
+posição institucional 
+ 
+7.1.4 Classificação da concretização normativa 
+Campo 
+Registro 
+Concretização normativa 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Plano da síntese de concretização 
+normativa e evidências associadas 
+ 
+Combinação entre posição na 
+fundamentação, densificação e 
+atribuição normativa considerada 
+ 
+Justificativa da classificação 
+Aplicar a seção 7.4. Não converter densificação de voto não 
+prevalecente em concretização institucional. Distinguir 
+ausência, presença sem determinação e fundamento 
+determinante sem densificação. Registrar pendências 
+administrativas na seção 15. 
+Segurança 
+☐ alta  ☐ média  ☐ baixa  ☐ inconclusiva 
+Revisão dirigida necessária? 
+☐ não  ☐ sim – motivo: 
+Informação adicional necessária 
+ 
+ 
+7.2 FUNÇÃO SOCIAL DA PROPRIEDADE (art. 170, III, da Constituição) 
+7.2.1 DIMENSÃO B — POSIÇÃO DO PRINCÍPIO NA FUNDAMENTAÇÃO 
+Campo 
+Registro 
+Posição do princípio na 
+fundamentação 
+☐ Ausente 
+☐ Presença documental não judicial 
+☐ Voto não prevalecente 
+☐ Genérica/ornamental 
+☐ Relevante sem participação determinante 
+☐ Obstáculo processual/institucional 
+☐ Fundamento determinante 
+☐ Inconclusivo 
+Plano de referência e voto/corrente 
+examinado 
+ 
+Forma de mobilização 
+☐ literal   
+☐ conteúdo equivalente demonstrado   
+☐ não mobilizado 
+Evidência da posição do princípio 
+na fundamentação 
+ 
+Localização e autoria 
+ 
+Posição do voto/fundamento na 
+decisão 
+ 
+Conexão com fatos, normas e 
+conclusão 
+ 
+Mobilização judicial e eventual 
+obstáculo processual/institucional 
+Distinguir mobilização pelo julgador de mera reprodução de 
+alegação. Na categoria Obstáculo processual/institucional, 
+indicar se o obstáculo impediu a mobilização ou somente o 
+exame substantivo, com evidência. 
+Justificativa da classificação 
+Para Fundamento determinante, demonstrar participação 
+determinante na fundamentação, e não apenas declaração de 
+importância. Para Voto não prevalecente, identificar a 
+manifestação não prevalecente. Genérica/ornamental e 
+Relevante sem participação determinante não autorizam Não 
+mobilizado quando houver mobilização judicial demonstrada 
+no plano correspondente. 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+ 
+7.2.2 DIMENSÃO C — DENSIFICAÇÃO NORMATIVA 
+Campo 
+Registro 
+Densificação normativa 
+☐ Não aplicável 
+☐ Conteúdo não densificado 
+☐ Densificação no caso/corrente 
+☐ Densificação institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Plano da densificação e segmento 
+examinado 
+ 
+Conteúdo normativo extraído 
+Do princípio Função social da propriedade, 
+[voto/corrente/decisão] extraiu o critério segundo o qual: 
+Critério, dever, limite ou parâmetro 
+ 
+Alcance 
+☐ apenas o caso   
+☐ casos semelhantes   
+☐ cumprimento/controle   
+☐ indeterminado 
+Grau de incorporação institucional 
+Identificar a adesão ao critério. O potencial de aplicação 
+futura, isoladamente, não comprova incorporação 
+institucional. 
+Evidência da densificação 
+normativa 
+ 
+Localização e autoria 
+ 
+Justificativa da classificação 
+Não aplicável: avaliação estruturalmente inaplicável; Ausente 
+ou Presença documental não judicial exigem Não aplicável. 
+Conteúdo não densificado: avaliação aplicável com ausência 
+de densificação demonstrada. Inconclusivo: evidência 
+insuficiente para decidir. Densificação no caso/corrente ou 
+Densificação institucional com critério potencialmente 
+replicável exigem Contribuição própria ao critério ou 
+Contribuição compartilhada. Quando a posição na 
+fundamentação for Voto não prevalecente, eventual 
+densificação restrita ao voto ou à corrente é Densificação no 
+caso/corrente, nunca Densificação institucional com critério 
+potencialmente replicável; a evidência insuficiente permanece 
+inconclusiva. 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+ 
+7.2.3 Teste de atribuição normativa e contrafactual 
+Objeto da atribuição normativa. Examinar a atribuição normativa do critério identificado, 
+distinguindo-a da posição do princípio na fundamentação. Se não houver critério demonstrável 
+após exame documental suficiente, registrar essa razão em Atribuição de critério não 
+demonstrada e usar Não aplicável, com justificativa, nas perguntas condicionadas à existência 
+do critério. O teste não reconstrói intenção psicológica nem estabelece causalidade exclusiva. 
+Campo 
+Registro 
+Princípio, critério examinado e 
+plano 
+Função social da propriedade. 
+Critério/dever/limite/parâmetro: ____ | 
+Voto/corrente/núcleo/decisão e segmento: ____ 
+Situação do critério após exame 
+☐ critério identificado   
+☐ critério não demonstrado após exame suficiente   
+☐ insuficiência documental 
+Atribuição normativa 
+☐ Contribuição própria ao critério 
+☐ Contribuição compartilhada 
+☐ Presença contextual 
+☐ Atribuição de critério não demonstrada 
+☐ Inconclusivo 
+Outras fontes normativas 
+concorrentes 
+ 
+Contribuição específica do princípio 
+para o critério 
+ 
+O critério é inteiramente explicável 
+por outra norma? 
+☐ não 
+☐ sim 
+☐ inconclusivo 
+☐ Não aplicável — justificar 
+Sem o princípio, o conteúdo e a 
+justificação normativa do critério 
+permaneceriam os mesmos? 
+☐ sim 
+☐ não 
+☐ inconclusivo 
+☐ Não aplicável — justificar 
+Pergunta auxiliar sobre a posição do 
+princípio na fundamentação 
+Qual papel o princípio exerceu na fundamentação, mesmo 
+que não haja critério densificado atribuível a ele? Registrar o 
+encadeamento e a evidência; esta resposta informa a posição 
+do princípio na fundamentação e não determina a atribuição 
+normativa automaticamente. 
+ 
+Campo 
+Registro 
+Justificativa da atribuição normativa 
+e uso específico de Atribuição de 
+critério não demonstrada 
+Na combinação Fundamento determinante, Conteúdo não 
+densificado, Atribuição de critério não demonstrada e 
+Fundamento determinante sem densificação, demonstrar 
+participação determinante na fundamentação e ausência de 
+critério densificado atribuível ao princípio. Atribuição de 
+critério não demonstrada, nessa combinação, não nega 
+qualquer papel argumentativo. Se a documentação for 
+insuficiente, usar Inconclusivo, como categoria de atribuição 
+normativa. 
+Efeito do teste sobre posição na 
+fundamentação, densificação, 
+atribuição e concretização 
+normativa 
+Registrar alertas sem corrigir automaticamente as categorias. 
+Contribuição própria ao critério não equivale a Fundamento 
+determinante. 
+Evidência, localização, autoria e 
+posição institucional 
+ 
+7.2.4 Classificação da concretização normativa 
+Campo 
+Registro 
+Concretização normativa 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Plano da síntese de concretização 
+normativa e evidências associadas 
+ 
+Combinação entre posição na 
+fundamentação, densificação e 
+atribuição normativa considerada 
+ 
+Justificativa da classificação 
+Aplicar a seção 7.4. Não converter densificação de voto não 
+prevalecente em concretização institucional. Distinguir 
+ausência, presença sem determinação e fundamento 
+determinante sem densificação. Registrar pendências 
+administrativas na seção 15. 
+Segurança 
+☐ alta  ☐ média  ☐ baixa  ☐ inconclusiva 
+Revisão dirigida necessária? 
+☐ não  ☐ sim – motivo: 
+Informação adicional necessária 
+ 
+ 
+7.3 MEIO AMBIENTE ECOLOGICAMENTE EQUILIBRADO (art. 225 da 
+Constituição) 
+7.3.1 DIMENSÃO B — POSIÇÃO DO PRINCÍPIO NA FUNDAMENTAÇÃO 
+Campo 
+Registro 
+Posição do princípio na 
+fundamentação 
+☐ Ausente 
+☐ Presença documental não judicial 
+☐ Voto não prevalecente 
+☐ Genérica/ornamental 
+☐ Relevante sem participação determinante 
+☐ Obstáculo processual/institucional 
+☐ Fundamento determinante 
+☐ Inconclusivo 
+Plano de referência e voto/corrente 
+examinado 
+ 
+Forma de mobilização 
+☐ literal   
+☐ conteúdo equivalente demonstrado   
+☐ não mobilizado 
+Evidência da posição do princípio 
+na fundamentação 
+ 
+Localização e autoria 
+ 
+Posição do voto/fundamento na 
+decisão 
+ 
+Conexão com fatos, normas e 
+conclusão 
+ 
+Mobilização judicial e eventual 
+obstáculo processual/institucional 
+Distinguir mobilização pelo julgador de mera reprodução de 
+alegação. Na categoria Obstáculo processual/institucional, 
+indicar se o obstáculo impediu a mobilização ou somente o 
+exame substantivo, com evidência. 
+Justificativa da classificação 
+Para Fundamento determinante, demonstrar participação 
+determinante na fundamentação, e não apenas declaração de 
+importância. Para Voto não prevalecente, identificar a 
+manifestação não prevalecente. Genérica/ornamental e 
+Relevante sem participação determinante não autorizam Não 
+mobilizado quando houver mobilização judicial demonstrada 
+no plano correspondente. 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+ 
+7.3.2 DIMENSÃO C — DENSIFICAÇÃO NORMATIVA 
+Campo 
+Registro 
+Densificação normativa 
+☐ Não aplicável 
+☐ Conteúdo não densificado 
+☐ Densificação no caso/corrente 
+☐ Densificação institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Plano da densificação e segmento 
+examinado 
+ 
+Conteúdo normativo extraído 
+Do princípio Meio ambiente ecologicamente equilibrado, 
+[voto/corrente/decisão] extraiu o critério segundo o qual: 
+Critério, dever, limite ou parâmetro 
+ 
+Alcance 
+☐ apenas o caso   
+☐ casos semelhantes   
+☐ cumprimento/controle   
+☐ indeterminado 
+Grau de incorporação institucional 
+Identificar a adesão ao critério. O potencial de aplicação 
+futura, isoladamente, não comprova incorporação 
+institucional. 
+Evidência da densificação 
+normativa 
+ 
+Localização e autoria 
+ 
+Justificativa da classificação 
+Não aplicável: avaliação estruturalmente inaplicável; Ausente 
+ou Presença documental não judicial exigem Não aplicável. 
+Conteúdo não densificado: avaliação aplicável com ausência 
+de densificação demonstrada. Inconclusivo: evidência 
+insuficiente para decidir. Densificação no caso/corrente ou 
+Densificação institucional com critério potencialmente 
+replicável exigem Contribuição própria ao critério ou 
+Contribuição compartilhada. Quando a posição na 
+fundamentação for Voto não prevalecente, eventual 
+densificação restrita ao voto ou à corrente é Densificação no 
+caso/corrente, nunca Densificação institucional com critério 
+potencialmente replicável; a evidência insuficiente permanece 
+inconclusiva. 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+ 
+7.3.3 Teste de atribuição normativa e contrafactual 
+Objeto da atribuição normativa. Examinar a atribuição normativa do critério identificado, 
+distinguindo-a da posição do princípio na fundamentação. Se não houver critério demonstrável 
+após exame documental suficiente, registrar essa razão em Atribuição de critério não 
+demonstrada e usar Não aplicável, com justificativa, nas perguntas condicionadas à existência 
+do critério. O teste não reconstrói a intenção psicológica nem estabelece causalidade exclusiva. 
+Campo 
+Registro 
+Princípio, critério examinado e 
+plano 
+Meio ambiente ecologicamente equilibrado. 
+Critério/dever/limite/parâmetro: ____ | 
+Voto/corrente/núcleo/decisão e segmento: ____ 
+Situação do critério após exame 
+☐ critério identificado   
+☐ critério não demonstrado após exame suficiente   
+☐ insuficiência documental 
+Atribuição normativa 
+☐ Contribuição própria ao critério 
+☐ Contribuição compartilhada 
+☐ Presença contextual 
+☐ Atribuição de critério não demonstrada 
+☐ Inconclusivo 
+Outras fontes normativas 
+concorrentes 
+ 
+Contribuição específica do princípio 
+para o critério 
+ 
+O critério é inteiramente explicável 
+por outra norma? 
+☐ não 
+☐ sim 
+☐ inconclusivo 
+☐ Não aplicável — justificar 
+Sem o princípio, o conteúdo e a 
+justificação normativa do critério 
+permaneceriam os mesmos? 
+☐ sim 
+☐ não 
+☐ inconclusivo 
+☐ Não aplicável — justificar 
+Pergunta auxiliar sobre a posição do 
+princípio na fundamentação 
+Qual papel o princípio exerceu na fundamentação, mesmo 
+que não haja critério densificado atribuível a ele? Registrar o 
+encadeamento e a evidência; esta resposta informa a posição 
+do princípio na fundamentação e não determina a atribuição 
+normativa automaticamente. 
+ 
+Campo 
+Registro 
+Justificativa da atribuição normativa 
+e uso específico de Atribuição de 
+critério não demonstrada 
+Na combinação Fundamento determinante, Conteúdo não 
+densificado, Atribuição de critério não demonstrada e 
+Fundamento determinante sem densificação, demonstrar 
+participação determinante na fundamentação e ausência de 
+critério densificado atribuível ao princípio. Atribuição de 
+critério não demonstrada, nessa combinação, não nega 
+qualquer papel argumentativo. Se a documentação for 
+insuficiente, usar Inconclusivo, como categoria de atribuição 
+normativa. 
+Efeito do teste sobre posição na 
+fundamentação, densificação, 
+atribuição e concretização 
+normativa 
+Registrar alertas sem corrigir automaticamente as categorias. 
+Contribuição própria ao critério não equivale a Fundamento 
+determinante. 
+Evidência, localização, autoria e 
+posição institucional 
+ 
+7.3.4 Classificação da concretização normativa 
+Campo 
+Registro 
+Concretização normativa 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Plano da síntese de concretização 
+normativa e evidências associadas 
+ 
+Combinação entre posição na 
+fundamentação, densificação e 
+atribuição normativa considerada 
+ 
+Justificativa da classificação 
+Aplicar a seção 7.4. Não converter densificação de voto não 
+prevalecente em concretização institucional. Distinguir 
+ausência, presença sem determinação e fundamento 
+determinante sem densificação. Registrar pendências 
+administrativas na seção 15. 
+Segurança 
+☐ alta  ☐ média  ☐ baixa  ☐ inconclusiva 
+Revisão dirigida necessária? 
+☐ não  ☐ sim – motivo: 
+Informação adicional necessária 
+ 
+ 
+7.4 REGRAS DE COMPATIBILIDADE ENTRE POSIÇÃO NA FUNDAMENTAÇÃO 
+DENSIFICAÇÃO ATRIBUIÇÃO E CONCRETIZAÇÃO NORMATIVA 
+Situação documentada 
+Combinação e condição 
+Concretização 
+normativa 
+Princípio ausente ou presente 
+somente em peça não judicial 
+Ausente ou Presença documental não judicial; 
+Não aplicável para densificação normativa; 
+Atribuição de critério não demonstrada. 
+Registrar a ausência de mobilização judicial. 
+Não mobilizado 
+Princípio presente apenas em 
+voto não prevalecente 
+Voto não prevalecente; Conteúdo não 
+densificado ou Densificação no caso/corrente 
+no voto/corrente. Densificação no 
+caso/corrente exige Contribuição própria ao 
+critério ou Contribuição compartilhada. 
+Densificação institucional com critério 
+potencialmente replicável não é admissível 
+para essa densificação restrita. 
+Presença 
+contextual/discursiva 
+no plano institucional; 
+preservar a 
+densificação e a 
+atribuição normativa 
+do voto identificado 
+Presença judicial genérica ou 
+ornamental 
+Genérica/ornamental; Não mobilizado não é 
+admissível nesse plano. Se houver densificação 
+demonstrada, reexaminar a posição do 
+princípio na fundamentação. 
+Presença 
+contextual/discursiva 
+Presença judicial relevante sem 
+participação determinante 
+Relevante sem participação determinante; Não 
+mobilizado não é admissível nesse plano. 
+Registrar densificação e atribuição normativa 
+conforme a evidência e preservar eventual 
+densificação localizada. 
+Presença 
+contextual/discursiva  
+Obstáculo que impediu a 
+mobilização judicial do 
+princípio 
+Obstáculo processual/institucional; documentar 
+o obstáculo e a ausência de mobilização. Não 
+aplicável para densificação normativa quando 
+estruturalmente inaplicável; Atribuição de 
+critério não demonstrada após exame 
+suficiente. 
+Não mobilizado  
+Mobilização judicial, com 
+exame substantivo obstado 
+Obstáculo processual/institucional; demonstrar 
+presença judicial e limitação. Distinguir Não 
+aplicável de Conteúdo não densificado pela 
+aplicabilidade da avaliação; registrar a 
+atribuição normativa conforme o critério 
+examinado. 
+Presença 
+contextual/discursiva  
+Fundamento determinante sem 
+densificação 
+Fundamento determinante e Conteúdo não 
+densificado e Atribuição de critério não 
+demonstrada: participação determinante 
+demonstrada, sem critério densificado 
+atribuível ao princípio. Não admitir Presença 
+contextual nessa combinação no mesmo 
+segmento. 
+Fundamento 
+determinante sem 
+densificação  
+ 
+Situação documentada 
+Combinação e condição 
+Concretização 
+normativa 
+Concretização no caso 
+Fundamento determinante e Densificação no 
+caso/corrente e Contribuição própria ao critério 
+ou Contribuição compartilhada, com plano de 
+atribuição e evidências identificados. 
+Concretização no caso  
+Concretização institucional 
+Fundamento determinante e Densificação 
+institucional com critério potencialmente 
+replicável e Contribuição própria ao critério ou 
+Contribuição compartilhada; exigir 
+incorporação institucional e potencial de 
+orientação do critério. 
+Concretização 
+institucional com 
+critério 
+potencialmente 
+replicável  
+Evidência analiticamente 
+insuficiente 
+Após exame, a documentação não permite 
+decidir a classificação substantiva. Identificar a 
+insuficiência e as alternativas. 
+Inconclusivo  
+Combinação incompatível ou 
+não prevista 
+Registrar alerta e revisão dirigida. Preservar 
+categoria provisória, se houver, e marcar 
+Registro provisório pendente de conferência no 
+controle; se não examinado, Campo aplicável 
+ainda não preenchido.  
+Lacuna da tabela não equivale a 
+insuficiência documental. 
+Não atribuir 
+Inconclusivo 
+automaticamente 
+Regras vinculantes. A Densificação no caso/corrente e a Densificação institucional com critério 
+potencialmente replicável exigem Contribuição própria ao critério ou Contribuição 
+compartilhada. A Concretização no caso exige Fundamento determinante, Densificação no 
+caso/corrente e Contribuição própria ao critério ou Contribuição compartilhada. A 
+Concretização institucional com critério potencialmente replicável exige Fundamento 
+determinante, Densificação institucional com critério potencialmente replicável e Contribuição 
+própria ao critério ou Contribuição compartilhada. As categorias Ausente e Presença 
+documental não judicial exigem Não aplicável para densificação normativa e são incompatíveis 
+com Conteúdo não densificado, Densificação no caso/corrente ou Densificação institucional 
+com critério potencialmente replicável. A Densificação institucional com critério 
+potencialmente replicável exige incorporação institucional; quando a categoria Voto não 
+prevalecente decorrer de mobilização restrita a esse voto, não atribuir Densificação institucional 
+com critério potencialmente replicável. Havendo evidência de incorporação, reexaminar a 
+categoria Voto não prevalecente antes de qualquer classificação institucional. “Critério 
+potencialmente replicável” descreve alcance jurídico, não comprovação da replicabilidade 
+metodológica desta pesquisa. 
+Fundamentação e atribuição. Fundamento determinante exige participação determinante 
+demonstrada. Na combinação Fundamento determinante, Conteúdo não densificado, Atribuição 
+de critério não demonstrada e Fundamento determinante sem densificação, a atribuição de 
+critério não demonstrada registra que não se demonstrou critério densificado atribuível ao 
+princípio, sem negar seu papel na fundamentação. Se a evidência mostrar participação apenas 
+ 
+contextual, reexaminar Fundamento determinante; se a informação for insuficiente, preservar a 
+inconclusividade. Contribuição própria ao critério não é sinônimo de Fundamento 
+determinante. 
+Aplicabilidade e pendências. Não aplicável, como categoria de densificação normativa, é 
+reservado à inaplicabilidade estrutural; Conteúdo não densificado pressupõe avaliação aplicável 
+e ausência de densificação após exame suficiente; Inconclusivo, como categoria de densificação 
+normativa, registra insuficiência analítica. Nas demais variáveis, aplicar a mesma distinção 
+entre resultado substantivo e pendência administrativa. Uma combinação incompatível gera 
+alerta e revisão; uma combinação não prevista exige exame da regra e da evidência. Não alterar 
+categorias para ajustá-las à tabela nem concluir pela inconclusividade apenas por falta de 
+previsão. Usar a seção 15 para documentar a decisão final. 
+8 INDICADORES DE FUNÇÃO SIMBÓLICA 
+Reproduzir esta seção para Interesse nacional, Função social da propriedade e Meio ambiente 
+ecologicamente equilibrado. Os Indicadores de função simbólica são independentes do índice 
+A/B/C. Não classificar automaticamente Fundamento determinante associado a Conteúdo não 
+densificado como função simbólica. 
+Campo 
+Registro 
+Princípio 
+☐ Interesse nacional 
+☐ Função social da propriedade 
+☐ Meio ambiente ecologicamente equilibrado 
+Núcleo, segmento argumentativo e 
+evidência de referência 
+ 
+Plano de atribuição da função 
+simbólica 
+☐ voto   
+☐ corrente   
+☐ núcleo   
+☐ decisão institucional 
+Identificar a manifestação e seu vínculo com a decisão: ____ 
+Pergunta de entrada 
+Existe mobilização judicial ou expectativa constitucional 
+documentalmente identificável que permita avaliar eventual 
+função simbólica?  
+☐ sim  
+☐ não   
+☐ inconclusivo 
+Evidência da entrada e da 
+mobilização judicial relevante 
+Distinguir expectativa constitucional documentada de 
+mobilização judicial. A primeira pode permitir o exame dos 
+indicadores, mas não substitui a segunda para Função 
+simbólica demonstrada. 
+ 
+Campo 
+Registro 
+Posição associada do princípio na 
+fundamentação e combinação 
+excepcional com Função simbólica 
+demonstrada 
+Posição na fundamentação: ____ 
+☐ configuração ordinária: Relevante sem participação 
+determinante 
+☐ combinação excepcional 
+☐ não aplicável 
+Fora da configuração ordinária, demonstrar a mobilização 
+relevante e a compatibilidade com Baixa contribuição 
+normativa no aspecto e plano delimitados: ____ 
+Proeminência discursiva 
+☐ ausente  ☐ baixa  ☐ média  ☐ alta  ☐ inconclusiva 
+Evidência de proeminência 
+ 
+Baixa contribuição normativa 
+☐ não demonstrada  ☐ parcialmente demonstrada  ☐ 
+demonstrada  ☐ inconclusiva 
+Evidência de baixa contribuição 
+ 
+Discrepância interna 
+☐ ausente  ☐ parcial  ☐ presente  ☐ inconclusiva 
+Compromisso declarado × critério × 
+comando × matéria não enfrentada 
+ 
+Função identificável 
+☐ Legitimadora 
+☐ Retórica 
+☐ Fórmula de compromisso 
+☐ Dilatória 
+☐ Deslocamento 
+☐ Álibi institucional 
+☐ Ocultação de assimetria 
+☐ Outra função — especificar: ____ 
+Mecanismo da função na estrutura 
+argumentativa 
+Descrever cada Função identificável selecionada, seu 
+mecanismo e a evidência correspondente. Resposta múltipla. 
+Sem função identificada, registrar expressamente a ausência 
+no campo; não selecionar Outra função — especificar como 
+ausência. 
+Função político-ideológica 
+☐ não demonstrada   
+☐ indiciária   
+☐ demonstrada no plano discursivo   
+☐ inconclusiva 
+Evidência, localização, autoria e 
+posição institucional 
+ 
+ 
+Campo 
+Registro 
+Função simbólica 
+☐ Não aplicável 
+☐ Sem indicador suficiente 
+☐ Indícios 
+☐ Função simbólica demonstrada 
+☐ Inconclusivo 
+Justificativa da função simbólica e 
+verificação dos requisitos 
+cumulativos 
+Para Função simbólica demonstrada, demonstrar o 
+atendimento de cada requisito da regra abaixo e remeter ao 
+exame das alternativas na seção 9. Todos devem referir-se ao 
+mesmo princípio e plano explicitado; não reunir evidências de 
+planos distintos sem reconstrução documental da relação. 
+Para as demais categorias, aplicar a seção 8.1. 
+Categoria alternativa considerada e 
+razão da rejeição 
+ 
+Limite da atribuição institucional e 
+vínculo com a síntese 
+Se a evidência estiver restrita a voto/corrente, explicitar essa 
+restrição. A presença localizada de Função simbólica 
+demonstrada não a atribui automaticamente à decisão ou a 
+outros núcleos. 
+Segurança 
+☐ alta  ☐ média  ☐ baixa  ☐ inconclusiva 
+Regra para Função simbólica demonstrada. Exigir cumulativamente: Entrada afirmativa; 
+mobilização judicial relevante; Proeminência discursiva média ou alta; Baixa contribuição 
+normativa demonstrada; Discrepância interna presente; ao menos uma Função identificável 
+com mecanismo demonstrado; Função político-ideológica demonstrada no plano discursivo; 
+evidência localizada, com autoria e posição institucional; e exclusão fundamentada das 
+explicações alternativas plausíveis no plano analisado. Baixa contribuição normativa 
+parcialmente demonstrada, Discrepância interna parcial e Função político-ideológica indiciária 
+não satisfazem a categoria Função simbólica demonstrada. Não inferir intenção psicológica, 
+sinceridade, má-fé ou motivação subjetiva dos julgadores. 
+Compatibilidade com a posição do princípio na fundamentação. Relevante sem participação 
+determinante é a configuração ordinária, mas não determina a Proeminência discursiva, a Baixa 
+contribuição normativa ou a Função simbólica. Fora dessa configuração, justificar a exceção 
+com evidências próprias. Ausente ou Presença documental não judicial não sustentam Função 
+simbólica demonstrada enquanto não houver mobilização judicial demonstrada; nova evidência 
+de mobilização exige reexaminar a posição do princípio na fundamentação. Em Voto não 
+prevalecente, eventual Função simbólica demonstrada permanece restrita ao voto ou à corrente. 
+Genérica/ornamental exige demonstração adicional de relevância discursiva, proeminência e 
+função político-ideológica. Em Fundamento determinante, explicar por que a participação 
+determinante não contradiz a baixa contribuição normativa no aspecto delimitado. Em 
+Obstáculo processual/institucional, testar o obstáculo como explicação alternativa. 
+ 
+Alcance da Função simbólica demonstrada. A classificação limita-se ao princípio e ao voto, 
+corrente, núcleo ou decisão efetivamente demonstrados. Autoria e posição institucional devem 
+ser explícitas. Não transferir a função de voto individual à Corte nem construir Função 
+simbólica demonstrada por soma de evidências desconexas. A síntese preserva perfis 
+heterogêneos; não decorre de maioria aritmética dos núcleos. Função simbólica demonstrada 
+não comprova isoladamente constitucionalização simbólica em sentido amplo. Resolução 
+operativa, densificação normativa, atribuição normativa e concretização normativa atuam como 
+controles de coerência, sem substituir os requisitos próprios dos Indicadores de função 
+simbólica. 
+8.1 REGRAS DE APLICAÇÃO DA FUNÇÃO SIMBÓLICA 
+Condição examinada 
+Categoria ou controle 
+Entrada negativa: não há mobilização 
+judicial nem expectativa 
+constitucional documentalmente 
+identificável apta ao exame. 
+Não aplicável  
+Entrada inconclusiva ou 
+insuficiência/contradição documental 
+material que impede decidir a função 
+simbólica após exame. 
+Inconclusivo  
+Indicadores aplicáveis e efetivamente 
+examinados, sem indicador positivo 
+suficiente de função simbólica. 
+Sem indicador suficiente  
+Indícios documentais positivos, sem 
+atendimento integral dos requisitos de 
+Função simbólica demonstrada. A 
+evidência permite sustentar o 
+resultado indiciário, apesar de seus 
+limites. 
+Indícios  
+Entrada afirmativa; mobilização 
+judicial relevante; Proeminência 
+discursiva média ou alta; Baixa 
+contribuição normativa demonstrada; 
+Discrepância interna presente; ao 
+menos uma Função identificável com 
+mecanismo demonstrado; Função 
+político-ideológica demonstrada no 
+plano discursivo; evidência 
+localizada, com autoria e posição 
+institucional; e exclusão 
+fundamentada das explicações 
+alternativas plausíveis no plano 
+analisado. Conferir a combinação 
+com a posição do princípio na 
+fundamentação e o alcance do 
+registro. 
+Função simbólica demonstrada  
+ 
+Condição examinada 
+Categoria ou controle 
+Campo aplicável ainda não 
+examinado; ou categoria provisória 
+aguardando conferência. Não 
+constitui conclusão sobre função 
+simbólica. 
+Campo aplicável ainda não preenchido ou Registro provisório 
+pendente de conferência, conforme o caso 
+Concretização normativa e função simbólica são eixos distintos e complementares. Não 
+mobilizado, Presença contextual/discursiva, Conteúdo não densificado, baixa efetividade, 
+ausência ou invocação vaga não produzem automaticamente Indícios ou Função simbólica 
+demonstrada. Não alcançar Função simbólica demonstrada não basta para Indícios: são 
+necessários indícios positivos. Sem indicador suficiente pressupõe módulo aplicável e 
+examinado; Inconclusivo, como categoria de função simbólica, pressupõe insuficiência 
+analítica, não atraso no preenchimento. A ausência do princípio, isoladamente, não decide a 
+entrada. Outra função — especificar é reservada a outra função positivamente identificada e 
+descrita, nunca à ausência de função. 
+9 EXPLICAÇÕES ALTERNATIVAS 
+Preencher para o princípio e o plano examinados nos Indicadores de função simbólica, antes de 
+classificar Indícios ou Função simbólica demonstrada. Registrar o fato processual ou 
+documental separadamente da hipótese sobre sua capacidade de explicar a baixa contribuição 
+normativa ou o mecanismo discursivo. A existência de voto vencido ou de decisão cautelar não 
+decide, por si só, o resultado dos indicadores. 
+Princípio: 
+____ 
+ 
+Núcleo: 
+____ 
+ 
+Voto/corrente/decisão 
+e 
+segmento: 
+____ 
+Plano e aspecto da inferência submetidos às alternativas: ____ 
+Hipótese alternativa e 
+fato documental 
+Evidência 
+favorável 
+Evidência 
+contrária 
+Decisão explicativa 
+Aspecto/plano e efeito 
+sobre a função 
+simbólica 
+Princípio irrelevante à 
+questão 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Regra mais específica 
+aplicável 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+ 
+Hipótese alternativa e 
+fato documental 
+Evidência 
+favorável 
+Evidência 
+contrária 
+Decisão explicativa 
+Aspecto/plano e efeito 
+sobre a função 
+simbólica 
+Obstáculo 
+processual/institucional 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Ausência de maioria ou 
+quórum 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Decisão 
+provisória/cautelar 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Dependência de prova 
+indisponível 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Contribuição 
+compartilhada com 
+outra norma 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+ 
+Hipótese alternativa e 
+fato documental 
+Evidência 
+favorável 
+Evidência 
+contrária 
+Decisão explicativa 
+Aspecto/plano e efeito 
+sobre a função 
+simbólica 
+Linguagem de voto 
+individual/vencido 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Limitação do recorte 
+documental 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Estilo retórico sem 
+função demonstrável 
+Fato/condição e 
+localização: ____ 
+ 
+ 
+☐ aceita 
+☐ aceita 
+parcialmente 
+☐ rejeitada 
+☐ Inconclusivo — 
+evidência 
+examinada 
+insuficiente 
+Aspecto/plano explicado: 
+____ 
+Efeito sobre a função 
+simbólica e questão 
+remanescente: ____ 
+Decisão sobre a hipótese. Aceita: explica o aspecto examinado e afasta Função simbólica 
+demonstrada nesse alcance. Aceita parcialmente: indicar o que explica e a questão 
+remanescente; enquanto subsistir alternativa plausível relevante para Função simbólica 
+demonstrada, não atribuí-la. Rejeitada: não explica o fenômeno delimitado, com evidência 
+contrária registrada. Inconclusivo — evidência examinada insuficiente: não é possível resolver 
+hipótese relevante; Função simbólica demonstrada fica impedida. Não é necessário rejeitar 
+fatos processuais comprovados para rejeitar sua capacidade explicativa. 
+Efeito sobre a função simbólica. A decisão sobre a alternativa não determina automaticamente 
+Indícios. Aplicar a seção 8.1 conforme a entrada, os indícios remanescentes e a suficiência 
+documental. Linguagem restrita a voto vencido impede sua atribuição institucional, mas não 
+elimina de antemão o exame da função naquele voto. Eventual delimitação diferente deve ser 
+explicitada e submetida novamente a todos os requisitos, sem mudança implícita de plano. 
+10 AUSÊNCIAS NÃO MOBILIZAÇÃO E CATEGORIAS PREVALENTES 
+Preencher para Interesse nacional e Função social da propriedade sempre que a posição do 
+princípio na fundamentação for Ausente, Presença documental não judicial, Voto não 
+prevalecente, Genérica/ornamental, Relevante sem participação determinante ou Obstáculo 
+ 
+processual/institucional; para Meio ambiente ecologicamente equilibrado, preencher quando 
+analiticamente relevante. A ausência não constitui, por si só, simbolismo. 
+Campo 
+Registro 
+Princípio 
+☐ Interesse nacional 
+☐ Função social da propriedade 
+☐ Meio ambiente ecologicamente equilibrado 
+Pertinência jurídica 
+☐ claramente   
+☐ potencialmente   
+☐ remotamente   
+☐ não pertinente   
+☐ inconclusiva 
+Justificativa da pertinência 
+ 
+Suscitação 
+☐ pedido  ☐ defesa  ☐ parecer  ☐ terceiro  ☐ voto  ☐ voto 
+vencido  ☐ nenhuma peça  ☐ não verificável 
+Evidência e localização da 
+suscitação 
+ 
+Enfrentamento judicial 
+☐ expresso  ☐ implícito demonstrável  ☐ não enfrentado  ☐ 
+prejudicado  ☐ inconclusivo 
+Evidência e localização do 
+enfrentamento 
+ 
+Uso da expressão “silenciamento” 
+autorizado? 
+☐ não   
+☐ sim – presentes pertinência clara, suscitação, não 
+enfrentamento e suficiência documental 
+10.1 Categorias jurídicas prevalentes 
+Categoria 
+Fonte 
+Posição 
+Função 
+Consequência 
+Relação 
+ 
+ 
+ 
+ 
+ 
+☐ substituição 
+explícita 
+☐ equivalência 
+funcional 
+☐ concorrência 
+☐ adjacente 
+☐ sem relação 
+☐ Inconclusivo — 
+evidência examinada 
+insuficiente 
+ 
+Categoria 
+Fonte 
+Posição 
+Função 
+Consequência 
+Relação 
+ 
+ 
+ 
+ 
+ 
+☐ substituição 
+explícita 
+☐ equivalência 
+funcional 
+☐ concorrência 
+☐ adjacente 
+☐ sem relação 
+☐ Inconclusivo — 
+evidência examinada 
+insuficiente 
+ 
+ 
+ 
+ 
+ 
+☐ substituição 
+explícita 
+☐ equivalência 
+funcional 
+☐ concorrência 
+☐ adjacente 
+☐ sem relação 
+☐ Inconclusivo — 
+evidência examinada 
+insuficiente 
+ 
+ 
+ 
+ 
+ 
+☐ substituição 
+explícita 
+☐ equivalência 
+funcional 
+☐ concorrência 
+☐ adjacente 
+☐ sem relação 
+☐ Inconclusivo — 
+evidência examinada 
+insuficiente 
+ 
+ 
+ 
+ 
+ 
+☐ substituição 
+explícita 
+☐ equivalência 
+funcional 
+☐ concorrência 
+☐ adjacente 
+☐ sem relação 
+☐ Inconclusivo — 
+evidência examinada 
+insuficiente 
+Evidência e interpretação qualitativa da ausência/não mobilização: 
+ 
+11 IMPLEMENTAÇÃO, EFICÁCIA E LIMITES 
+Campo 
+Registro 
+Há informação sobre cumprimento? 
+☐ sim  ☐ não  ☐ parcial  ☐ inconclusivo 
+Providência adotada 
+ 
+Destinatário 
+ 
+Prazo 
+ 
+Mecanismo de controle 
+ 
+Evidência de implementação 
+ 
+Fonte 
+☐ decisão  ☐ acompanhamento processual  ☐ fonte externa 
+identificada  ☐ outra: 
+Limite inferencial 
+Não confundir resolução operativa ou densificação normativa 
+com implementação administrativa, eficácia social ou 
+transformação material. 
+12 SÍNTESE ANALÍTICA DO NÚCLEO 
+Campo 
+Registro 
+Identificação do núcleo 
+ 
+Resolução operativa 
+☐ Sem resolução operativa 
+☐ Com resolução operativa 
+☐ Não classificável 
+Interesse nacional — concretização 
+normativa 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Interesse nacional — função 
+simbólica 
+☐ Não aplicável 
+☐ Sem indicador suficiente 
+☐ Indícios 
+☐ Função simbólica demonstrada 
+☐ Inconclusivo 
+ 
+Campo 
+Registro 
+Função social da propriedade — 
+concretização normativa 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Função social da propriedade — 
+função simbólica 
+☐ Não aplicável 
+☐ Sem indicador suficiente 
+☐ Indícios 
+☐ Função simbólica demonstrada 
+☐ Inconclusivo 
+Meio ambiente ecologicamente 
+equilibrado — concretização 
+normativa 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ Inconclusivo 
+Meio ambiente ecologicamente 
+equilibrado — função simbólica 
+☐ Não aplicável 
+☐ Sem indicador suficiente 
+☐ Indícios 
+☐ Função simbólica demonstrada 
+☐ Inconclusivo 
+Planos da concretização normativa e 
+da função simbólica e registros 
+localizados associados 
+Para cada princípio, distinguir voto/corrente do resultado 
+institucional. Identificar o registro de origem de cada 
+categoria, sem concatenar classificações heterogêneas. 
+Categorias jurídicas prevalentes 
+ 
+Assimetria entre os princípios 
+ 
+Interpretação qualitativa 
+ 
+Insuficiência documental 
+ 
+Pendência de revisão dirigida 
+☐ não  ☐ sim – variáveis e motivo: 
+Alerta de pseudorreplicação 
+ 
+ 
+13 SÍNTESE DA DECISÃO 
+Núcl
+eo 
+Resolução 
+operativa 
+Princípio 
+Concretização 
+normativa 
+Função 
+simbólica 
+Observação 
+1 
+ 
+Interesse nacional 
+ 
+ 
+ 
+1 
+ 
+Função social da 
+propriedade 
+ 
+ 
+ 
+1 
+ 
+Meio ambiente 
+ecologicamente 
+equilibrado 
+ 
+ 
+ 
+2 
+ 
+Interesse nacional 
+ 
+ 
+ 
+2 
+ 
+Função social da 
+propriedade 
+ 
+ 
+ 
+2 
+ 
+Meio ambiente 
+ecologicamente 
+equilibrado 
+ 
+ 
+ 
+3 
+ 
+Interesse nacional 
+ 
+ 
+ 
+3 
+ 
+Função social da 
+propriedade 
+ 
+ 
+ 
+3 
+ 
+Meio ambiente 
+ecologicamente 
+equilibrado 
+ 
+ 
+ 
+4 
+ 
+Interesse nacional 
+ 
+ 
+ 
+4 
+ 
+Função social da 
+propriedade 
+ 
+ 
+ 
+4 
+ 
+Meio ambiente 
+ecologicamente 
+equilibrado 
+ 
+ 
+ 
+5 
+ 
+Interesse nacional 
+ 
+ 
+ 
+5 
+ 
+Função social da 
+propriedade 
+ 
+ 
+ 
+5 
+ 
+Meio ambiente 
+ecologicamente 
+equilibrado 
+ 
+ 
+ 
+            
+Campo 
+Registro 
+A decisão resolveu operativamente 
+a controvérsia? 
+ 
+Quais princípios foram 
+normativamente concretizados? 
+ 
+ 
+Campo 
+Registro 
+Quais permaneceram ausentes, 
+contextuais ou não densificados? 
+ 
+Houve indício ou demonstração de 
+função simbólica? Em qual nível? 
+Identificar princípio, núcleo, voto/corrente ou decisão 
+institucional e evidência de referência. Não transferir Função 
+simbólica demonstrada localizada automaticamente à Corte. 
+Quais categorias estruturaram a 
+fundamentação? 
+ 
+Há assimetria entre Interesse 
+nacional, Função social da 
+propriedade e Meio ambiente 
+ecologicamente equilibrado? 
+ 
+A ratio institucional pôde ser 
+reconstruída? 
+ 
+Limites documentais e inferenciais 
+ 
+Pendências de revisão que afetam a 
+síntese 
+Indicar os controles da seção 15 e quais resultados 
+permanecem provisórios. 
+Pontos comparáveis no conjunto das 
+decisões 
+ 
+ 
+14 PERFIL MULTIDIMENSIONAL DA DECISÃO 
+Não atribuir automaticamente classificação única “simbólica”, “concretizadora” ou “mista”. 
+Registrar os eixos separadamente. As sínteses institucionais devem distinguir os registros de 
+voto/corrente e preservar perfis heterogêneos. Não agregar por simples maioria dos núcleos 
+nem tratar Campo aplicável ainda não preenchido ou Registro provisório pendente de 
+conferência como resultado substantivo. Inconclusivo, na síntese, refere-se à inconclusividade 
+analítica; a pendência administrativa é registrada à parte. 
+Campo 
+Registro 
+Resolução operativa 
+☐ todos os núcleos  ☐ parte dos núcleos  ☐ ausente  ☐ 
+inconclusiva 
+ 
+Campo 
+Registro 
+Concretização normativa — 
+Interesse nacional 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ heterogênea 
+☐ Inconclusivo 
+Função simbólica — Interesse 
+nacional 
+☐ Não aplicável 
+☐ Sem indicador suficiente 
+☐ Indícios 
+☐ Função simbólica demonstrada 
+☐ heterogênea 
+☐ Inconclusivo 
+Concretização normativa — Função 
+social da propriedade 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ heterogênea 
+☐ Inconclusivo 
+Função simbólica — Função social 
+da propriedade 
+☐ Não aplicável 
+☐ Sem indicador suficiente 
+☐ Indícios 
+☐ Função simbólica demonstrada 
+☐ heterogênea 
+☐ Inconclusivo 
+Concretização normativa — Meio 
+ambiente ecologicamente 
+equilibrado 
+☐ Não mobilizado 
+☐ Presença contextual/discursiva 
+☐ Fundamento determinante sem densificação 
+☐ Concretização no caso 
+☐ Concretização institucional com critério potencialmente 
+replicável 
+☐ heterogênea 
+☐ Inconclusivo 
+ 
+Campo 
+Registro 
+Função simbólica — Meio ambiente 
+ecologicamente equilibrado 
+☐ Não aplicável 
+☐ Sem indicador suficiente 
+☐ Indícios 
+☐ Função simbólica demonstrada 
+☐ heterogênea 
+☐ Inconclusivo 
+Padrão decisório predominante 
+ 
+Planos das evidências e condições 
+de incorporação institucional 
+ 
+Resultado que contraria a hipótese 
+ 
+Conclusão limitada à decisão 
+ 
+Controles pendentes e repercussão 
+na conclusão 
+Remeter à seção 15; diferenciar conclusão substantiva e 
+código provisório. 
+Nota. A decisão individual pode apresentar concretização normativa, déficit de densificação, 
+não mobilização, uso discursivo, indícios de função simbólica ou função simbólica 
+demonstrada. A caracterização de constitucionalização simbólica em sentido teórico amplo 
+permanece reservada à análise comparativa do conjunto. 
+15 CONTROLE DE CONSISTÊNCIA SEGURANÇA E RASTREABILIDADE DA 
+CODIFICAÇÃO 
+Campo 
+Registro 
+Decisão, núcleo, princípio, plano e 
+variável 
+ 
+Categoria substantiva registrada 
+antes da revisão dirigida 
+ 
+Marcador administrativo do registro 
+☐ nenhum 
+☐ Não aplicável 
+☐ Informação não disponível ou não localizada 
+☐ Inconclusivo — evidência examinada insuficiente 
+☐ Campo aplicável ainda não preenchido 
+☐ Registro provisório pendente de conferência 
+Motivo e campo a que se aplica: ____ 
+Categoria alternativa considerada 
+ 
+Razão da dúvida, incompatibilidade 
+ou revisão 
+ 
+ 
+Campo 
+Registro 
+Natureza do alerta 
+☐ incompatibilidade entre categorias 
+☐ combinação não prevista 
+☐ insuficiência documental 
+☐ pendência de preenchimento 
+☐ exceção de Função simbólica demonstrada 
+☐ outra: ____ 
+Evidência textual e localização 
+ 
+Autoria e posição institucional 
+ 
+Grau de segurança 
+☐ alta  ☐ média  ☐ baixa  ☐ inconclusiva 
+Impacto potencial sobre síntese ou 
+conclusão 
+☐ nenhum  ☐ possível  ☐ demonstrado  ☐ inconclusivo 
+Análise de sensibilidade necessária? ☐ não  ☐ sim – registrar cenário: 
+Decisão final  
+☐ manter categoria 
+☐ alterar categoria 
+☐ manter inconclusivo — justificativa: ____ 
+Status da revisão 
+☐ não necessária  ☐ pendente  ☐ concluída 
+Revisão dirigida obrigatória. Submeter à pesquisadora: fronteira entre núcleos; distinção entre 
+Genérica/ornamental, Relevante sem participação determinante e Fundamento determinante; 
+Obstáculo 
+processual/institucional 
+em 
+relação 
+a 
+Não 
+mobilizado 
+ou 
+Presença 
+contextual/discursiva; Voto não prevalecente com pretensão de incorporação institucional; 
+distinção entre Conteúdo não densificado e Densificação no caso/corrente; distinção entre 
+Densificação no caso/corrente e Densificação institucional com critério potencialmente 
+replicável; distinção entre Contribuição compartilhada e Presença contextual; combinação 
+Fundamento determinante, Conteúdo não densificado, Atribuição de critério não demonstrada 
+e Fundamento determinante sem densificação; distinção entre Indícios e Função simbólica 
+demonstrada; Função simbólica demonstrada fora de Relevante sem participação determinante; 
+substituição funcional/categoria adjacente; fundamentação fragmentada; segurança baixa ou 
+inconclusiva; Registro provisório pendente de conferência; incompatibilidade lógica; 
+combinação não prevista; resposta múltipla não estruturada; ou categoria alternativa capaz de 
+afetar síntese ou conclusão. Registrar problema, evidência, categoria anterior, alternativa, 
+plano, impacto, decisão final e data da ratificação. Campo aplicável ainda não preenchido gera 
+pendência de completude, sem simular análise realizada. Não alterar categorias 
+automaticamente. 
+ 
+16 AUDITORIA FINAL 
+Campo 
+Registro 
+Todos os núcleos têm problema, 
+fundamento, resposta e 
+consequência próprios? 
+☐ sim  ☐ não  ☐ rever 
+Resultado e fundamentos 
+majoritários foram diferenciados? 
+☐ sim  ☐ não  ☐ não aplicável 
+Todas as classificações têm trecho e 
+localização verificável? 
+☐ sim  ☐ não 
+Autoria e posição institucional 
+foram registradas? 
+☐ sim  ☐ não 
+Densificação no caso/corrente ou 
+Densificação institucional com 
+critério potencialmente replicável 
+possuem Contribuição própria ao 
+critério ou Contribuição 
+compartilhada demonstrada? 
+☐ sim  ☐ não  ☐ não aplicável 
+Função simbólica demonstrada 
+satisfaz todos os requisitos 
+cumulativos? 
+☐ sim  ☐ não  ☐ não aplicável 
+Conferir as condições específicas abaixo. 
+Explicações alternativas foram 
+testadas antes de Indícios ou Função 
+simbólica demonstrada? 
+☐ sim  ☐ não  ☐ não aplicável 
+Ausência foi distinguida de 
+simbolismo? 
+☐ sim  ☐ não 
+Implementação foi separada de 
+concretização normativa? 
+☐ sim  ☐ não 
+Pontos de segurança baixa ou 
+inconclusiva foram submetidos à 
+revisão dirigida? 
+☐ sim  ☐ não  ☐ não aplicável 
+Há alerta sobre núcleos aninhados 
+na mesma decisão? 
+☐ sim  ☐ não 
+Pendências para conferência manual  
+Respostas múltiplas foram 
+registradas sem escolha silenciosa 
+ou célula vazia ambígua? 
+☐ sim  ☐ não  ☐ não aplicável 
+ 
+Campo 
+Registro 
+Não aplicável, Informação não 
+disponível ou não localizada, 
+Inconclusivo — evidência 
+examinada insuficiente, Campo 
+aplicável ainda não preenchido, 
+Registro provisório pendente de 
+conferência e células vazias 
+obedecem às regras do protocolo? 
+☐ sim  ☐ não 
+As combinações entre posição do 
+princípio na fundamentação, 
+densificação normativa, atribuição 
+normativa e concretização 
+normativa são compatíveis? 
+☐ sim  ☐ não  ☐ rever 
+Não aplicável, Sem indicador 
+suficiente, Indícios, Função 
+simbólica demonstrada e 
+Inconclusivo obedecem às regras de 
+aplicação da função simbólica? 
+☐ sim  ☐ não  ☐ rever 
+Alertas lógicos foram examinados 
+sem alteração automática de 
+códigos? 
+☐ sim  ☐ não 
+Toda categoria alterada foi 
+ratificada pela pesquisadora? 
+☐ sim  ☐ não  ☐ não aplicável 
+Categoria alternativa com impacto 
+foi submetida à análise de 
+sensibilidade? 
+☐ sim  ☐ não  ☐ não aplicável 
+Densificação institucional com 
+critério potencialmente replicável 
+está apoiada em incorporação 
+institucional e não apenas em voto 
+não prevalecente? 
+☐ sim  ☐ não  ☐ não aplicável 
+Genérica/ornamental e Relevante 
+sem participação determinante 
+preservam Presença 
+contextual/discursiva, e Obstáculo 
+processual/institucional distingue 
+ausência de mobilização de 
+presença com exame obstado? 
+☐ sim  ☐ não  ☐ não aplicável 
+ 
+Campo 
+Registro 
+A combinação Fundamento 
+determinante, Conteúdo não 
+densificado, Atribuição de critério 
+não demonstrada e Fundamento 
+determinante sem densificação 
+demonstra papel determinante e 
+ausência de critério densificado 
+atribuível, sem uso de Presença 
+contextual na atribuição normativa 
+no mesmo segmento? 
+☐ sim  ☐ não  ☐ não aplicável 
+Incompatibilidade ou lacuna de 
+regra gera controle próprio, sem 
+conversão automática em 
+concretização normativa 
+inconclusiva? 
+☐ sim  ☐ não  ☐ não aplicável 
+Função simbólica demonstrada fora 
+da categoria Relevante sem 
+participação determinante tem 
+justificativa da exceção, 
+mobilização relevante, 
+compatibilidade com Baixa 
+contribuição normativa e plano 
+explícito? 
+☐ sim  ☐ não  ☐ não aplicável 
+Função simbólica demonstrada tem 
+entrada afirmativa, mobilização 
+relevante, Proeminência discursiva 
+média ou alta, Baixa contribuição 
+normativa demonstrada e 
+Discrepância interna presente? 
+☐ sim  ☐ não  ☐ não aplicável 
+Função simbólica demonstrada tem 
+Função identificável e mecanismo 
+demonstrados, Função político-
+ideológica demonstrada no plano 
+discursivo e evidência com 
+localização, autoria e posição 
+institucional? 
+☐ sim  ☐ não  ☐ não aplicável 
+Todos os requisitos de Função 
+simbólica demonstrada se referem 
+ao princípio e plano delimitados, 
+com alternativas plausíveis 
+afastadas? 
+☐ sim  ☐ não  ☐ não aplicável 
+ 
+Campo 
+Registro 
+Não aplicável, Sem indicador 
+suficiente, Indícios e Inconclusivo, 
+como categorias de função 
+simbólica, distinguem 
+aplicabilidade, resultado negativo, 
+indício positivo e insuficiência, sem 
+confusão com Campo aplicável 
+ainda não preenchido ou Registro 
+provisório pendente de conferência? 
+☐ sim  ☐ não  ☐ rever 
+As alternativas foram avaliadas por 
+sua capacidade explicativa, 
+preservando fatos processuais e o 
+alcance da inferência? 
+☐ sim  ☐ não  ☐ não aplicável 
+ 

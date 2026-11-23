@@ -1,5 +1,14 @@
 # Briefing para a codificação das decisões (agentes auxiliares)
 
+> **Nota sobre os caminhos (repositório).** Este briefing foi escrito para a pasta de trabalho do projeto. Neste repositório, os arquivos citados estão em `metodo/`:
+> - textos de referência: `metodo/regras_capitulo6_limpo.txt`, `metodo/questionario_v5.txt`, `metodo/prompt_suzy_v5.md`, `metodo/catalogo_perguntas.txt`;
+> - modelos de codificação: `metodo/codificacao/`;
+> - `decisoes.sqlite` e `dicionario_campos.json`: `metodo/`;
+> - scripts: `metodo/scripts/`.
+>
+> O utilitário `scripts/dump_texto.py`, que gerava o texto de leitura com marcadores de página, não acompanha o repositório. As pastas `leitura/` e `tmp/` eram pastas de trabalho geradas durante a codificação.
+
+
 Projeto: tese de doutorado de Suzy Sousa (UFPA). Aplicação do "Instrumento de análise dos núcleos decisórios e de classificação pelo índice A/B/C" (v5.0) a decisões do STF sobre direito minerário. Você faz o **pré-preenchimento** de uma ou mais decisões. Todas as classificações são provisórias; quem decide é a pesquisadora. Trabalhe em **português**.
 
 Pasta do projeto: `/home/claude/projeto` (rode todos os comandos a partir dela).
