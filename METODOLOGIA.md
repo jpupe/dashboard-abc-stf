@@ -2,7 +2,7 @@
 
 *Apêndice de método da tese de Suzy Sousa (UFPA).*
 
-Este documento descreve o método usado para produzir:
+Este documento descreve o método empregado na produção de:
 
 - o banco final `data/banco_ABC_STF_mineracao.xlsx`;
 - o painel em Streamlit deste repositório (`app.py`).
@@ -13,7 +13,7 @@ Este documento descreve o método usado para produzir:
 
 ## 1. Objetivo e escopo
 
-O trabalho aplicou o *Instrumento de análise dos núcleos decisórios e de classificação pelo índice A/B/C* (versão 5.0) a um conjunto fechado de **27 decisões do Supremo Tribunal Federal sobre direito minerário**. O resultado foi organizado em um banco de dados auditável, um dicionário de dados e um painel visual.
+Foi aplicado o *Instrumento de análise dos núcleos decisórios e de classificação pelo índice A/B/C* (versão 5.0) a um conjunto fechado de **27 decisões do Supremo Tribunal Federal sobre direito minerário**. O resultado foi organizado em um banco de dados auditável, um dicionário de dados e um painel visual.
 
 | Classe | Decisões |
 |---|---|
@@ -137,7 +137,7 @@ O dicionário (`dicionario_dados_banco_ABC.xlsx`) reúne as abas Leia-me, Coluna
 
 Cada decisão foi lida **integralmente** a partir do banco SQLite. As decisões longas foram lidas em partes (voto a voto) e passaram depois por uma consolidação final do mapa de núcleos, da maioria quanto ao fundamento e das sínteses.
 
-Para dar conta do volume, a leitura foi distribuída entre instâncias do mesmo modelo, que trabalharam em paralelo com instruções idênticas.
+Em razão do volume, a leitura foi distribuída entre instâncias do mesmo modelo, que trabalharam em paralelo com instruções idênticas.
 
 ### 6.2 Procedimento por decisão
 
@@ -312,7 +312,7 @@ No mapa, cada decisão aparece na capital do estado de origem do processo. As a�
 
 ### 10.4 Atualização
 
-Depois da validação da pesquisadora, basta substituir `data/banco_ABC_STF_mineracao.xlsx` por um arquivo de mesmo nome e fazer commit. O painel recalcula as contagens, e o aviso desaparece quando todas as classificações estiverem validadas.
+Após a validação da pesquisadora, a atualização do painel consiste na substituição de `data/banco_ABC_STF_mineracao.xlsx` por um arquivo de mesmo nome no repositório. O painel recalcula as contagens, e o aviso desaparece quando todas as classificações estiverem validadas.
 
 ---
 
@@ -322,7 +322,7 @@ A pesquisadora revisa cada resposta nas colunas amarelas do banco: **Concorda?**
 
 Para orientar a revisão, há dois apoios:
 
-- **Registros de controle da seção 15.** Para vê-los, filtre a coluna "Grupo da pergunta" pela seção 15.
+- **Registros de controle da seção 15**, localizáveis no banco pelo filtro da coluna "Grupo da pergunta".
 - **Documento `metodo/pendencias_para_a_pesquisadora.md`.** Reúne:
   - as escolhas de uniformização entre decisões julgadas em conjunto;
   - os casos-chave do interesse nacional;
